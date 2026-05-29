@@ -8,8 +8,7 @@
 
 <div align="center">
   <!-- TODO: Replace with actual screenshot links -->
-  <img src="./assets/screenshot_desktop.png" alt="ResQAI Desktop Dashboard" width="48%">
-  <img src="./assets/screenshot_mobile.png" alt="ResQAI Mobile Chat" width="48%">
+<img width="1916" height="904" alt="image" src="https://github.com/user-attachments/assets/f9384372-2039-4abc-8bf0-38a026b48b70" />
 </div>
 
 ---
@@ -87,13 +86,14 @@ npm run dev
 > **Note to developer:** *Place your stunning UI screenshots here! Save images to the `assets/` folder in the repository root and update the paths below.*
 
 ### Login / Authentication
-![Login Screen Placeholder](./assets/login_screen.png)
+<img width="1902" height="900" alt="image" src="https://github.com/user-attachments/assets/5211755b-a65c-4426-9365-0eb70d96b4ef" />
+
 
 ### Emergency Chat Interface
-![Chat Interface Placeholder](./assets/chat_interface.png)
+<img width="1918" height="904" alt="image" src="https://github.com/user-attachments/assets/a048115f-e2ba-42b1-80c5-211dc16eeb36" />
 
-### Response Generation
-![AI Response Placeholder](./assets/ai_response.png)
+
+
 
 ---
 
