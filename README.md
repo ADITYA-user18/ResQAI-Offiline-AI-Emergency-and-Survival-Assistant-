@@ -95,6 +95,10 @@ npm run dev
 ### Emergency Chat Interface
 <img width="1918" height="904" alt="image" src="https://github.com/user-attachments/assets/a048115f-e2ba-42b1-80c5-211dc16eeb36" />
 
+### Project Architecture Diagram
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f4c381f7-d4d7-4871-920d-a0a63e77fb0a" />
+
+
 
 
 
