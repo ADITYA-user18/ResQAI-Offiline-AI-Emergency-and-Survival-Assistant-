@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/logo.png" alt="ResQAI Logo" width="150"/>
+ 
   <h1>ResQAI 🛡️</h1>
   <p><strong>Fully Offline AI Emergency & Survival Assistant</strong></p>
   <p>ResQAI is a local-first, privacy-focused AI companion designed to provide critical first-aid, survival, and emergency response instructions—even when the power grid fails and the internet goes down.</p>
@@ -9,6 +9,9 @@
 <div align="center">
   <!-- TODO: Replace with actual screenshot links -->
 <img width="1916" height="904" alt="image" src="https://github.com/user-attachments/assets/f9384372-2039-4abc-8bf0-38a026b48b70" />
+
+  <img width="1919" height="907" alt="image" src="https://github.com/user-attachments/assets/b8a26cee-495b-4c1a-a04d-f4f05615f8df" />
+
 </div>
 
 ---
