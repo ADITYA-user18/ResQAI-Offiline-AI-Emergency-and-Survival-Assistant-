@@ -1,0 +1,68 @@
+[
+  {
+    "id": "FA015-1",
+    "title": "Mild to Moderate Asthma Attack",
+    "category": "FirstAid",
+    "severity": "Moderate",
+    "symptoms": [
+      "Shortness of breath",
+      "Wheezing (a whistling sound when breathing)",
+      "Chest tightness",
+      "Coughing"
+    ],
+    "immediate_steps": [
+      "Help the person sit comfortably upright",
+      "Reassure them and keep them calm",
+      "Help them use their reliever inhaler (usually blue), ideally with a spacer: 1 puff every 30-60 seconds, up to 10 puffs",
+      "Encourage slow, deep breaths",
+      "If symptoms improve, continue to monitor them"
+    ],
+    "avoid": [
+      "Do not lay the person down",
+      "Do not leave them alone",
+      "Do not expose them to known triggers (smoke, cold air)"
+    ],
+    "keywords": [
+      "asthma",
+      "wheeze",
+      "inhaler",
+      "breathing",
+      "cough",
+      "chest tightness"
+    ]
+  },
+  {
+    "id": "FA015-2",
+    "title": "Severe Asthma Attack",
+    "category": "FirstAid",
+    "severity": "Critical",
+    "symptoms": [
+      "Severe breathlessness (cannot finish a sentence)",
+      "Inhaler has no effect",
+      "Exhaustion",
+      "Blue lips or fingers (cyanosis)",
+      "Silent chest (no wheezing because air is not moving)",
+      "Confusion or drowsiness"
+    ],
+    "immediate_steps": [
+      "Call emergency services immediately",
+      "Help the person sit up and lean slightly forward",
+      "Continue helping them use their reliever inhaler (1 puff every 30-60 seconds, up to 10 puffs, and repeat after 15 minutes if help hasn't arrived)",
+      "Stay calm and keep the person as calm as possible",
+      "Loosen tight clothing"
+    ],
+    "avoid": [
+      "Do not wait to call an ambulance if the inhaler is not working",
+      "Do not force them to lie flat",
+      "Do not offer drinks"
+    ],
+    "keywords": [
+      "asthma",
+      "severe",
+      "cannot breathe",
+      "inhaler fails",
+      "cyanosis",
+      "silent chest"
+    ]
+  }
+]

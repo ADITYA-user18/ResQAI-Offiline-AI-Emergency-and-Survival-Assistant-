@@ -1,0 +1,200 @@
+[
+  {
+    "id": "SURV001-1",
+    "title": "Boiling Water",
+    "category": "Survival",
+    "severity": "Critical",
+    "symptoms": [
+      "Found a natural water source",
+      "No modern filtration available"
+    ],
+    "immediate_steps": [
+      "Filter the water through a cloth to remove large debris",
+      "Bring the water to a rolling boil over a fire or stove",
+      "Maintain the rolling boil for at least 1 minute (3 minutes at high altitudes above 6,500 feet)",
+      "Let the water cool naturally before drinking",
+      "Store in clean containers"
+    ],
+    "avoid": [
+      "Do not drink stagnant water",
+      "Do not assume clear water is safe",
+      "Do not shorten the boiling time"
+    ],
+    "keywords": [
+      "water",
+      "purification",
+      "boil",
+      "pathogens",
+      "hydration",
+      "drink"
+    ]
+  },
+  {
+    "id": "SURV001-2",
+    "title": "Chemical Purification (Iodine/Bleach)",
+    "category": "Survival",
+    "severity": "Critical",
+    "symptoms": [
+      "Cannot start a fire",
+      "Have access to household bleach or iodine tablets"
+    ],
+    "immediate_steps": [
+      "Filter water through a cloth to remove sediment",
+      "For liquid bleach (unscented, 5-9% sodium hypochlorite): add 2 drops per quart (liter) of water",
+      "Stir and let stand for 30 minutes. Water should have a slight chlorine odor",
+      "For iodine tablets: follow package instructions (usually 2 tablets per quart)",
+      "Let sit for at least 30 minutes before drinking"
+    ],
+    "avoid": [
+      "Do not use scented, color-safe, or added-cleaner bleach",
+      "Do not use iodine continuously for more than a few weeks",
+      "Pregnant women should avoid iodine"
+    ],
+    "keywords": [
+      "water",
+      "bleach",
+      "iodine",
+      "chemical",
+      "purify",
+      "disinfect"
+    ]
+  },
+  {
+    "id": "SURV001-3",
+    "title": "Lost In Forest - Water Procurement",
+    "category": "Survival",
+    "severity": "Critical",
+    "symptoms": [
+      "Thirst",
+      "Lost in forest"
+    ],
+    "immediate_steps": [
+      "Search for moving water sources such as streams and flowing rivers when available",
+      "Purify water before consumption whenever possible by boiling, filtering or using purification tablets",
+      "Collect rainwater if available",
+      "Reduce unnecessary physical activity to minimize dehydration and conserve body fluids"
+    ],
+    "avoid": [
+      "Avoid drinking stagnant or contaminated water directly"
+    ],
+    "keywords": [
+      "water",
+      "dehydration",
+      "stream",
+      "river",
+      "purification",
+      "rainwater",
+      "survival",
+      "hydration"
+    ]
+  },
+  {
+    "id": "SURV001-4",
+    "title": "Water Purification - Safe Water Sources",
+    "category": "Survival",
+    "severity": "Critical",
+    "symptoms": [
+      "Looking for safe water"
+    ],
+    "immediate_steps": [
+      "Prefer flowing water sources such as streams and rivers over stagnant water",
+      "Rainwater collected directly is generally safer than standing water",
+      "Water from ponds and stagnant pools must be purified before use"
+    ],
+    "avoid": [
+      "Avoid water sources containing unusual color, odor, foam or visible contamination"
+    ],
+    "keywords": [
+      "water",
+      "purification",
+      "stream",
+      "river",
+      "rainwater",
+      "contamination",
+      "survival",
+      "hydration",
+      "safe water"
+    ]
+  },
+  {
+    "id": "SURV001-5",
+    "title": "Water Purification - Boiling Method",
+    "category": "Survival",
+    "severity": "Critical",
+    "symptoms": [
+      "Need to kill microorganisms in water"
+    ],
+    "immediate_steps": [
+      "Bring water to a rolling boil and maintain it for at least one minute",
+      "In high altitude areas, boil for at least three minutes",
+      "Allow the water to cool naturally before drinking",
+      "Store boiled water in a clean container to avoid recontamination"
+    ],
+    "avoid": [
+      "Boiling does not remove chemical pollutants (only effective against bacteria, viruses, parasites)"
+    ],
+    "keywords": [
+      "boil",
+      "water",
+      "purification",
+      "microorganisms",
+      "bacteria",
+      "virus",
+      "survival",
+      "safe drinking"
+    ]
+  },
+  {
+    "id": "SURV001-6",
+    "title": "Water Purification - Filtration Methods",
+    "category": "Survival",
+    "severity": "High",
+    "symptoms": [
+      "Water is dirty or suspended particles are present"
+    ],
+    "immediate_steps": [
+      "Filter water using cloth, sand, gravel, or commercial filters",
+      "Create a simple improvised filter by layering cloth, charcoal, sand, and small stones",
+      "After filtration, water should be boiled if possible for complete purification"
+    ],
+    "avoid": [
+      "Avoid drinking directly filtered water from unknown sources without boiling (filtration does not guarantee removal of pathogens)"
+    ],
+    "keywords": [
+      "filter",
+      "water",
+      "charcoal",
+      "sand",
+      "gravel",
+      "purification",
+      "survival",
+      "clean water"
+    ]
+  },
+  {
+    "id": "SURV001-7",
+    "title": "Water Purification - Rainwater and Storage Safety",
+    "category": "Survival",
+    "severity": "Moderate",
+    "symptoms": [
+      "Collecting rainwater"
+    ],
+    "immediate_steps": [
+      "Use clean containers to collect rainwater",
+      "Always store water in covered containers to prevent dust, insects and bacteria from entering",
+      "It is recommended to boil or filter rainwater before drinking for maximum safety"
+    ],
+    "avoid": [
+      "Avoid contamination from roofs or dirty surfaces during collection"
+    ],
+    "keywords": [
+      "rainwater",
+      "storage",
+      "container",
+      "purification",
+      "safe water",
+      "survival",
+      "contamination"
+    ]
+  }
+]

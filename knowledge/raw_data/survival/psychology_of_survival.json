@@ -1,0 +1,34 @@
+[
+  {
+    "id": "SURV019-1",
+    "title": "Overcoming Panic and Fear",
+    "category": "Survival",
+    "severity": "Critical",
+    "symptoms": [
+      "Overwhelming anxiety",
+      "Heart racing",
+      "Inability to think clearly",
+      "Feeling of hopelessness"
+    ],
+    "immediate_steps": [
+      "Accept the reality of the situation (denial gets people killed)",
+      "Focus on immediate, achievable tasks (e.g., 'I just need to build a fire right now')",
+      "Talk to yourself out loud to maintain focus and combat loneliness",
+      "Remember that humans are highly resilient and capable of surviving extreme conditions",
+      "Maintain a positive mental attitude (PMA); it is the single most important survival tool"
+    ],
+    "avoid": [
+      "Do not give up (apathy is a killer)",
+      "Do not focus on the 'big picture' if it causes despair; break survival into small steps"
+    ],
+    "keywords": [
+      "fear",
+      "panic",
+      "psychology",
+      "mental",
+      "attitude",
+      "hope",
+      "give up"
+    ]
+  }
+]

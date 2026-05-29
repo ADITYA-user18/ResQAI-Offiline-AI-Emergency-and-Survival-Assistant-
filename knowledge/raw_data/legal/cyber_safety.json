@@ -1,0 +1,29 @@
+[
+  {
+    "id": "LEG005-1",
+    "title": "Cybercrime Reporting & Safety",
+    "category": "Digital India",
+    "severity": "Moderate",
+    "rights": [
+      "Right to report cybercrimes anonymously on the National Cyber Crime Reporting Portal (cybercrime.gov.in)",
+      "Immediate banking protection: Report financial fraud within 3 days to avoid liability",
+      "Protection against non-consensual sharing of intimate images (IT Act)"
+    ],
+    "avoid": [
+      "Do not delete evidence (keep screenshots, URLs, and transaction IDs)",
+      "Do not engage with blackmailers or pay ransoms"
+    ],
+    "emergency_numbers": [
+      "1930 (National Cyber Crime Helpline)"
+    ],
+    "keywords": [
+      "cyber",
+      "fraud",
+      "scam",
+      "hacking",
+      "digital",
+      "blackmail",
+      "online"
+    ]
+  }
+]

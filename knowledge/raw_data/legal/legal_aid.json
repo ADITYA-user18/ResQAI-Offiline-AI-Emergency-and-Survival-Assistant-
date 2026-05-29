@@ -1,0 +1,28 @@
+[
+  {
+    "id": "LEG006-1",
+    "title": "Free Legal Aid Services (NALSA)",
+    "category": "Legal & Rights",
+    "severity": "Low",
+    "rights": [
+      "Women, children, members of SC/ST, industrial workmen, and victims of mass disaster/violence are entitled to FREE legal services",
+      "Persons with an annual income below a certain threshold (varies by state) are eligible",
+      "Right to free legal representation, payment of court fees, and drafting of legal documents"
+    ],
+    "avoid": [
+      "Do not pay bribes or hidden fees to a court-appointed legal aid lawyer"
+    ],
+    "emergency_numbers": [
+      "15100 (NALSA National Helpline)"
+    ],
+    "keywords": [
+      "lawyer",
+      "free",
+      "nalsa",
+      "court",
+      "legal aid",
+      "poor",
+      "help"
+    ]
+  }
+]

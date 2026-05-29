@@ -1,0 +1,105 @@
+[
+  {
+    "id": "FA008-1",
+    "title": "Mild to Moderate Hypothermia",
+    "category": "FirstAid",
+    "severity": "High",
+    "symptoms": [
+      "Constant shivering",
+      "Slurred speech",
+      "Clumsiness",
+      "Apathy or confusion",
+      "Cold, pale skin"
+    ],
+    "immediate_steps": [
+      "Move the person to a warm, dry environment",
+      "Remove wet clothing and replace with dry clothing or blankets",
+      "Cover the head and neck",
+      "Apply warm, dry compresses to the center of the body (chest, neck, groin)",
+      "If fully conscious and able to swallow, give warm, sweet, non-alcoholic beverages"
+    ],
+    "avoid": [
+      "Do not rub or massage the skin",
+      "Do not apply direct heat (like a fire, heating pad, or hot water bottle directly on skin)",
+      "Do not warm the arms and legs first (this forces cold blood back to the heart)",
+      "Do not give alcohol or caffeine"
+    ],
+    "keywords": [
+      "hypothermia",
+      "cold",
+      "shivering",
+      "winter",
+      "exposure",
+      "freezing"
+    ]
+  },
+  {
+    "id": "FA008-2",
+    "title": "Severe Hypothermia",
+    "category": "FirstAid",
+    "severity": "Critical",
+    "symptoms": [
+      "Shivering stops",
+      "Extreme confusion or unconsciousness",
+      "Very slow, shallow breathing",
+      "Weak, irregular, or undetectable pulse",
+      "Stiff muscles"
+    ],
+    "immediate_steps": [
+      "Call emergency services immediately",
+      "Handle the person extremely gently (rough handling can cause cardiac arrest)",
+      "Prevent further heat loss by wrapping in blankets",
+      "If breathing has stopped, begin CPR immediately",
+      "Continue CPR until emergency responders arrive, even if the person feels ice cold and appears dead ('no one is dead until they are warm and dead')"
+    ],
+    "avoid": [
+      "Do not actively rewarm the person rapidly",
+      "Do not shake them",
+      "Do not give up on CPR"
+    ],
+    "keywords": [
+      "hypothermia",
+      "severe",
+      "unconscious",
+      "no shivering",
+      "frozen",
+      "cardiac arrest"
+    ]
+  },
+  {
+    "id": "FA008-3",
+    "title": "Frostbite",
+    "category": "FirstAid",
+    "severity": "High",
+    "symptoms": [
+      "Cold, prickling feeling",
+      "Numbness",
+      "Skin turns red, then white, pale, or grayish-yellow",
+      "Hard or waxy-looking skin",
+      "Blisters after warming"
+    ],
+    "immediate_steps": [
+      "Get out of the cold",
+      "Remove wet clothing and restrictive items (rings)",
+      "Gradually warm the area using body heat (e.g., place frostbitten fingers in armpits)",
+      "Alternatively, soak the area in warm water (100\u00b0F - 105\u00b0F) for 15-30 minutes until skin becomes soft and returns to a normal color",
+      "Loosely bandage the area with sterile dressings; separate fingers or toes with gauze",
+      "Seek medical attention"
+    ],
+    "avoid": [
+      "Do not rub the skin or massage it",
+      "Do not use dry heat (fire, radiator, heating pad)",
+      "Do not walk on frostbitten feet",
+      "Do not thaw the area if there is a chance it will refreeze before getting medical help",
+      "Do not pop blisters"
+    ],
+    "keywords": [
+      "frostbite",
+      "ice",
+      "frozen skin",
+      "fingers",
+      "toes",
+      "numb"
+    ]
+  }
+]

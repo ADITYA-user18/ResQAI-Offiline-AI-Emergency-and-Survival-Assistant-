@@ -1,0 +1,28 @@
+[
+  {
+    "id": "LEG009-1",
+    "title": "Flood Response & Evacuation (NDMA)",
+    "category": "Disaster Relief",
+    "severity": "High",
+    "rights": [
+      "Right to access government relief camps",
+      "Right to rescue operations organized by NDRF and state authorities"
+    ],
+    "avoid": [
+      "Do not walk or drive through moving water (Turn Around, Don't Drown)",
+      "Do not touch electrical equipment if you are wet or standing in water"
+    ],
+    "emergency_numbers": [
+      "1078 (NDRF)",
+      "112 (Emergency)"
+    ],
+    "keywords": [
+      "flood",
+      "water",
+      "ndma",
+      "drowning",
+      "evacuation",
+      "cyclone"
+    ]
+  }
+]

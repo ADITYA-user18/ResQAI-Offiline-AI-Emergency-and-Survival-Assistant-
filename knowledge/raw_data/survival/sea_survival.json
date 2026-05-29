@@ -1,0 +1,62 @@
+[
+  {
+    "id": "SURV017-1",
+    "title": "Stranded in Open Water (Life Raft)",
+    "category": "Survival",
+    "severity": "Critical",
+    "symptoms": [
+      "Shipwreck or plane crash at sea",
+      "Aboard a life raft"
+    ],
+    "immediate_steps": [
+      "Deploy the sea anchor to stabilize the raft and stay near the crash site for rescuers",
+      "Rig a shade canopy to protect from intense sun",
+      "Keep the raft dry by bailing out water",
+      "Collect rainwater using the canopy or containers",
+      "Maintain a continuous watch for ships, aircraft, and land"
+    ],
+    "avoid": [
+      "DO NOT DRINK SEAWATER (it will kill you through kidney failure)",
+      "Do not drink urine",
+      "Do not eat fish or birds unless you have a steady supply of drinking water (digestion consumes water)"
+    ],
+    "keywords": [
+      "ocean",
+      "sea",
+      "raft",
+      "water",
+      "seawater",
+      "stranded",
+      "marine"
+    ]
+  },
+  {
+    "id": "SURV017-2",
+    "title": "Floating without a Raft (Drownproofing)",
+    "category": "Survival",
+    "severity": "Critical",
+    "symptoms": [
+      "In deep water",
+      "No flotation device",
+      "Exhaustion"
+    ],
+    "immediate_steps": [
+      "Take a deep breath and let your body hang limp vertically in the water",
+      "Allow your face to submerge while your lungs keep you buoyant",
+      "When you need to breathe, raise your arms, part your legs, and push down gently to lift your mouth above the surface",
+      "Exhale rapidly, inhale deeply, and return to the relaxed limp position",
+      "If wearing pants, tie the legs in a knot, sweep air into the waist, and use it as a makeshift float"
+    ],
+    "avoid": [
+      "Do not panic and thrash (you will sink and exhaust yourself)",
+      "Do not try to keep your head above water constantly if you are tired"
+    ],
+    "keywords": [
+      "drowning",
+      "floating",
+      "ocean",
+      "water",
+      "drownproofing"
+    ]
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "id": "FA026-1",
+    "title": "Electric Shock - Recognition and Immediate Action",
+    "category": "FirstAid",
+    "severity": "Critical",
+    "symptoms": [
+      "Burns at entry/exit points",
+      "Muscle contractions",
+      "Unconsciousness",
+      "Difficulty breathing",
+      "Irregular heartbeat"
+    ],
+    "immediate_steps": [
+      "Ensure the power supply is turned off or the source is safely disconnected first",
+      "Only approach the victim after ensuring safety",
+      "Check responsiveness and breathing immediately after ensuring safety",
+      "Call emergency services without delay"
+    ],
+    "avoid": [
+      "Do not touch them while they are still in contact with the electrical source"
+    ],
+    "keywords": [
+      "electric shock",
+      "current",
+      "burns",
+      "unconscious",
+      "emergency",
+      "first aid",
+      "cardiac arrest"
+    ]
+  },
+  {
+    "id": "FA026-2",
+    "title": "Electric Shock - Do's and Don'ts and Safety Steps",
+    "category": "FirstAid",
+    "severity": "Critical",
+    "symptoms": [
+      "Electric shock emergency"
+    ],
+    "immediate_steps": [
+      "Switch off the power source or unplug the device before touching the victim",
+      "If power cannot be switched off, use a dry non-conductive object such as wood or plastic to separate the person",
+      "Call emergency services immediately",
+      "Check breathing and pulse once the person is safe"
+    ],
+    "avoid": [
+      "Do not touch the victim directly while they are still in contact with electricity",
+      "Do not use wet objects or metal to separate them",
+      "Do not attempt to move the person before ensuring the area is safe"
+    ],
+    "keywords": [
+      "electric shock",
+      "safety",
+      "do and dont",
+      "current",
+      "first aid",
+      "emergency",
+      "rescue"
+    ]
+  },
+  {
+    "id": "FA026-3",
+    "title": "Electric Shock - Injuries and Internal Effects",
+    "category": "FirstAid",
+    "severity": "High",
+    "symptoms": [
+      "Burns where electricity entered and exited",
+      "Muscle spasms",
+      "Fractures or dislocations from sudden movement"
+    ],
+    "immediate_steps": [
+      "Treat as a severe medical emergency as internal damage can affect muscles, nerves, and organs even if skin injuries appear minor"
+    ],
+    "avoid": [],
+    "keywords": [
+      "electric shock",
+      "burns",
+      "internal injury",
+      "heart",
+      "nerves",
+      "muscles",
+      "first aid",
+      "emergency"
+    ]
+  },
+  {
+    "id": "FA026-4",
+    "title": "Electric Shock - Post Rescue Care and Monitoring",
+    "category": "FirstAid",
+    "severity": "Critical",
+    "symptoms": [
+      "Separated from electrical source"
+    ],
+    "immediate_steps": [
+      "Check breathing and pulse immediately",
+      "Begin CPR if necessary",
+      "Place the person in a recovery position if they are breathing but unconscious",
+      "Monitor continuously for signs of complications such as irregular heartbeat, breathing difficulty, burns, or confusion",
+      "Keep the person warm and comfortable",
+      "Ensure medical evaluation even if the person appears fine (internal injuries and rhythm disturbances may occur later)"
+    ],
+    "avoid": [],
+    "keywords": [
+      "electric shock",
+      "recovery position",
+      "CPR",
+      "first aid",
+      "emergency",
+      "monitoring",
+      "heart"
+    ]
+  }
+]

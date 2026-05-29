@@ -1,0 +1,31 @@
+[
+  {
+    "id": "LEG004-1",
+    "title": "Good Samaritan Law",
+    "category": "Legal & Rights",
+    "severity": "High",
+    "rights": [
+      "A Good Samaritan (bystander who helps an accident victim) cannot be forced to reveal their identity or personal details",
+      "Protection from civil and criminal liability for taking a victim to the hospital",
+      "Hospitals cannot demand payment or delay treatment while waiting for police",
+      "Right to choose not to be a witness in the legal case"
+    ],
+    "avoid": [
+      "Do not hesitate to help a victim due to fear of police harassment",
+      "Do not move a victim with a suspected spinal injury unless they are in immediate life-threatening danger (e.g., vehicle on fire)"
+    ],
+    "emergency_numbers": [
+      "108 (Ambulance)",
+      "112 (National Emergency)",
+      "1033 (NHAI Highway Rescue)"
+    ],
+    "keywords": [
+      "accident",
+      "good samaritan",
+      "help",
+      "hospital",
+      "bystander",
+      "crash"
+    ]
+  }
+]

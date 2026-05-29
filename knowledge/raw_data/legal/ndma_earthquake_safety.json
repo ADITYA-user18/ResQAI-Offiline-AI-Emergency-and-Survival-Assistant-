@@ -1,0 +1,28 @@
+[
+  {
+    "id": "LEG008-1",
+    "title": "Earthquake Preparedness & Response (NDMA)",
+    "category": "Disaster Relief",
+    "severity": "High",
+    "rights": [
+      "Right to state-provided relief and shelter in post-disaster scenarios",
+      "Drop, Cover, and Hold on during shaking",
+      "Move to open areas away from buildings and power lines if outdoors"
+    ],
+    "avoid": [
+      "Do not use elevators during or immediately after an earthquake",
+      "Do not spread unverified rumors about upcoming tremors on social media"
+    ],
+    "emergency_numbers": [
+      "112",
+      "1078 (NDRF)"
+    ],
+    "keywords": [
+      "earthquake",
+      "ndma",
+      "shaking",
+      "collapse",
+      "disaster"
+    ]
+  }
+]

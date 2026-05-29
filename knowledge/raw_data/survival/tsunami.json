@@ -1,0 +1,31 @@
+[
+  {
+    "id": "SURV024-1",
+    "title": "Tsunami Warning or Signs",
+    "category": "Survival",
+    "severity": "Critical",
+    "symptoms": [
+      "Felt a strong earthquake near the coast",
+      "Ocean water rapidly recedes",
+      "Loud roaring sound from the ocean"
+    ],
+    "immediate_steps": [
+      "Do not wait for an official warning if you feel a strong earthquake; evacuate immediately",
+      "Move to higher ground (at least 100 feet above sea level) or go inland as far as possible (at least 2 miles)",
+      "If trapped, climb to the highest floor or roof of a sturdy, reinforced concrete building",
+      "If swept into the water, grab onto a floating object (raft, tree trunk, door)"
+    ],
+    "avoid": [
+      "Do not go to the beach to watch the waves",
+      "Do not assume the danger is over after one wave (tsunamis are a series of waves, and later waves can be larger)"
+    ],
+    "keywords": [
+      "tsunami",
+      "wave",
+      "ocean",
+      "earthquake",
+      "flooding",
+      "high ground"
+    ]
+  }
+]

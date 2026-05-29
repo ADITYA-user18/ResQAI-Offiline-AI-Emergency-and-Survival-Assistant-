@@ -1,0 +1,57 @@
+[
+  {
+    "id": "SURV021-1",
+    "title": "Bear Encounter",
+    "category": "Survival",
+    "severity": "Critical",
+    "symptoms": [
+      "Saw a bear",
+      "Bear is approaching"
+    ],
+    "immediate_steps": [
+      "Identify the bear (Brown/Grizzly vs. Black bear)",
+      "If a Black Bear: stand your ground, make yourself look large, yell, wave your arms, and fight back aggressively if it attacks",
+      "If a Brown/Grizzly Bear: do not make eye contact, back away slowly, speak in a calm voice. If it charges, stand your ground (most are bluff charges). If it makes contact, play dead (lie on stomach, hands over neck, legs spread)"
+    ],
+    "avoid": [
+      "Do not run (bears are faster than horses, running triggers a predatory chase)",
+      "Do not climb a tree (black bears are excellent climbers, grizzlies can reach high)"
+    ],
+    "keywords": [
+      "bear",
+      "grizzly",
+      "animal",
+      "attack",
+      "wildlife",
+      "predator"
+    ]
+  },
+  {
+    "id": "SURV021-2",
+    "title": "Mountain Lion / Cougar Encounter",
+    "category": "Survival",
+    "severity": "Critical",
+    "symptoms": [
+      "Stalked by a big cat"
+    ],
+    "immediate_steps": [
+      "Maintain intense eye contact with the animal",
+      "Make yourself look as large as possible (open your jacket, raise your arms)",
+      "Make loud noises and throw rocks or sticks if it approaches",
+      "If attacked, fight back with everything you have (aim for the eyes and nose)"
+    ],
+    "avoid": [
+      "Do not turn your back",
+      "Do not run",
+      "Do not bend down or crouch (it makes you look like prey)"
+    ],
+    "keywords": [
+      "cougar",
+      "lion",
+      "puma",
+      "cat",
+      "attack",
+      "predator"
+    ]
+  }
+]

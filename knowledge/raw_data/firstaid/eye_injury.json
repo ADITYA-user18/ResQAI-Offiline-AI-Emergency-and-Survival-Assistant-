@@ -1,0 +1,70 @@
+[
+  {
+    "id": "FA017-1",
+    "title": "Foreign Object in the Eye",
+    "category": "FirstAid",
+    "severity": "Moderate",
+    "symptoms": [
+      "Pain",
+      "Tearing",
+      "Redness",
+      "Feeling like something is in the eye",
+      "Sensitivity to light"
+    ],
+    "immediate_steps": [
+      "Wash hands before examining the eye",
+      "Have the person blink rapidly to naturally flush it out",
+      "Flush the eye gently with clean, warm water or saline solution from a cup, small glass, or gentle stream",
+      "Pull the upper eyelid over the lower eyelid to help brush the object out",
+      "If the object remains, cover both eyes (to prevent movement) and seek medical help"
+    ],
+    "avoid": [
+      "Do not rub the eye",
+      "Do not use tweezers, cotton swabs, or anything hard to remove the object",
+      "Do not try to remove an object that is embedded in the eyeball"
+    ],
+    "keywords": [
+      "eye",
+      "object",
+      "dust",
+      "sand",
+      "dirt",
+      "flush",
+      "blink"
+    ]
+  },
+  {
+    "id": "FA017-2",
+    "title": "Chemical Splash in Eye",
+    "category": "FirstAid",
+    "severity": "Critical",
+    "symptoms": [
+      "Intense pain",
+      "Burning",
+      "Redness",
+      "Swelling",
+      "Inability to open the eye"
+    ],
+    "immediate_steps": [
+      "Immediately flush the eye with a steady stream of lukewarm tap water for at least 15-20 minutes",
+      "Hold the eyelid open while flushing",
+      "Flush from the inner corner (near nose) outward",
+      "Remove contact lenses while flushing if possible",
+      "Call emergency services or Poison Control while flushing"
+    ],
+    "avoid": [
+      "Do not stop flushing to remove contacts (do it during)",
+      "Do not bandage the eye",
+      "Do not use any eye drops or chemical neutralizers"
+    ],
+    "keywords": [
+      "eye",
+      "chemical",
+      "splash",
+      "burn",
+      "acid",
+      "flush",
+      "blindness"
+    ]
+  }
+]

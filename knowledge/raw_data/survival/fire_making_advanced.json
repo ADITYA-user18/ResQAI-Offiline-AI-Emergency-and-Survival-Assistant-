@@ -1,0 +1,29 @@
+[
+  {
+    "id": "SURV027-1",
+    "title": "Battery and Steel Wool Fire",
+    "category": "Survival",
+    "severity": "High",
+    "symptoms": [
+      "Need fire",
+      "Have a 9-volt or AA batteries and fine steel wool"
+    ],
+    "immediate_steps": [
+      "Prepare a tinder bundle (dry grass, cotton, dryer lint) and place the steel wool in the center",
+      "Take a 9-volt battery and rub both terminals against the steel wool",
+      "The steel wool will short-circuit the battery and immediately glow red-hot",
+      "Blow gently into the tinder bundle until it catches flame"
+    ],
+    "avoid": [
+      "Do not do this in high winds without shielding the spark",
+      "Do not use coarse steel wool (it requires very fine, e.g., 0000 grade)"
+    ],
+    "keywords": [
+      "fire",
+      "battery",
+      "steel wool",
+      "spark",
+      "tinder"
+    ]
+  }
+]

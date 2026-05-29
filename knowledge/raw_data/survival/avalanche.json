@@ -1,0 +1,29 @@
+[
+  {
+    "id": "SURV023-1",
+    "title": "Caught in an Avalanche",
+    "category": "Survival",
+    "severity": "Critical",
+    "symptoms": [
+      "Snow sliding down mountain",
+      "Swept away by snow"
+    ],
+    "immediate_steps": [
+      "Try to ski or board straight downhill to gather speed, then veer left or right to escape the avalanche path",
+      "If swept up, discard skis and poles (they act as anchors)",
+      "Make swimming motions to fight your way to the surface",
+      "As the snow slows down, cup your hands over your mouth to create an air pocket",
+      "Take a deep breath to expand your chest just before the snow sets (it sets like concrete)"
+    ],
+    "avoid": [
+      "Do not yell once buried (it wastes oxygen; only yell when you hear rescuers directly above you)"
+    ],
+    "keywords": [
+      "avalanche",
+      "snow",
+      "mountain",
+      "buried",
+      "winter"
+    ]
+  }
+]

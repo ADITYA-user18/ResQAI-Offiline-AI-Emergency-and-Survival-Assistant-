@@ -1,0 +1,164 @@
+[
+  {
+    "id": "FA009-1",
+    "title": "Heat Exhaustion",
+    "category": "FirstAid",
+    "severity": "Moderate",
+    "symptoms": [
+      "Heavy sweating",
+      "Cold, pale, and clammy skin",
+      "Fast, weak pulse",
+      "Nausea or vomiting",
+      "Muscle cramps",
+      "Weakness or dizziness",
+      "Headache",
+      "Fainting"
+    ],
+    "immediate_steps": [
+      "Move to a cooler, shaded, or air-conditioned environment",
+      "Lie down and elevate legs slightly",
+      "Loosen or remove heavy clothing",
+      "Sip cool water or a sports drink",
+      "Apply cool, wet cloths to the skin or take a cool bath",
+      "If symptoms worsen or last longer than an hour, seek medical attention"
+    ],
+    "avoid": [
+      "Do not drink ice-cold water too quickly (can cause stomach cramps)",
+      "Do not drink alcohol or caffeine",
+      "Do not ignore symptoms as it can progress to heat stroke"
+    ],
+    "keywords": [
+      "heat exhaustion",
+      "sweating",
+      "cramps",
+      "summer",
+      "overheating",
+      "dizzy"
+    ]
+  },
+  {
+    "id": "FA009-2",
+    "title": "Heat Stroke",
+    "category": "FirstAid",
+    "severity": "Critical",
+    "symptoms": [
+      "High body temperature (103\u00b0F/39.4\u00b0C or higher)",
+      "Hot, red, dry, or damp skin (no sweating)",
+      "Fast, strong pulse",
+      "Headache and dizziness",
+      "Confusion, agitation, or slurred speech",
+      "Nausea",
+      "Seizures",
+      "Loss of consciousness"
+    ],
+    "immediate_steps": [
+      "Call emergency services immediately (this is a medical emergency)",
+      "Move the person to a cool environment",
+      "Rapidly cool the person by immersing them in a cold bath or shower if possible",
+      "Alternatively, sponge with cold water and fan vigorously",
+      "Place ice packs on the neck, armpits, and groin",
+      "Monitor breathing and be prepared for CPR"
+    ],
+    "avoid": [
+      "Do not give the person fluids to drink if they have altered mental status or are vomiting",
+      "Do not give fever-reducing medications like acetaminophen or ibuprofen (they are harmful in heat stroke)",
+      "Do not leave the person alone"
+    ],
+    "keywords": [
+      "heat stroke",
+      "sunstroke",
+      "hot skin",
+      "no sweat",
+      "fever",
+      "unconscious"
+    ]
+  },
+  {
+    "id": "FA012-4",
+    "title": "Heat Stroke - Recognition and Immediate Action",
+    "category": "FirstAid",
+    "severity": "Critical",
+    "symptoms": [
+      "Extremely high body temperature",
+      "Confusion",
+      "Dizziness",
+      "Headache",
+      "Rapid pulse",
+      "Hot and dry skin",
+      "Loss of consciousness"
+    ],
+    "immediate_steps": [
+      "Immediately move the person to a cooler or shaded area",
+      "Remove excess clothing to help cool the body",
+      "Begin cooling measures such as applying cool water to the skin, using wet cloths, or fanning the person",
+      "Call emergency services immediately"
+    ],
+    "avoid": [],
+    "keywords": [
+      "heat stroke",
+      "high temperature",
+      "emergency",
+      "first aid",
+      "confusion",
+      "dehydration",
+      "body heat"
+    ]
+  },
+  {
+    "id": "FA012-5",
+    "title": "Heat Stroke - Symptoms and Risk Factors",
+    "category": "FirstAid",
+    "severity": "High",
+    "symptoms": [
+      "Heavy sweating (early stage)",
+      "Weakness",
+      "Dizziness",
+      "Nausea",
+      "Muscle cramps",
+      "Sweating stops (late stage)",
+      "Skin becomes hot and dry",
+      "Seizures"
+    ],
+    "immediate_steps": [
+      "Identify risk factors: dehydration, direct sun exposure, lack of ventilation, strenuous outdoor activity, wearing heavy/dark clothing"
+    ],
+    "avoid": [],
+    "keywords": [
+      "heat stroke",
+      "symptoms",
+      "dehydration",
+      "sun exposure",
+      "confusion",
+      "emergency",
+      "risk factors"
+    ]
+  },
+  {
+    "id": "FA012-6",
+    "title": "Heat Stroke - Recovery and Medical Care",
+    "category": "FirstAid",
+    "severity": "Critical",
+    "symptoms": [
+      "Recovering from heat stroke",
+      "Unconscious"
+    ],
+    "immediate_steps": [
+      "Immediate medical attention is necessary, even if the person improves after initial cooling",
+      "Continue monitoring body temperature, breathing, and consciousness until help arrives",
+      "Keep the person lying down in a cool environment",
+      "If the person becomes unconscious, place them in a recovery position to maintain airway safety"
+    ],
+    "avoid": [
+      "Do not give any medications unless prescribed by medical professionals"
+    ],
+    "keywords": [
+      "heat stroke",
+      "recovery",
+      "emergency",
+      "hospital",
+      "first aid",
+      "monitoring",
+      "organ damage"
+    ]
+  }
+]

@@ -1,0 +1,2458 @@
+[
+  {
+    "vector_id": 0,
+    "id": "FA014-1",
+    "title": "Mild to Moderate Allergic Reaction",
+    "category": "firstaid",
+    "keywords": [
+      "allergy",
+      "hives",
+      "itch",
+      "rash",
+      "pollen",
+      "pet dander",
+      "mild"
+    ],
+    "priority": "high",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 1,
+    "id": "FA014-2",
+    "title": "Anaphylaxis (Severe Allergic Reaction)",
+    "category": "firstaid",
+    "keywords": [
+      "anaphylaxis",
+      "allergy",
+      "epipen",
+      "swelling",
+      "throat closing",
+      "bee sting",
+      "peanut",
+      "severe"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 2,
+    "id": "FA020-1",
+    "title": "Traumatic Amputation",
+    "category": "firstaid",
+    "keywords": [
+      "amputation",
+      "severed",
+      "cut off",
+      "finger",
+      "limb",
+      "tourniquet"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 3,
+    "id": "FA015-1",
+    "title": "Mild to Moderate Asthma Attack",
+    "category": "firstaid",
+    "keywords": [
+      "asthma",
+      "wheeze",
+      "inhaler",
+      "breathing",
+      "cough",
+      "chest tightness"
+    ],
+    "priority": "high",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 4,
+    "id": "FA015-2",
+    "title": "Severe Asthma Attack",
+    "category": "firstaid",
+    "keywords": [
+      "asthma",
+      "severe",
+      "cannot breathe",
+      "inhaler fails",
+      "cyanosis",
+      "silent chest"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 5,
+    "id": "FA022-1",
+    "title": "Black Widow / Brown Recluse Spider Bite",
+    "category": "firstaid",
+    "keywords": [
+      "spider",
+      "bite",
+      "black widow",
+      "brown recluse",
+      "venom"
+    ],
+    "priority": "high",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 6,
+    "id": "FA022-2",
+    "title": "Tick Removal",
+    "category": "firstaid",
+    "keywords": [
+      "tick",
+      "lyme disease",
+      "bug bite",
+      "tweezers",
+      "woods"
+    ],
+    "priority": "low",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 7,
+    "id": "FA005-1",
+    "title": "Minor Cuts and Scrapes",
+    "category": "firstaid",
+    "keywords": [
+      "cut",
+      "scrape",
+      "minor",
+      "abrasion",
+      "bandaid",
+      "scratch"
+    ],
+    "priority": "low",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 8,
+    "id": "FA005-2",
+    "title": "Severe External Bleeding",
+    "category": "firstaid",
+    "keywords": [
+      "bleeding",
+      "severe",
+      "hemorrhage",
+      "artery",
+      "pressure",
+      "blood loss"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 9,
+    "id": "FA005-3",
+    "title": "Life-Threatening Bleeding (Tourniquet Required)",
+    "category": "firstaid",
+    "keywords": [
+      "tourniquet",
+      "amputation",
+      "life-threatening",
+      "arterial",
+      "massive bleed"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 10,
+    "id": "FA005-4",
+    "title": "Nosebleed (Epistaxis)",
+    "category": "firstaid",
+    "keywords": [
+      "nosebleed",
+      "nose",
+      "face",
+      "blood"
+    ],
+    "priority": "low",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 11,
+    "id": "FA005-5",
+    "title": "Bleeding - Types and Immediate Control",
+    "category": "firstaid",
+    "keywords": [
+      "bleeding",
+      "wound",
+      "blood loss",
+      "arterial",
+      "venous",
+      "capillary",
+      "first aid",
+      "emergency"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 12,
+    "id": "FA005-6",
+    "title": "Bleeding - Pressure and Dressing Techniques",
+    "category": "firstaid",
+    "keywords": [
+      "bleeding",
+      "pressure",
+      "bandage",
+      "wound care",
+      "first aid",
+      "emergency",
+      "blood control"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 13,
+    "id": "FA005-7",
+    "title": "Bleeding - Severe Bleeding and Shock Prevention",
+    "category": "firstaid",
+    "keywords": [
+      "bleeding",
+      "shock",
+      "blood loss",
+      "emergency",
+      "first aid",
+      "pressure",
+      "trauma"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 14,
+    "id": "FA005-8",
+    "title": "Bleeding - Special Cases and Wound Care",
+    "category": "firstaid",
+    "keywords": [
+      "bleeding",
+      "wound care",
+      "nosebleed",
+      "injury",
+      "first aid",
+      "infection",
+      "emergency"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 15,
+    "id": "FA003-1",
+    "title": "First-Degree Burn (Superficial)",
+    "category": "firstaid",
+    "keywords": [
+      "burn",
+      "sunburn",
+      "minor",
+      "red",
+      "first degree",
+      "hot water"
+    ],
+    "priority": "high",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 16,
+    "id": "FA003-2",
+    "title": "Second-Degree Burn (Partial Thickness)",
+    "category": "firstaid",
+    "keywords": [
+      "burn",
+      "blister",
+      "second degree",
+      "painful",
+      "scald",
+      "boiling"
+    ],
+    "priority": "high",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 17,
+    "id": "FA003-3",
+    "title": "Third-Degree Burn (Full Thickness)",
+    "category": "firstaid",
+    "keywords": [
+      "burn",
+      "fire",
+      "third degree",
+      "charred",
+      "severe",
+      "no pain"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 18,
+    "id": "FA003-4",
+    "title": "Chemical Burn",
+    "category": "firstaid",
+    "keywords": [
+      "burn",
+      "chemical",
+      "acid",
+      "bleach",
+      "alkali",
+      "flush",
+      "eye"
+    ],
+    "priority": "high",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 19,
+    "id": "FA003-5",
+    "title": "Burns - Types and Immediate Action",
+    "category": "firstaid",
+    "keywords": [
+      "burns",
+      "heat",
+      "skin damage",
+      "first aid",
+      "blisters",
+      "electric burn",
+      "chemical burn",
+      "emergency"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 20,
+    "id": "FA003-6",
+    "title": "Burns - Do's and Don'ts",
+    "category": "firstaid",
+    "keywords": [
+      "burns",
+      "first aid",
+      "do and dont",
+      "blisters",
+      "infection",
+      "skin injury",
+      "emergency"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 21,
+    "id": "FA003-7",
+    "title": "Burns - Chemical and Electrical Burns",
+    "category": "firstaid",
+    "keywords": [
+      "chemical burn",
+      "electrical burn",
+      "acid",
+      "electric shock",
+      "emergency",
+      "first aid",
+      "skin injury"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 22,
+    "id": "FA003-8",
+    "title": "Burns - Recovery and Infection Prevention",
+    "category": "firstaid",
+    "keywords": [
+      "burns",
+      "infection",
+      "healing",
+      "dressing",
+      "first aid",
+      "skin care",
+      "emergency"
+    ],
+    "priority": "high",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 23,
+    "id": "FA019-1",
+    "title": "Emergency Field Delivery",
+    "category": "firstaid",
+    "keywords": [
+      "childbirth",
+      "baby",
+      "delivery",
+      "labor",
+      "pregnant",
+      "umbilical cord"
+    ],
+    "priority": "high",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 24,
+    "id": "FA006-1",
+    "title": "Adult/Child Choking (Conscious)",
+    "category": "firstaid",
+    "keywords": [
+      "choking",
+      "adult",
+      "child",
+      "heimlich",
+      "abdominal thrusts",
+      "back blows"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 25,
+    "id": "FA006-2",
+    "title": "Infant Choking (Under 1 year)",
+    "category": "firstaid",
+    "keywords": [
+      "choking",
+      "infant",
+      "baby",
+      "chest thrusts",
+      "back blows"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 26,
+    "id": "FA006-3",
+    "title": "Pregnant or Obese Person Choking",
+    "category": "firstaid",
+    "keywords": [
+      "choking",
+      "pregnant",
+      "obese",
+      "chest thrusts",
+      "heimlich"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 27,
+    "id": "FA006-4",
+    "title": "Choking Alone",
+    "category": "firstaid",
+    "keywords": [
+      "choking",
+      "alone",
+      "self",
+      "chair",
+      "heimlich"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 28,
+    "id": "FA006-4-DUP28",
+    "title": "Choking - Recognition and Immediate Action",
+    "category": "firstaid",
+    "keywords": [
+      "choking",
+      "airway",
+      "breathing",
+      "obstruction",
+      "first aid",
+      "emergency",
+      "cough"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 29,
+    "id": "FA006-5",
+    "title": "Choking - Abdominal Thrust (Heimlich Maneuver)",
+    "category": "firstaid",
+    "keywords": [
+      "choking",
+      "heimlich",
+      "abdominal thrust",
+      "airway blockage",
+      "first aid",
+      "emergency",
+      "breathing"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 30,
+    "id": "FA006-6",
+    "title": "Choking - Back Blows and Special Cases",
+    "category": "firstaid",
+    "keywords": [
+      "choking",
+      "back blows",
+      "airway",
+      "infant",
+      "first aid",
+      "emergency",
+      "obstruction"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 31,
+    "id": "FA006-7",
+    "title": "Choking - Unconscious Person and Recovery",
+    "category": "firstaid",
+    "keywords": [
+      "choking",
+      "unconscious",
+      "CPR",
+      "airway",
+      "emergency",
+      "breathing",
+      "first aid"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 32,
+    "id": "FA002-1",
+    "title": "Adult CPR (Hands-Only)",
+    "category": "firstaid",
+    "keywords": [
+      "adult",
+      "cpr",
+      "unconscious",
+      "chest compressions",
+      "heart attack",
+      "hands-only"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 33,
+    "id": "FA002-2",
+    "title": "Child CPR (1 to Puberty)",
+    "category": "firstaid",
+    "keywords": [
+      "child",
+      "cpr",
+      "kid",
+      "unresponsive",
+      "pediatric"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 34,
+    "id": "FA002-3",
+    "title": "Infant CPR (Under 1 year)",
+    "category": "firstaid",
+    "keywords": [
+      "infant",
+      "baby",
+      "cpr",
+      "unresponsive",
+      "blue"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 35,
+    "id": "FA002-4",
+    "title": "CPR - Immediate Assessment and Response",
+    "category": "firstaid",
+    "keywords": [
+      "CPR",
+      "unconscious",
+      "breathing",
+      "emergency",
+      "cardiac arrest",
+      "first aid",
+      "response"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 36,
+    "id": "FA002-5",
+    "title": "CPR - Chest Compressions Technique",
+    "category": "firstaid",
+    "keywords": [
+      "CPR",
+      "chest compression",
+      "heart",
+      "emergency",
+      "resuscitation",
+      "first aid",
+      "cardiac arrest"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 37,
+    "id": "FA002-6",
+    "title": "CPR - Rescue Breathing Basics",
+    "category": "firstaid",
+    "keywords": [
+      "CPR",
+      "rescue breathing",
+      "airway",
+      "breaths",
+      "oxygen",
+      "first aid",
+      "emergency"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 38,
+    "id": "FA021-1",
+    "title": "Crush Syndrome",
+    "category": "firstaid",
+    "keywords": [
+      "crush",
+      "pinned",
+      "rubble",
+      "earthquake collapse",
+      "toxins"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 39,
+    "id": "FA018-1",
+    "title": "Knocked-Out Tooth (Avulsed Tooth)",
+    "category": "firstaid",
+    "keywords": [
+      "tooth",
+      "dental",
+      "knocked out",
+      "mouth",
+      "bleeding",
+      "milk"
+    ],
+    "priority": "medium",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 40,
+    "id": "FA025-1",
+    "title": "Drowning - Recognition and Immediate Action",
+    "category": "firstaid",
+    "keywords": [
+      "drowning",
+      "water",
+      "breathing",
+      "emergency",
+      "first aid",
+      "rescue",
+      "unconscious"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 41,
+    "id": "FA025-2",
+    "title": "Drowning - Rescue Techniques and Safety",
+    "category": "firstaid",
+    "keywords": [
+      "drowning",
+      "rescue",
+      "water safety",
+      "first aid",
+      "emergency",
+      "floatation",
+      "safety"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 42,
+    "id": "FA025-3",
+    "title": "Drowning - CPR After Rescue",
+    "category": "firstaid",
+    "keywords": [
+      "drowning",
+      "CPR",
+      "rescue breaths",
+      "chest compressions",
+      "emergency",
+      "first aid",
+      "breathing"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 43,
+    "id": "FA025-4",
+    "title": "Drowning - Recovery and Post Rescue Care",
+    "category": "firstaid",
+    "keywords": [
+      "drowning",
+      "recovery position",
+      "hypothermia",
+      "first aid",
+      "emergency",
+      "breathing",
+      "hospital"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 44,
+    "id": "FA026-1",
+    "title": "Electric Shock - Recognition and Immediate Action",
+    "category": "firstaid",
+    "keywords": [
+      "electric shock",
+      "current",
+      "burns",
+      "unconscious",
+      "emergency",
+      "first aid",
+      "cardiac arrest"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 45,
+    "id": "FA026-2",
+    "title": "Electric Shock - Do's and Don'ts and Safety Steps",
+    "category": "firstaid",
+    "keywords": [
+      "electric shock",
+      "safety",
+      "do and dont",
+      "current",
+      "first aid",
+      "emergency",
+      "rescue"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 46,
+    "id": "FA026-3",
+    "title": "Electric Shock - Injuries and Internal Effects",
+    "category": "firstaid",
+    "keywords": [
+      "electric shock",
+      "burns",
+      "internal injury",
+      "heart",
+      "nerves",
+      "muscles",
+      "first aid",
+      "emergency"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 47,
+    "id": "FA026-4",
+    "title": "Electric Shock - Post Rescue Care and Monitoring",
+    "category": "firstaid",
+    "keywords": [
+      "electric shock",
+      "recovery position",
+      "CPR",
+      "first aid",
+      "emergency",
+      "monitoring",
+      "heart"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 48,
+    "id": "FA017-1",
+    "title": "Foreign Object in the Eye",
+    "category": "firstaid",
+    "keywords": [
+      "eye",
+      "object",
+      "dust",
+      "sand",
+      "dirt",
+      "flush",
+      "blink"
+    ],
+    "priority": "medium",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 49,
+    "id": "FA017-2",
+    "title": "Chemical Splash in Eye",
+    "category": "firstaid",
+    "keywords": [
+      "eye",
+      "chemical",
+      "splash",
+      "burn",
+      "acid",
+      "flush",
+      "blindness"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 50,
+    "id": "FA004-1",
+    "title": "Closed Fracture (Simple Fracture)",
+    "category": "firstaid",
+    "keywords": [
+      "fracture",
+      "broken bone",
+      "closed",
+      "splint",
+      "deformity",
+      "swelling"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 51,
+    "id": "FA004-2",
+    "title": "Open Fracture (Compound Fracture)",
+    "category": "firstaid",
+    "keywords": [
+      "fracture",
+      "compound",
+      "open",
+      "bone sticking out",
+      "bleeding",
+      "severe"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 52,
+    "id": "FA004-3",
+    "title": "Spinal Injury (Suspected)",
+    "category": "firstaid",
+    "keywords": [
+      "spine",
+      "back",
+      "neck",
+      "paralysis",
+      "fall",
+      "car crash",
+      "immobilize"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 53,
+    "id": "FA004-4",
+    "title": "Fracture - Identification and Immediate Action",
+    "category": "firstaid",
+    "keywords": [
+      "fracture",
+      "bone",
+      "injury",
+      "swelling",
+      "pain",
+      "emergency",
+      "splint",
+      "trauma"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 54,
+    "id": "FA004-5",
+    "title": "Fracture - Splinting and Immobilization",
+    "category": "firstaid",
+    "keywords": [
+      "fracture",
+      "splint",
+      "immobilization",
+      "bone injury",
+      "first aid",
+      "emergency",
+      "bandage"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 55,
+    "id": "FA004-6",
+    "title": "Fracture - Open Fractures and Bleeding Control",
+    "category": "firstaid",
+    "keywords": [
+      "open fracture",
+      "bleeding",
+      "bone injury",
+      "infection",
+      "emergency",
+      "first aid",
+      "wound care"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 56,
+    "id": "FA004-7",
+    "title": "Fracture - Transport and Medical Care",
+    "category": "firstaid",
+    "keywords": [
+      "fracture",
+      "transport",
+      "hospital",
+      "emergency",
+      "shock",
+      "immobilization",
+      "first aid",
+      "injury"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 57,
+    "id": "FA013-1",
+    "title": "Concussion / Mild Traumatic Brain Injury",
+    "category": "firstaid",
+    "keywords": [
+      "concussion",
+      "head impact",
+      "dizziness",
+      "sports injury",
+      "bump"
+    ],
+    "priority": "medium",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 58,
+    "id": "FA013-2",
+    "title": "Severe Head Injury / Skull Fracture",
+    "category": "firstaid",
+    "keywords": [
+      "head injury",
+      "skull fracture",
+      "unconscious",
+      "brain trauma",
+      "bleeding ear",
+      "severe"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 59,
+    "id": "FA011-1",
+    "title": "Suspected Heart Attack",
+    "category": "firstaid",
+    "keywords": [
+      "heart attack",
+      "myocardial infarction",
+      "chest pain",
+      "cardiac",
+      "heart",
+      "aspirin"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 60,
+    "id": "FA009-1",
+    "title": "Heat Exhaustion",
+    "category": "firstaid",
+    "keywords": [
+      "heat exhaustion",
+      "sweating",
+      "cramps",
+      "summer",
+      "overheating",
+      "dizzy"
+    ],
+    "priority": "medium",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 61,
+    "id": "FA009-2",
+    "title": "Heat Stroke",
+    "category": "firstaid",
+    "keywords": [
+      "heat stroke",
+      "sunstroke",
+      "hot skin",
+      "no sweat",
+      "fever",
+      "unconscious"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 62,
+    "id": "FA012-4",
+    "title": "Heat Stroke - Recognition and Immediate Action",
+    "category": "firstaid",
+    "keywords": [
+      "heat stroke",
+      "high temperature",
+      "emergency",
+      "first aid",
+      "confusion",
+      "dehydration",
+      "body heat"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 63,
+    "id": "FA012-5",
+    "title": "Heat Stroke - Symptoms and Risk Factors",
+    "category": "firstaid",
+    "keywords": [
+      "heat stroke",
+      "symptoms",
+      "dehydration",
+      "sun exposure",
+      "confusion",
+      "emergency",
+      "risk factors"
+    ],
+    "priority": "high",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 64,
+    "id": "FA012-6",
+    "title": "Heat Stroke - Recovery and Medical Care",
+    "category": "firstaid",
+    "keywords": [
+      "heat stroke",
+      "recovery",
+      "emergency",
+      "hospital",
+      "first aid",
+      "monitoring",
+      "organ damage"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 65,
+    "id": "FA008-1",
+    "title": "Mild to Moderate Hypothermia",
+    "category": "firstaid",
+    "keywords": [
+      "hypothermia",
+      "cold",
+      "shivering",
+      "winter",
+      "exposure",
+      "freezing"
+    ],
+    "priority": "high",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 66,
+    "id": "FA008-2",
+    "title": "Severe Hypothermia",
+    "category": "firstaid",
+    "keywords": [
+      "hypothermia",
+      "severe",
+      "unconscious",
+      "no shivering",
+      "frozen",
+      "cardiac arrest"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 67,
+    "id": "FA008-3",
+    "title": "Frostbite",
+    "category": "firstaid",
+    "keywords": [
+      "frostbite",
+      "ice",
+      "frozen skin",
+      "fingers",
+      "toes",
+      "numb"
+    ],
+    "priority": "high",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 68,
+    "id": "FA010-1",
+    "title": "Swallowed Poison",
+    "category": "firstaid",
+    "keywords": [
+      "poison",
+      "swallowed",
+      "ingested",
+      "chemical",
+      "pills",
+      "overdose",
+      "toxic"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 69,
+    "id": "FA010-2",
+    "title": "Inhaled Poison (Carbon Monoxide, Chemicals)",
+    "category": "firstaid",
+    "keywords": [
+      "poison",
+      "inhaled",
+      "gas",
+      "carbon monoxide",
+      "smoke",
+      "fumes",
+      "toxic"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 70,
+    "id": "FA010-3",
+    "title": "Poison on the Skin",
+    "category": "firstaid",
+    "keywords": [
+      "poison",
+      "skin",
+      "chemical spill",
+      "pesticide",
+      "absorption"
+    ],
+    "priority": "high",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 71,
+    "id": "FA007-4",
+    "title": "Poisoning - Identification and Immediate Action",
+    "category": "firstaid",
+    "keywords": [
+      "poisoning",
+      "toxic",
+      "emergency",
+      "first aid",
+      "chemical",
+      "ingestion",
+      "symptoms"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 72,
+    "id": "FA007-5",
+    "title": "Poisoning - Do's and Don'ts",
+    "category": "firstaid",
+    "keywords": [
+      "poisoning",
+      "toxic",
+      "first aid",
+      "emergency",
+      "do and dont",
+      "chemical",
+      "ingestion"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 73,
+    "id": "FA007-6",
+    "title": "Poisoning - Types of Poison Exposure",
+    "category": "firstaid",
+    "keywords": [
+      "poisoning",
+      "toxic",
+      "ingestion",
+      "inhalation",
+      "skin contact",
+      "injection",
+      "emergency",
+      "first aid"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 74,
+    "id": "FA007-7",
+    "title": "Poisoning - Stabilization and Transport",
+    "category": "firstaid",
+    "keywords": [
+      "poisoning",
+      "transport",
+      "emergency",
+      "hospital",
+      "stabilization",
+      "first aid",
+      "toxic"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 75,
+    "id": "FA023-1",
+    "title": "Nuclear Fallout / Radiation Exposure",
+    "category": "firstaid",
+    "keywords": [
+      "nuclear",
+      "radiation",
+      "fallout",
+      "bomb",
+      "iodine",
+      "decontamination"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 76,
+    "id": "FA012-1",
+    "title": "Generalized Seizure (Convulsions)",
+    "category": "firstaid",
+    "keywords": [
+      "seizure",
+      "epilepsy",
+      "convulsions",
+      "shaking",
+      "fit"
+    ],
+    "priority": "high",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 77,
+    "id": "FA012-2",
+    "title": "Focal (Partial) Seizure",
+    "category": "firstaid",
+    "keywords": [
+      "seizure",
+      "focal",
+      "partial",
+      "absence",
+      "staring",
+      "confusion",
+      "epilepsy"
+    ],
+    "priority": "high",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 78,
+    "id": "FA007-1",
+    "title": "Hypovolemic Shock (Blood/Fluid Loss)",
+    "category": "firstaid",
+    "keywords": [
+      "shock",
+      "blood loss",
+      "bleeding",
+      "hypovolemic",
+      "clammy",
+      "pale",
+      "faint"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 79,
+    "id": "FA007-2",
+    "title": "Cardiogenic Shock (Heart Failure)",
+    "category": "firstaid",
+    "keywords": [
+      "shock",
+      "heart",
+      "cardiogenic",
+      "chest pain",
+      "breathing"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 80,
+    "id": "FA001-1",
+    "title": "Unidentified or Venomous Snake Bite",
+    "category": "firstaid",
+    "keywords": [
+      "snake",
+      "venomous",
+      "cobra",
+      "rattlesnake",
+      "viper",
+      "bite",
+      "poison",
+      "fang"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 81,
+    "id": "FA001-2",
+    "title": "Non-Venomous Snake Bite",
+    "category": "firstaid",
+    "keywords": [
+      "snake",
+      "non-venomous",
+      "garter",
+      "python",
+      "bite",
+      "teeth",
+      "harmless"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 82,
+    "id": "FA001-3",
+    "title": "Spitting Cobra - Venom in Eyes",
+    "category": "firstaid",
+    "keywords": [
+      "snake",
+      "cobra",
+      "spit",
+      "eye",
+      "venom",
+      "blindness",
+      "flush"
+    ],
+    "priority": "high",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 83,
+    "id": "FA001-4",
+    "title": "Snake Bite - Immediate Response",
+    "category": "firstaid",
+    "keywords": [
+      "snake bite",
+      "venom",
+      "emergency",
+      "first aid",
+      "swelling",
+      "calm",
+      "hospital"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 84,
+    "id": "FA001-5",
+    "title": "Snake Bite - Do's and Don'ts",
+    "category": "firstaid",
+    "keywords": [
+      "snake bite",
+      "do and dont",
+      "venom",
+      "emergency",
+      "first aid",
+      "hospital",
+      "treatment"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 85,
+    "id": "FA001-6",
+    "title": "Snake Bite - Identification and Symptoms",
+    "category": "firstaid",
+    "keywords": [
+      "snake bite",
+      "symptoms",
+      "venom",
+      "pain",
+      "swelling",
+      "emergency",
+      "breathing",
+      "weakness"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 86,
+    "id": "FA001-7",
+    "title": "Snake Bite - Stabilization and Transport",
+    "category": "firstaid",
+    "keywords": [
+      "snake bite",
+      "transport",
+      "stabilize",
+      "hospital",
+      "emergency",
+      "immobilize",
+      "first aid"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 87,
+    "id": "FA024-1",
+    "title": "S.T.A.R.T. Triage (Mass Casualty)",
+    "category": "firstaid",
+    "keywords": [
+      "triage",
+      "mass casualty",
+      "multiple injured",
+      "who to treat first",
+      "START method"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 88,
+    "id": "FA016-1",
+    "title": "Puncture Wound (Nails, Animal Bites)",
+    "category": "firstaid",
+    "keywords": [
+      "puncture",
+      "nail",
+      "bite",
+      "dog bite",
+      "cat bite",
+      "deep wound",
+      "rusty"
+    ],
+    "priority": "high",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 89,
+    "id": "FA016-2",
+    "title": "Embedded Object (Knife, Glass, Wood)",
+    "category": "firstaid",
+    "keywords": [
+      "embedded",
+      "knife",
+      "stabbed",
+      "impaled",
+      "glass",
+      "sticking out"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "vector_id": 90,
+    "id": "LEG003-1",
+    "title": "Fundamental Rights (Basic Awareness)",
+    "category": "legal",
+    "keywords": [
+      "constitution",
+      "rights",
+      "freedom",
+      "equality",
+      "liberty",
+      "citizen"
+    ],
+    "priority": "low",
+    "source": "NDMA / NALSA / Constitution of India"
+  },
+  {
+    "vector_id": 91,
+    "id": "LEG005-1",
+    "title": "Cybercrime Reporting & Safety",
+    "category": "legal",
+    "keywords": [
+      "cyber",
+      "fraud",
+      "scam",
+      "hacking",
+      "digital",
+      "blackmail",
+      "online"
+    ],
+    "priority": "medium",
+    "source": "NDMA / NALSA / Constitution of India"
+  },
+  {
+    "vector_id": 92,
+    "id": "LEG007-1",
+    "title": "National Emergency Numbers (India)",
+    "category": "legal",
+    "keywords": [
+      "numbers",
+      "call",
+      "help",
+      "sos",
+      "helpline",
+      "emergency"
+    ],
+    "priority": "critical",
+    "source": "NDMA / NALSA / Constitution of India"
+  },
+  {
+    "vector_id": 93,
+    "id": "LEG006-1",
+    "title": "Free Legal Aid Services (NALSA)",
+    "category": "legal",
+    "keywords": [
+      "lawyer",
+      "free",
+      "nalsa",
+      "court",
+      "legal aid",
+      "poor",
+      "help"
+    ],
+    "priority": "medium",
+    "source": "NDMA / NALSA / Constitution of India"
+  },
+  {
+    "vector_id": 94,
+    "id": "LEG008-1",
+    "title": "Earthquake Preparedness & Response (NDMA)",
+    "category": "legal",
+    "keywords": [
+      "earthquake",
+      "ndma",
+      "shaking",
+      "collapse",
+      "disaster"
+    ],
+    "priority": "high",
+    "source": "NDMA / NALSA / Constitution of India"
+  },
+  {
+    "vector_id": 95,
+    "id": "LEG009-1",
+    "title": "Flood Response & Evacuation (NDMA)",
+    "category": "legal",
+    "keywords": [
+      "flood",
+      "water",
+      "ndma",
+      "drowning",
+      "evacuation",
+      "cyclone"
+    ],
+    "priority": "high",
+    "source": "NDMA / NALSA / Constitution of India"
+  },
+  {
+    "vector_id": 96,
+    "id": "LEG010-1",
+    "title": "Heatwave Protection (NDMA)",
+    "category": "legal",
+    "keywords": [
+      "heatwave",
+      "summer",
+      "sun",
+      "ndma",
+      "dehydration",
+      "heat stroke"
+    ],
+    "priority": "medium",
+    "source": "NDMA / NALSA / Constitution of India"
+  },
+  {
+    "vector_id": 97,
+    "id": "LEG001-1",
+    "title": "General Police Interaction & Arrest Rights",
+    "category": "legal",
+    "keywords": [
+      "police",
+      "arrest",
+      "detention",
+      "rights",
+      "lawyer",
+      "crpc",
+      "cop"
+    ],
+    "priority": "high",
+    "source": "NDMA / NALSA / Constitution of India"
+  },
+  {
+    "vector_id": 98,
+    "id": "LEG001-2",
+    "title": "Women's Rights During Arrest",
+    "category": "legal",
+    "keywords": [
+      "women",
+      "arrest",
+      "night",
+      "police",
+      "female officer"
+    ],
+    "priority": "high",
+    "source": "NDMA / NALSA / Constitution of India"
+  },
+  {
+    "vector_id": 99,
+    "id": "LEG004-1",
+    "title": "Good Samaritan Law",
+    "category": "legal",
+    "keywords": [
+      "accident",
+      "good samaritan",
+      "help",
+      "hospital",
+      "bystander",
+      "crash"
+    ],
+    "priority": "high",
+    "source": "NDMA / NALSA / Constitution of India"
+  },
+  {
+    "vector_id": 100,
+    "id": "LEG002-1",
+    "title": "Emergency Help for Women",
+    "category": "legal",
+    "keywords": [
+      "women",
+      "harassment",
+      "domestic violence",
+      "zero fir",
+      "assault",
+      "safety"
+    ],
+    "priority": "critical",
+    "source": "NDMA / NALSA / Constitution of India"
+  },
+  {
+    "vector_id": 101,
+    "id": "SURV023-1",
+    "title": "Caught in an Avalanche",
+    "category": "survival",
+    "keywords": [
+      "avalanche",
+      "snow",
+      "mountain",
+      "buried",
+      "winter"
+    ],
+    "priority": "critical",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "vector_id": 102,
+    "id": "SURV013-1",
+    "title": "Winter Wilderness Survival (COAL)",
+    "category": "survival",
+    "keywords": [
+      "winter",
+      "snow",
+      "cold",
+      "COAL",
+      "layers",
+      "freezing"
+    ],
+    "priority": "high",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "vector_id": 103,
+    "id": "SURV021-1",
+    "title": "Bear Encounter",
+    "category": "survival",
+    "keywords": [
+      "bear",
+      "grizzly",
+      "animal",
+      "attack",
+      "wildlife",
+      "predator"
+    ],
+    "priority": "critical",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "vector_id": 104,
+    "id": "SURV021-2",
+    "title": "Mountain Lion / Cougar Encounter",
+    "category": "survival",
+    "keywords": [
+      "cougar",
+      "lion",
+      "puma",
+      "cat",
+      "attack",
+      "predator"
+    ],
+    "priority": "critical",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "vector_id": 105,
+    "id": "SURV012-1",
+    "title": "Conserving Water and Heat Management",
+    "category": "survival",
+    "keywords": [
+      "desert",
+      "heat",
+      "water",
+      "dehydration",
+      "shade",
+      "sun"
+    ],
+    "priority": "critical",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "vector_id": 106,
+    "id": "SURV004-1",
+    "title": "Finding North (Sun and Shadows)",
+    "category": "survival",
+    "keywords": [
+      "navigation",
+      "compass",
+      "lost",
+      "north",
+      "shadow stick",
+      "sun"
+    ],
+    "priority": "medium",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "vector_id": 107,
+    "id": "SURV004-2",
+    "title": "Finding North (Stars)",
+    "category": "survival",
+    "keywords": [
+      "navigation",
+      "stars",
+      "night",
+      "north star",
+      "polaris",
+      "lost"
+    ],
+    "priority": "medium",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "vector_id": 108,
+    "id": "SURV004-3",
+    "title": "Lost In Forest - Finding Direction",
+    "category": "survival",
+    "keywords": [
+      "direction",
+      "navigation",
+      "sun",
+      "trail",
+      "forest",
+      "landmark",
+      "compass",
+      "orientation"
+    ],
+    "priority": "high",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "vector_id": 109,
+    "id": "SURV007-1",
+    "title": "FEMA Go-Bag (Evacuation Kit)",
+    "category": "survival",
+    "keywords": [
+      "fema",
+      "go bag",
+      "bug out bag",
+      "evacuation",
+      "kit",
+      "supplies",
+      "disaster"
+    ],
+    "priority": "low",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "vector_id": 110,
+    "id": "SURV014-1",
+    "title": "During an Earthquake",
+    "category": "survival",
+    "keywords": [
+      "earthquake",
+      "shaking",
+      "fema",
+      "drop cover hold",
+      "seismic"
+    ],
+    "priority": "critical",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "vector_id": 111,
+    "id": "SURV027-1",
+    "title": "Battery and Steel Wool Fire",
+    "category": "survival",
+    "keywords": [
+      "fire",
+      "battery",
+      "steel wool",
+      "spark",
+      "tinder"
+    ],
+    "priority": "high",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "vector_id": 112,
+    "id": "SURV003-1",
+    "title": "Starting a Fire (Friction/Bow Drill)",
+    "category": "survival",
+    "keywords": [
+      "fire",
+      "bow drill",
+      "friction",
+      "tinder",
+      "ember",
+      "warmth"
+    ],
+    "priority": "high",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "vector_id": 113,
+    "id": "SURV003-2",
+    "title": "Fire Safety and Extinguishing",
+    "category": "survival",
+    "keywords": [
+      "fire",
+      "safety",
+      "extinguish",
+      "wildfire",
+      "camp"
+    ],
+    "priority": "high",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "vector_id": 114,
+    "id": "SURV008-1",
+    "title": "Universal Edibility Test (Plants)",
+    "category": "survival",
+    "keywords": [
+      "food",
+      "foraging",
+      "plants",
+      "edibility",
+      "starvation",
+      "wild"
+    ],
+    "priority": "medium",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "vector_id": 115,
+    "id": "SURV015-1",
+    "title": "Hurricane and Flooding Readiness",
+    "category": "survival",
+    "keywords": [
+      "hurricane",
+      "flood",
+      "fema",
+      "storm",
+      "water",
+      "evacuation"
+    ],
+    "priority": "high",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "vector_id": 116,
+    "id": "SURV020-1",
+    "title": "Creating a Cutting Tool (Flint Knapping)",
+    "category": "survival",
+    "keywords": [
+      "knife",
+      "tool",
+      "flint",
+      "glass",
+      "cutting",
+      "blade",
+      "obsidian"
+    ],
+    "priority": "medium",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "vector_id": 117,
+    "id": "SURV018-1",
+    "title": "Jungle Navigation and Movement",
+    "category": "survival",
+    "keywords": [
+      "jungle",
+      "rainforest",
+      "tropical",
+      "navigation",
+      "vines",
+      "leeches"
+    ],
+    "priority": "critical",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "vector_id": 118,
+    "id": "SURV018-2",
+    "title": "Extracting Water from Vines",
+    "category": "survival",
+    "keywords": [
+      "water",
+      "vine",
+      "jungle",
+      "thirst",
+      "bamboo"
+    ],
+    "priority": "critical",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "vector_id": 119,
+    "id": "SURV006-1",
+    "title": "STOP Protocol (When you realize you are lost)",
+    "category": "survival",
+    "keywords": [
+      "lost",
+      "forest",
+      "woods",
+      "stop",
+      "panic",
+      "disoriented"
+    ],
+    "priority": "high",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "vector_id": 120,
+    "id": "SURV006-2",
+    "title": "Lost In Forest - Immediate Response",
+    "category": "survival",
+    "keywords": [
+      "forest",
+      "lost",
+      "trek",
+      "survival",
+      "navigation",
+      "landmark"
+    ],
+    "priority": "high",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "vector_id": 121,
+    "id": "SURV011-1",
+    "title": "Surviving the Night Without Gear",
+    "category": "survival",
+    "keywords": [
+      "night",
+      "dark",
+      "cold",
+      "bivouac",
+      "insulation",
+      "sleep"
+    ],
+    "priority": "high",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "vector_id": 122,
+    "id": "SURV019-1",
+    "title": "Overcoming Panic and Fear",
+    "category": "survival",
+    "keywords": [
+      "fear",
+      "panic",
+      "psychology",
+      "mental",
+      "attitude",
+      "hope",
+      "give up"
+    ],
+    "priority": "critical",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "vector_id": 123,
+    "id": "SURV010-1",
+    "title": "Fording a Fast-Flowing River",
+    "category": "survival",
+    "keywords": [
+      "river",
+      "crossing",
+      "ford",
+      "water",
+      "current",
+      "drowning"
+    ],
+    "priority": "high",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "vector_id": 124,
+    "id": "SURV017-1",
+    "title": "Stranded in Open Water (Life Raft)",
+    "category": "survival",
+    "keywords": [
+      "ocean",
+      "sea",
+      "raft",
+      "water",
+      "seawater",
+      "stranded",
+      "marine"
+    ],
+    "priority": "critical",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "vector_id": 125,
+    "id": "SURV017-2",
+    "title": "Floating without a Raft (Drownproofing)",
+    "category": "survival",
+    "keywords": [
+      "drowning",
+      "floating",
+      "ocean",
+      "water",
+      "drownproofing"
+    ],
+    "priority": "critical",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "vector_id": 126,
+    "id": "SURV002-1",
+    "title": "Debris Hut (Cold Weather)",
+    "category": "survival",
+    "keywords": [
+      "shelter",
+      "debris hut",
+      "cold",
+      "insulation",
+      "sleep",
+      "warmth",
+      "wilderness"
+    ],
+    "priority": "high",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "vector_id": 127,
+    "id": "SURV002-2",
+    "title": "Lean-To Shelter (Reflector)",
+    "category": "survival",
+    "keywords": [
+      "shelter",
+      "lean-to",
+      "fire reflector",
+      "windbreak",
+      "tarp"
+    ],
+    "priority": "critical",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "vector_id": 128,
+    "id": "SURV002-3",
+    "title": "Lost In Forest - Shelter Building",
+    "category": "survival",
+    "keywords": [
+      "shelter",
+      "forest",
+      "weather",
+      "insulation",
+      "branches",
+      "leaves",
+      "cold",
+      "night",
+      "survival"
+    ],
+    "priority": "critical",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "vector_id": 129,
+    "id": "SURV002-4",
+    "title": "Shelter Building - Importance and Site Selection",
+    "category": "survival",
+    "keywords": [
+      "shelter",
+      "survival",
+      "site selection",
+      "forest",
+      "cold",
+      "rain",
+      "protection",
+      "temperature"
+    ],
+    "priority": "critical",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "vector_id": 130,
+    "id": "SURV002-5",
+    "title": "Shelter Building - Materials and Construction Basics",
+    "category": "survival",
+    "keywords": [
+      "shelter",
+      "branches",
+      "leaves",
+      "forest",
+      "construction",
+      "survival",
+      "insulation",
+      "lean-to"
+    ],
+    "priority": "critical",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "vector_id": 131,
+    "id": "SURV002-6",
+    "title": "Shelter Building - Insulation and Weather Protection",
+    "category": "survival",
+    "keywords": [
+      "insulation",
+      "shelter",
+      "cold",
+      "heat",
+      "weather",
+      "survival",
+      "leaves",
+      "wind protection"
+    ],
+    "priority": "critical",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "vector_id": 132,
+    "id": "SURV002-7",
+    "title": "Shelter Building - Emergency Shelter Types",
+    "category": "survival",
+    "keywords": [
+      "shelter",
+      "lean-to",
+      "a-frame",
+      "debris hut",
+      "survival",
+      "forest",
+      "emergency",
+      "construction"
+    ],
+    "priority": "critical",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "vector_id": 133,
+    "id": "SURV005-1",
+    "title": "Visual Signaling (Daytime)",
+    "category": "survival",
+    "keywords": [
+      "signal",
+      "rescue",
+      "smoke",
+      "mirror",
+      "sos",
+      "lost"
+    ],
+    "priority": "high",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "vector_id": 134,
+    "id": "SURV005-2",
+    "title": "Lost In Forest - Signaling And Rescue",
+    "category": "survival",
+    "keywords": [
+      "rescue",
+      "signal",
+      "whistle",
+      "mirror",
+      "smoke",
+      "visibility",
+      "search",
+      "forest",
+      "help",
+      "survival"
+    ],
+    "priority": "high",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "vector_id": 135,
+    "id": "SURV016-1",
+    "title": "Simple Snare",
+    "category": "survival",
+    "keywords": [
+      "snare",
+      "trap",
+      "food",
+      "rabbit",
+      "hunting",
+      "wire"
+    ],
+    "priority": "medium",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "vector_id": 136,
+    "id": "SURV016-2",
+    "title": "Figure-4 Deadfall Trap",
+    "category": "survival",
+    "keywords": [
+      "trap",
+      "deadfall",
+      "figure 4",
+      "hunting",
+      "food",
+      "rock"
+    ],
+    "priority": "medium",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "vector_id": 137,
+    "id": "SURV024-1",
+    "title": "Tsunami Warning or Signs",
+    "category": "survival",
+    "keywords": [
+      "tsunami",
+      "wave",
+      "ocean",
+      "earthquake",
+      "flooding",
+      "high ground"
+    ],
+    "priority": "critical",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "vector_id": 138,
+    "id": "SURV022-1",
+    "title": "Active Shooter / Riot Evasion",
+    "category": "survival",
+    "keywords": [
+      "shooter",
+      "gunfire",
+      "riot",
+      "mob",
+      "urban",
+      "barricade",
+      "hide"
+    ],
+    "priority": "critical",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "vector_id": 139,
+    "id": "SURV026-1",
+    "title": "Making a Transpiration Bag",
+    "category": "survival",
+    "keywords": [
+      "water",
+      "transpiration",
+      "bag",
+      "leaves",
+      "condensation",
+      "thirst"
+    ],
+    "priority": "medium",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "vector_id": 140,
+    "id": "SURV001-1",
+    "title": "Boiling Water",
+    "category": "survival",
+    "keywords": [
+      "water",
+      "purification",
+      "boil",
+      "pathogens",
+      "hydration",
+      "drink"
+    ],
+    "priority": "critical",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "vector_id": 141,
+    "id": "SURV001-2",
+    "title": "Chemical Purification (Iodine/Bleach)",
+    "category": "survival",
+    "keywords": [
+      "water",
+      "bleach",
+      "iodine",
+      "chemical",
+      "purify",
+      "disinfect"
+    ],
+    "priority": "critical",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "vector_id": 142,
+    "id": "SURV001-3",
+    "title": "Lost In Forest - Water Procurement",
+    "category": "survival",
+    "keywords": [
+      "water",
+      "dehydration",
+      "stream",
+      "river",
+      "purification",
+      "rainwater",
+      "survival",
+      "hydration"
+    ],
+    "priority": "critical",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "vector_id": 143,
+    "id": "SURV001-4",
+    "title": "Water Purification - Safe Water Sources",
+    "category": "survival",
+    "keywords": [
+      "water",
+      "purification",
+      "stream",
+      "river",
+      "rainwater",
+      "contamination",
+      "survival",
+      "hydration",
+      "safe water"
+    ],
+    "priority": "critical",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "vector_id": 144,
+    "id": "SURV001-5",
+    "title": "Water Purification - Boiling Method",
+    "category": "survival",
+    "keywords": [
+      "boil",
+      "water",
+      "purification",
+      "microorganisms",
+      "bacteria",
+      "virus",
+      "survival",
+      "safe drinking"
+    ],
+    "priority": "critical",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "vector_id": 145,
+    "id": "SURV001-6",
+    "title": "Water Purification - Filtration Methods",
+    "category": "survival",
+    "keywords": [
+      "filter",
+      "water",
+      "charcoal",
+      "sand",
+      "gravel",
+      "purification",
+      "survival",
+      "clean water"
+    ],
+    "priority": "critical",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "vector_id": 146,
+    "id": "SURV001-7",
+    "title": "Water Purification - Rainwater and Storage Safety",
+    "category": "survival",
+    "keywords": [
+      "rainwater",
+      "storage",
+      "container",
+      "purification",
+      "safe water",
+      "survival",
+      "contamination"
+    ],
+    "priority": "critical",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "vector_id": 147,
+    "id": "SURV009-1",
+    "title": "Lightning Storm in Wilderness",
+    "category": "survival",
+    "keywords": [
+      "lightning",
+      "storm",
+      "thunder",
+      "weather",
+      "crouch",
+      "strike"
+    ],
+    "priority": "critical",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "vector_id": 148,
+    "id": "SURV025-1",
+    "title": "Trapped in a Vehicle by Wildfire",
+    "category": "survival",
+    "keywords": [
+      "wildfire",
+      "fire",
+      "car",
+      "trapped",
+      "smoke",
+      "evacuation"
+    ],
+    "priority": "critical",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  }
+]

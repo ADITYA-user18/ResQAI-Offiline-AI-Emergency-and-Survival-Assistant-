@@ -1,0 +1,36 @@
+[
+  {
+    "id": "SURV008-1",
+    "title": "Universal Edibility Test (Plants)",
+    "category": "Survival",
+    "severity": "Moderate",
+    "symptoms": [
+      "Starving",
+      "No known food sources",
+      "Considering wild plants"
+    ],
+    "immediate_steps": [
+      "Separate the plant into parts (roots, stems, leaves, buds)",
+      "Smell it (discard if it smells like almonds or peaches)",
+      "Test on skin (rub on wrist, wait 15 mins for reaction)",
+      "Prepare a small piece (boil if possible)",
+      "Touch to lips (wait 3 mins)",
+      "Touch to tongue (wait 15 mins)",
+      "Chew and hold in mouth (wait 15 mins)",
+      "Swallow a small amount (wait 8 hours). If no sickness occurs, eat a slightly larger amount"
+    ],
+    "avoid": [
+      "Do not eat plants with milky sap, umbrella-shaped flower clusters, or pods with beans/seeds unless positively identified",
+      "Do not skip any steps of the edibility test",
+      "Do not test on a full stomach"
+    ],
+    "keywords": [
+      "food",
+      "foraging",
+      "plants",
+      "edibility",
+      "starvation",
+      "wild"
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "SURV012-1",
+    "title": "Conserving Water and Heat Management",
+    "category": "Survival",
+    "severity": "Critical",
+    "symptoms": [
+      "Stranded in desert",
+      "High heat",
+      "Limited water"
+    ],
+    "immediate_steps": [
+      "Travel only during the cool hours of the early morning or night",
+      "Rest in deep shade during the heat of the day (build a shade tarp if necessary)",
+      "Keep all your clothes on, including long sleeves and a hat, to slow sweat evaporation and prevent sunburn",
+      "Breathe through your nose, not your mouth, to reduce moisture loss",
+      "If you find water, drink it (do not ration it to the point of dehydration)"
+    ],
+    "avoid": [
+      "Do not walk during the peak heat (10 AM to 4 PM)",
+      "Do not remove your shirt (sunburn increases fluid loss)",
+      "Do not eat food if you are out of water (digestion uses body water)",
+      "Do not drink urine (it contains toxins that accelerate dehydration)"
+    ],
+    "keywords": [
+      "desert",
+      "heat",
+      "water",
+      "dehydration",
+      "shade",
+      "sun"
+    ]
+  }
+]

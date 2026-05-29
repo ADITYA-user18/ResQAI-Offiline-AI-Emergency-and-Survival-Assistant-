@@ -1,0 +1,58 @@
+[
+  {
+    "id": "FA022-1",
+    "title": "Black Widow / Brown Recluse Spider Bite",
+    "category": "FirstAid",
+    "severity": "High",
+    "symptoms": [
+      "Sharp pinprick pain",
+      "Muscle cramps (Black Widow)",
+      "Necrotic blister/ulcer (Brown Recluse)",
+      "Nausea",
+      "Fever"
+    ],
+    "immediate_steps": [
+      "Wash the bite area with soap and water",
+      "Apply a cold compress or ice pack (wrapped in cloth) to reduce pain and swelling",
+      "Keep the bitten area elevated to heart level",
+      "Seek medical attention immediately (antivenom may be needed)"
+    ],
+    "avoid": [
+      "Do not attempt to suck out the venom",
+      "Do not apply a tourniquet"
+    ],
+    "keywords": [
+      "spider",
+      "bite",
+      "black widow",
+      "brown recluse",
+      "venom"
+    ]
+  },
+  {
+    "id": "FA022-2",
+    "title": "Tick Removal",
+    "category": "FirstAid",
+    "severity": "Low",
+    "symptoms": [
+      "Tick attached to skin"
+    ],
+    "immediate_steps": [
+      "Use fine-tipped tweezers to grasp the tick as close to the skin's surface as possible",
+      "Pull upward with steady, even pressure",
+      "After removing, thoroughly clean the bite area and your hands with rubbing alcohol or soap and water",
+      "Dispose of the tick by flushing it or putting it in alcohol"
+    ],
+    "avoid": [
+      "Do not twist or jerk the tick (the mouthparts can break off in the skin)",
+      "Do not use a hot match, nail polish, or petroleum jelly to smother it"
+    ],
+    "keywords": [
+      "tick",
+      "lyme disease",
+      "bug bite",
+      "tweezers",
+      "woods"
+    ]
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "id": "FA007-1",
+    "title": "Hypovolemic Shock (Blood/Fluid Loss)",
+    "category": "FirstAid",
+    "severity": "Critical",
+    "symptoms": [
+      "Pale, cold, clammy skin",
+      "Rapid, shallow breathing",
+      "Rapid, weak pulse",
+      "Confusion or anxiety",
+      "Dizziness or fainting",
+      "Extreme thirst"
+    ],
+    "immediate_steps": [
+      "Call emergency services immediately",
+      "Control any visible external bleeding",
+      "Have the person lie flat on their back",
+      "Elevate their legs 12 inches (unless head, neck, or leg injury is suspected)",
+      "Keep them warm by covering them with a blanket or coat",
+      "Provide reassurance and keep them calm"
+    ],
+    "avoid": [
+      "Do not give the person anything to eat or drink, even if they complain of severe thirst",
+      "Do not elevate the head (keep it flat)",
+      "Do not use a heating pad"
+    ],
+    "keywords": [
+      "shock",
+      "blood loss",
+      "bleeding",
+      "hypovolemic",
+      "clammy",
+      "pale",
+      "faint"
+    ]
+  },
+  {
+    "id": "FA007-2",
+    "title": "Cardiogenic Shock (Heart Failure)",
+    "category": "FirstAid",
+    "severity": "Critical",
+    "symptoms": [
+      "Chest pain",
+      "Shortness of breath",
+      "Pale skin",
+      "Rapid pulse",
+      "Sweating",
+      "Fainting"
+    ],
+    "immediate_steps": [
+      "Call emergency services immediately",
+      "Have the person rest in a comfortable position (often sitting up helps them breathe better than lying flat)",
+      "Loosen tight clothing",
+      "Ask if they have prescribed heart medication (like nitroglycerin) and assist them in taking it",
+      "Monitor breathing and be prepared for CPR"
+    ],
+    "avoid": [
+      "Do not lay them flat if it makes their breathing worse",
+      "Do not let them exert themselves",
+      "Do not give them food or water"
+    ],
+    "keywords": [
+      "shock",
+      "heart",
+      "cardiogenic",
+      "chest pain",
+      "breathing"
+    ]
+  }
+]

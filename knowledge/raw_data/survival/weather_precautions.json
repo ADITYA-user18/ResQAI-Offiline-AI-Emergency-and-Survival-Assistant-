@@ -1,0 +1,33 @@
+[
+  {
+    "id": "SURV009-1",
+    "title": "Lightning Storm in Wilderness",
+    "category": "Survival",
+    "severity": "Critical",
+    "symptoms": [
+      "Thunder heard",
+      "Dark clouds",
+      "Hair standing on end"
+    ],
+    "immediate_steps": [
+      "Descend from ridges, peaks, and elevated areas immediately",
+      "Move away from tall, isolated trees, bodies of water, and metal objects",
+      "Seek a low-lying area, dense forest of small trees, or a deep cave (stay away from the entrance)",
+      "Assume the 'Lightning Crouch': squat down on the balls of your feet, tuck your head, and cover your ears. Make yourself as small as possible while minimizing contact with the ground"
+    ],
+    "avoid": [
+      "Do not lie flat on the ground (ground current can travel through you)",
+      "Do not stand near water",
+      "Do not shelter under an isolated tree",
+      "Do not stay in a large group (spread out 15-50 feet apart)"
+    ],
+    "keywords": [
+      "lightning",
+      "storm",
+      "thunder",
+      "weather",
+      "crouch",
+      "strike"
+    ]
+  }
+]

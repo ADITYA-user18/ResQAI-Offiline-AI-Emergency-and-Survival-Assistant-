@@ -1,0 +1,180 @@
+[
+  {
+    "id": "FA002-1",
+    "title": "Adult CPR (Hands-Only)",
+    "category": "FirstAid",
+    "severity": "Critical",
+    "symptoms": [
+      "Unresponsive",
+      "No normal breathing",
+      "Gasping"
+    ],
+    "immediate_steps": [
+      "Call emergency services",
+      "Place the person flat on their back on a hard surface",
+      "Kneel beside them",
+      "Place the heel of one hand on the center of the chest (lower half of the sternum) and the other hand on top",
+      "Interlock your fingers",
+      "Keep arms straight and push hard and fast (at least 2 inches deep, 100-120 compressions per minute)",
+      "Allow the chest to return to normal position after each compression",
+      "Continue until help arrives or an AED is ready"
+    ],
+    "avoid": [
+      "Do not stop compressions for more than 10 seconds",
+      "Do not lean on the chest between compressions",
+      "Do not bend your elbows"
+    ],
+    "keywords": [
+      "adult",
+      "cpr",
+      "unconscious",
+      "chest compressions",
+      "heart attack",
+      "hands-only"
+    ]
+  },
+  {
+    "id": "FA002-2",
+    "title": "Child CPR (1 to Puberty)",
+    "category": "FirstAid",
+    "severity": "Critical",
+    "symptoms": [
+      "Unresponsive",
+      "Not breathing normally"
+    ],
+    "immediate_steps": [
+      "Call emergency services",
+      "Place the child on a firm, flat surface",
+      "Use one or two hands in the center of the chest",
+      "Push down about 2 inches (5 cm) at a rate of 100-120 per minute",
+      "If trained, give 2 rescue breaths after every 30 compressions",
+      "Tilt the head back slightly and lift the chin for breaths"
+    ],
+    "avoid": [
+      "Do not tilt the head back too far",
+      "Do not press on the bottom tip of the breastbone",
+      "Do not give large breaths (just enough to make the chest rise)"
+    ],
+    "keywords": [
+      "child",
+      "cpr",
+      "kid",
+      "unresponsive",
+      "pediatric"
+    ]
+  },
+  {
+    "id": "FA002-3",
+    "title": "Infant CPR (Under 1 year)",
+    "category": "FirstAid",
+    "severity": "Critical",
+    "symptoms": [
+      "Unresponsive",
+      "Not breathing",
+      "Blue or pale skin"
+    ],
+    "immediate_steps": [
+      "Flick the bottom of the foot to check for responsiveness",
+      "Call emergency services",
+      "Place the infant on a firm, flat surface",
+      "Place two fingers in the center of the chest, just below the nipple line",
+      "Push down about 1.5 inches (4 cm) at a rate of 100-120 per minute",
+      "If trained, give 2 gentle rescue breaths for every 30 compressions (cover both mouth and nose with your mouth)"
+    ],
+    "avoid": [
+      "Do not shake the infant",
+      "Do not push too deep (max 1.5 inches)",
+      "Do not breathe forcefully (puff only from your cheeks)"
+    ],
+    "keywords": [
+      "infant",
+      "baby",
+      "cpr",
+      "unresponsive",
+      "blue"
+    ]
+  },
+  {
+    "id": "FA002-4",
+    "title": "CPR - Immediate Assessment and Response",
+    "category": "FirstAid",
+    "severity": "Critical",
+    "symptoms": [
+      "Unresponsive",
+      "Not breathing normally",
+      "Cardiac arrest"
+    ],
+    "immediate_steps": [
+      "Ensure the area is safe before approaching the victim",
+      "Check for responsiveness by tapping and shouting",
+      "If there is no response, call emergency services right away",
+      "Check breathing for no more than 10 seconds",
+      "If the person is not breathing or only gasping, begin CPR immediately"
+    ],
+    "avoid": [],
+    "keywords": [
+      "CPR",
+      "unconscious",
+      "breathing",
+      "emergency",
+      "cardiac arrest",
+      "first aid",
+      "response"
+    ]
+  },
+  {
+    "id": "FA002-5",
+    "title": "CPR - Chest Compressions Technique",
+    "category": "FirstAid",
+    "severity": "Critical",
+    "symptoms": [
+      "Unresponsive",
+      "Not breathing"
+    ],
+    "immediate_steps": [
+      "Place the heel of one hand on the center of the chest between the nipples and place the other hand on top",
+      "Keep arms straight and press hard and fast at a rate of about 100 to 120 compressions per minute",
+      "Push down at least 5 centimeters in adults and allow full chest recoil after each compression",
+      "Minimize interruptions to maintain blood flow to vital organs",
+      "Continue compressions until emergency help arrives or the person shows signs of life"
+    ],
+    "avoid": [],
+    "keywords": [
+      "CPR",
+      "chest compression",
+      "heart",
+      "emergency",
+      "resuscitation",
+      "first aid",
+      "cardiac arrest"
+    ]
+  },
+  {
+    "id": "FA002-6",
+    "title": "CPR - Rescue Breathing Basics",
+    "category": "FirstAid",
+    "severity": "High",
+    "symptoms": [
+      "Unresponsive",
+      "Not breathing"
+    ],
+    "immediate_steps": [
+      "After 30 chest compressions, open the airway by tilting the head back and lifting the chin",
+      "Pinch the nose and give two rescue breaths by sealing your mouth over the victim's mouth and blowing steadily until the chest rises",
+      "Each breath should last about one second",
+      "If the chest does not rise, reposition the head and try again",
+      "Continue cycles of 30 compressions and 2 breaths if trained to do so",
+      "If untrained, continue hands-only CPR with chest compressions only"
+    ],
+    "avoid": [],
+    "keywords": [
+      "CPR",
+      "rescue breathing",
+      "airway",
+      "breaths",
+      "oxygen",
+      "first aid",
+      "emergency"
+    ]
+  }
+]

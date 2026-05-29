@@ -1,0 +1,32 @@
+[
+  {
+    "id": "LEG002-1",
+    "title": "Emergency Help for Women",
+    "category": "Emergency Response",
+    "severity": "Critical",
+    "rights": [
+      "Right to file a Zero FIR at any police station regardless of jurisdiction",
+      "Right to privacy during recording of statement",
+      "Right to free medical treatment in any hospital (public or private) for victims of sexual assault",
+      "Protection under the Protection of Women from Domestic Violence Act, 2005"
+    ],
+    "avoid": [
+      "Do not wash clothes or bathe immediately if reporting an assault (preserves evidence)",
+      "Do not let police turn you away citing 'jurisdiction' issues (demand a Zero FIR)"
+    ],
+    "emergency_numbers": [
+      "1091 (Women Helpline)",
+      "181 (Domestic Abuse)",
+      "112 (National Emergency)",
+      "1098 (Child/Young Girl in distress)"
+    ],
+    "keywords": [
+      "women",
+      "harassment",
+      "domestic violence",
+      "zero fir",
+      "assault",
+      "safety"
+    ]
+  }
+]

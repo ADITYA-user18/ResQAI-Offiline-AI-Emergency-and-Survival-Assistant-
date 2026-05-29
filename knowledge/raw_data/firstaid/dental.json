@@ -1,0 +1,34 @@
+[
+  {
+    "id": "FA018-1",
+    "title": "Knocked-Out Tooth (Avulsed Tooth)",
+    "category": "FirstAid",
+    "severity": "Moderate",
+    "symptoms": [
+      "Tooth completely out of socket",
+      "Bleeding from gums",
+      "Pain"
+    ],
+    "immediate_steps": [
+      "Find the tooth and pick it up by the crown (the chewing part), NOT the root",
+      "If dirty, rinse it gently in cold running water for 10 seconds",
+      "Try to place the tooth back into its socket and have the person bite down gently on gauze to hold it",
+      "If you cannot reinsert it, place the tooth in a container of cold milk, or have the person hold it inside their cheek",
+      "Get to a dentist immediately (within 30-60 minutes for best chances)"
+    ],
+    "avoid": [
+      "Do not scrub the tooth or use soap",
+      "Do not touch the root",
+      "Do not store the tooth in plain water",
+      "Do not wrap it in a tissue or cloth (it will dry out)"
+    ],
+    "keywords": [
+      "tooth",
+      "dental",
+      "knocked out",
+      "mouth",
+      "bleeding",
+      "milk"
+    ]
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "id": "LEG010-1",
+    "title": "Heatwave Protection (NDMA)",
+    "category": "Disaster Relief",
+    "severity": "Moderate",
+    "rights": [
+      "Workers have the right to shaded resting areas and drinking water",
+      "Local governments often issue red alerts requiring specific occupational safety measures"
+    ],
+    "avoid": [
+      "Avoid going out in the sun, especially between 12.00 noon and 3.00 p.m.",
+      "Avoid strenuous activities when the outside temperature is high",
+      "Avoid alcohol, tea, coffee, and carbonated soft drinks, which dehydrate the body"
+    ],
+    "emergency_numbers": [
+      "108 (Ambulance)"
+    ],
+    "keywords": [
+      "heatwave",
+      "summer",
+      "sun",
+      "ndma",
+      "dehydration",
+      "heat stroke"
+    ]
+  }
+]

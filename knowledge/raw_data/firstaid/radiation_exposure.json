@@ -1,0 +1,32 @@
+[
+  {
+    "id": "FA023-1",
+    "title": "Nuclear Fallout / Radiation Exposure",
+    "category": "FirstAid",
+    "severity": "Critical",
+    "symptoms": [
+      "Nuclear detonation nearby",
+      "Radioactive dust/ash falling"
+    ],
+    "immediate_steps": [
+      "Get inside a sturdy building immediately (basements or windowless center rooms are best)",
+      "Remove contaminated clothing and seal it in a plastic bag",
+      "Shower thoroughly with soap and warm water (do not scrub hard enough to break the skin)",
+      "Wash hair with shampoo",
+      "Take Potassium Iodide (KI) pills ONLY if instructed by public health officials (protects the thyroid)"
+    ],
+    "avoid": [
+      "Do not use hair conditioner (it binds radioactive material to the hair)",
+      "Do not consume food or water that was exposed outside",
+      "Do not go outside until authorities announce it is safe"
+    ],
+    "keywords": [
+      "nuclear",
+      "radiation",
+      "fallout",
+      "bomb",
+      "iodine",
+      "decontamination"
+    ]
+  }
+]

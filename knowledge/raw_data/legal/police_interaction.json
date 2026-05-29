@@ -1,0 +1,58 @@
+[
+  {
+    "id": "LEG001-1",
+    "title": "General Police Interaction & Arrest Rights",
+    "category": "Legal & Rights",
+    "severity": "Moderate",
+    "rights": [
+      "Right to know the grounds of arrest (Section 50, CrPC)",
+      "Right to be produced before a magistrate within 24 hours (Section 57, CrPC)",
+      "Right to consult and be defended by a legal practitioner of your choice",
+      "Right to inform a relative or friend about the arrest",
+      "Right to free legal aid if you cannot afford a lawyer (NALSA guidelines)"
+    ],
+    "avoid": [
+      "Do not argue aggressively or use physical force against an officer",
+      "Do not run away if stopped for questioning",
+      "Do not sign any document or confession without reading it or consulting a lawyer"
+    ],
+    "emergency_numbers": [
+      "112 (National Emergency)",
+      "100 (Police)"
+    ],
+    "keywords": [
+      "police",
+      "arrest",
+      "detention",
+      "rights",
+      "lawyer",
+      "crpc",
+      "cop"
+    ]
+  },
+  {
+    "id": "LEG001-2",
+    "title": "Women's Rights During Arrest",
+    "category": "Legal & Rights",
+    "severity": "High",
+    "rights": [
+      "Women can generally only be arrested by a female police officer",
+      "Women cannot be arrested after sunset and before sunrise (except in exceptional circumstances with a magistrate's written order)",
+      "Right to be searched only by another woman with strict regard to decency"
+    ],
+    "avoid": [
+      "Do not submit to an illegal nighttime arrest without asking for the magistrate's warrant"
+    ],
+    "emergency_numbers": [
+      "112",
+      "1091 (Women Helpline)"
+    ],
+    "keywords": [
+      "women",
+      "arrest",
+      "night",
+      "police",
+      "female officer"
+    ]
+  }
+]

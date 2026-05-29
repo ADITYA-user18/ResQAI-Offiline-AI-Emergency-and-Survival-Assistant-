@@ -1,0 +1,94 @@
+[
+  {
+    "id": "SURV004-1",
+    "title": "Finding North (Sun and Shadows)",
+    "category": "Survival",
+    "severity": "Moderate",
+    "symptoms": [
+      "Lost",
+      "No compass",
+      "Daytime with sunlight"
+    ],
+    "immediate_steps": [
+      "Find a straight stick about 3 feet long and push it upright into flat ground",
+      "Mark the tip of the stick's shadow with a small stone (this is West)",
+      "Wait 15-30 minutes for the sun to move",
+      "Mark the new position of the shadow's tip with another stone (this is East)",
+      "Draw a straight line between the two stones. Stand with the first stone on your left and the second on your right; you are now facing True North"
+    ],
+    "avoid": [
+      "Do not use a curved stick",
+      "Do not move the stick during the process",
+      "Do not rely on this near the equator (it is less accurate)"
+    ],
+    "keywords": [
+      "navigation",
+      "compass",
+      "lost",
+      "north",
+      "shadow stick",
+      "sun"
+    ]
+  },
+  {
+    "id": "SURV004-2",
+    "title": "Finding North (Stars)",
+    "category": "Survival",
+    "severity": "Moderate",
+    "symptoms": [
+      "Lost",
+      "Nighttime",
+      "Clear sky",
+      "Northern Hemisphere"
+    ],
+    "immediate_steps": [
+      "Locate the Big Dipper constellation (Ursa Major)",
+      "Find the two stars forming the outer edge of the Dipper's 'bowl' (the pointer stars)",
+      "Draw an imaginary line straight up from those two stars, about five times the distance between them",
+      "The star you hit is Polaris (the North Star), which is the tip of the Little Dipper's handle",
+      "Face Polaris; you are facing True North"
+    ],
+    "avoid": [
+      "Do not confuse the Big Dipper with other formations",
+      "Do not rely on the position of the moon (it is complex to navigate by)"
+    ],
+    "keywords": [
+      "navigation",
+      "stars",
+      "night",
+      "north star",
+      "polaris",
+      "lost"
+    ]
+  },
+  {
+    "id": "SURV004-3",
+    "title": "Lost In Forest - Finding Direction",
+    "category": "Survival",
+    "severity": "High",
+    "symptoms": [
+      "Lost in forest",
+      "Need to find direction"
+    ],
+    "immediate_steps": [
+      "Determine direction before moving",
+      "Observe the position of the sun during daytime to estimate east and west directions",
+      "Look for natural landmarks such as rivers, trails, hills and clearings",
+      "Follow marked paths when available",
+      "If carrying a compass, verify direction periodically"
+    ],
+    "avoid": [
+      "Avoid moving in circles by selecting a fixed distant object as a reference point while walking"
+    ],
+    "keywords": [
+      "direction",
+      "navigation",
+      "sun",
+      "trail",
+      "forest",
+      "landmark",
+      "compass",
+      "orientation"
+    ]
+  }
+]

@@ -1,0 +1,73 @@
+[
+  {
+    "id": "FA012-1",
+    "title": "Generalized Seizure (Convulsions)",
+    "category": "FirstAid",
+    "severity": "High",
+    "symptoms": [
+      "Sudden fall to the ground",
+      "Uncontrollable jerking of arms and legs",
+      "Loss of consciousness",
+      "Foaming at the mouth",
+      "Biting of the tongue",
+      "Loss of bladder/bowel control",
+      "Confusion after the seizure (postictal state)"
+    ],
+    "immediate_steps": [
+      "Note the time the seizure starts",
+      "Clear the area of any hard or sharp objects",
+      "Ease the person to the floor and place something soft under their head",
+      "Loosen tight clothing around the neck",
+      "Gently roll them onto their side to keep the airway clear and allow fluids to drain",
+      "Stay with them until the seizure ends and they are fully aware",
+      "Call emergency services if the seizure lasts >5 minutes, they have a second seizure, they are injured, pregnant, or it's their first seizure"
+    ],
+    "avoid": [
+      "Do not hold the person down or try to stop their movements",
+      "Do not put absolutely anything in their mouth (they cannot swallow their tongue)",
+      "Do not give food or water until they are fully alert",
+      "Do not attempt artificial respiration during the seizure"
+    ],
+    "keywords": [
+      "seizure",
+      "epilepsy",
+      "convulsions",
+      "shaking",
+      "fit"
+    ]
+  },
+  {
+    "id": "FA012-2",
+    "title": "Focal (Partial) Seizure",
+    "category": "FirstAid",
+    "severity": "Moderate",
+    "symptoms": [
+      "Staring blankly",
+      "Repetitive movements (lip smacking, chewing, hand rubbing)",
+      "Wandering aimlessly",
+      "Altered sense of taste or smell",
+      "Confusion, but remaining on their feet"
+    ],
+    "immediate_steps": [
+      "Stay calm and observe",
+      "Gently guide them away from hazards (stairs, traffic)",
+      "Speak calmly and reassure them",
+      "Stay with them until they return to complete awareness",
+      "Note the duration of the event"
+    ],
+    "avoid": [
+      "Do not grab them or yell (they may perceive it as a threat and become aggressive)",
+      "Do not try to snap them out of it",
+      "Do not restrain them unless they are in immediate danger"
+    ],
+    "keywords": [
+      "seizure",
+      "focal",
+      "partial",
+      "absence",
+      "staring",
+      "confusion",
+      "epilepsy"
+    ]
+  }
+]

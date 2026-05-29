@@ -1,0 +1,73 @@
+[
+  {
+    "id": "FA014-1",
+    "title": "Mild to Moderate Allergic Reaction",
+    "category": "FirstAid",
+    "severity": "Low",
+    "symptoms": [
+      "Itchy skin",
+      "Hives or localized rash",
+      "Sneezing",
+      "Itchy or watery eyes",
+      "Runny nose"
+    ],
+    "immediate_steps": [
+      "Remove the allergen if known (e.g., wash off a plant sap, remove a stinger)",
+      "Give an over-the-counter antihistamine (like diphenhydramine/Benadryl)",
+      "Apply a cool compress or calamine lotion to itchy skin",
+      "Monitor the person closely for 30-60 minutes in case symptoms worsen"
+    ],
+    "avoid": [
+      "Do not ignore symptoms as they can progress",
+      "Do not apply heat to rashes"
+    ],
+    "keywords": [
+      "allergy",
+      "hives",
+      "itch",
+      "rash",
+      "pollen",
+      "pet dander",
+      "mild"
+    ]
+  },
+  {
+    "id": "FA014-2",
+    "title": "Anaphylaxis (Severe Allergic Reaction)",
+    "category": "FirstAid",
+    "severity": "Critical",
+    "symptoms": [
+      "Difficulty breathing or wheezing",
+      "Swelling of the throat, lips, tongue, or face",
+      "Tightness in the chest or throat",
+      "Severe hives spreading rapidly",
+      "Dizziness, fainting, or unconsciousness",
+      "Nausea, vomiting, or diarrhea",
+      "A feeling of impending doom"
+    ],
+    "immediate_steps": [
+      "Call emergency services immediately",
+      "Ask if they have an epinephrine auto-injector (EpiPen) and help them inject it into the outer mid-thigh",
+      "Have the person lie down on their back. If breathing is difficult, let them sit up. If they feel faint, elevate their legs.",
+      "If they vomit, turn them on their side",
+      "Loosen tight clothing and keep them warm",
+      "If symptoms don't improve after 5-15 minutes, administer a second EpiPen if available",
+      "Begin CPR if they become unresponsive and stop breathing"
+    ],
+    "avoid": [
+      "Do not wait to see if symptoms improve before using an EpiPen or calling 911",
+      "Do not give them anything to eat or drink",
+      "Do not place a pillow under their head if they are having trouble breathing"
+    ],
+    "keywords": [
+      "anaphylaxis",
+      "allergy",
+      "epipen",
+      "swelling",
+      "throat closing",
+      "bee sting",
+      "peanut",
+      "severe"
+    ]
+  }
+]

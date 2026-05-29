@@ -1,0 +1,222 @@
+[
+  {
+    "id": "FA010-1",
+    "title": "Swallowed Poison",
+    "category": "FirstAid",
+    "severity": "Critical",
+    "symptoms": [
+      "Nausea, vomiting, diarrhea",
+      "Abdominal pain",
+      "Burns or redness around the mouth and lips",
+      "Breath that smells like chemicals",
+      "Drowsiness or unconsciousness",
+      "Seizures"
+    ],
+    "immediate_steps": [
+      "If the person is unconscious, having seizures, or not breathing, call emergency services immediately",
+      "If conscious and stable, call Poison Control",
+      "Find out what was taken, how much, and when",
+      "Wipe the mouth clean and remove any remaining poison",
+      "Keep the person calm and monitor breathing"
+    ],
+    "avoid": [
+      "Do not induce vomiting unless explicitly told to do so by Poison Control (vomiting chemicals can cause double damage)",
+      "Do not give milk, water, or activated charcoal unless instructed",
+      "Do not wait for symptoms to appear before calling for help"
+    ],
+    "keywords": [
+      "poison",
+      "swallowed",
+      "ingested",
+      "chemical",
+      "pills",
+      "overdose",
+      "toxic"
+    ]
+  },
+  {
+    "id": "FA010-2",
+    "title": "Inhaled Poison (Carbon Monoxide, Chemicals)",
+    "category": "FirstAid",
+    "severity": "Critical",
+    "symptoms": [
+      "Headache",
+      "Dizziness or weakness",
+      "Nausea or vomiting",
+      "Shortness of breath",
+      "Confusion",
+      "Blurred vision",
+      "Loss of consciousness",
+      "Cherry red skin (rare, in late CO poisoning)"
+    ],
+    "immediate_steps": [
+      "Get the person out of the toxic environment into fresh air immediately",
+      "Call emergency services",
+      "If the person is not breathing, begin CPR",
+      "Open doors and windows to ventilate the area if it's safe to do so"
+    ],
+    "avoid": [
+      "Do not enter a toxic environment without proper breathing apparatus (you might become a victim too)",
+      "Do not light a match or use electronics if a gas leak is suspected"
+    ],
+    "keywords": [
+      "poison",
+      "inhaled",
+      "gas",
+      "carbon monoxide",
+      "smoke",
+      "fumes",
+      "toxic"
+    ]
+  },
+  {
+    "id": "FA010-3",
+    "title": "Poison on the Skin",
+    "category": "FirstAid",
+    "severity": "High",
+    "symptoms": [
+      "Redness, swelling, or pain",
+      "Blisters",
+      "Itching",
+      "Chemical smell"
+    ],
+    "immediate_steps": [
+      "Remove contaminated clothing using gloves",
+      "Brush off dry powders from the skin",
+      "Rinse the affected skin with a continuous stream of water for at least 15-20 minutes",
+      "Wash gently with soap and water",
+      "Call Poison Control or emergency services"
+    ],
+    "avoid": [
+      "Do not touch the poison with your bare hands",
+      "Do not apply ointments or creams without medical advice",
+      "Do not scrub the skin harshly"
+    ],
+    "keywords": [
+      "poison",
+      "skin",
+      "chemical spill",
+      "pesticide",
+      "absorption"
+    ]
+  },
+  {
+    "id": "FA007-4",
+    "title": "Poisoning - Identification and Immediate Action",
+    "category": "FirstAid",
+    "severity": "Critical",
+    "symptoms": [
+      "Nausea",
+      "Vomiting",
+      "Dizziness",
+      "Confusion",
+      "Difficulty breathing",
+      "Loss of consciousness"
+    ],
+    "immediate_steps": [
+      "Immediately remove the person from exposure if it is safe to do so",
+      "Check responsiveness and breathing",
+      "Call emergency services without delay",
+      "Try to identify the poison if possible by checking containers or surroundings"
+    ],
+    "avoid": [
+      "Do not wait for symptoms to worsen before calling for help",
+      "Do not waste time trying to identify the poison if it delays treatment"
+    ],
+    "keywords": [
+      "poisoning",
+      "toxic",
+      "emergency",
+      "first aid",
+      "chemical",
+      "ingestion",
+      "symptoms"
+    ]
+  },
+  {
+    "id": "FA007-5",
+    "title": "Poisoning - Do's and Don'ts",
+    "category": "FirstAid",
+    "severity": "Critical",
+    "symptoms": [
+      "Poisoning suspected"
+    ],
+    "immediate_steps": [
+      "Do call emergency services immediately and provide information about the suspected poison",
+      "Do keep the person calm and monitor breathing and consciousness",
+      "Do remove contaminated clothing if the poison is on the skin and rinse with clean water"
+    ],
+    "avoid": [
+      "Do not induce vomiting unless instructed by medical professionals",
+      "Do not give food, milk, or water unless advised by emergency services",
+      "Do not attempt home remedies or delay hospital treatment"
+    ],
+    "keywords": [
+      "poisoning",
+      "toxic",
+      "first aid",
+      "emergency",
+      "do and dont",
+      "chemical",
+      "ingestion"
+    ]
+  },
+  {
+    "id": "FA007-6",
+    "title": "Poisoning - Types of Poison Exposure",
+    "category": "FirstAid",
+    "severity": "High",
+    "symptoms": [
+      "Ingestion",
+      "Inhalation",
+      "Skin contact",
+      "Injection"
+    ],
+    "immediate_steps": [
+      "Ingestion: toxic substances swallowed (chemicals, medicines, spoiled food)",
+      "Inhalation: toxic gases or fumes breathed in (carbon monoxide, smoke)",
+      "Skin contact: harmful chemicals absorbed through the skin",
+      "Injection: toxins enter through bites, stings, or contaminated needles",
+      "Seek immediate medical attention as each type requires different first aid precautions"
+    ],
+    "avoid": [],
+    "keywords": [
+      "poisoning",
+      "toxic",
+      "ingestion",
+      "inhalation",
+      "skin contact",
+      "injection",
+      "emergency",
+      "first aid"
+    ]
+  },
+  {
+    "id": "FA007-7",
+    "title": "Poisoning - Stabilization and Transport",
+    "category": "FirstAid",
+    "severity": "Critical",
+    "symptoms": [
+      "Preparing for transport",
+      "Vomiting"
+    ],
+    "immediate_steps": [
+      "Keep the person lying down and monitor breathing, pulse, and consciousness continuously",
+      "If vomiting occurs, turn the person on their side to prevent choking",
+      "Bring any container or sample of the suspected poison to assist medical treatment",
+      "Transport to a hospital immediately"
+    ],
+    "avoid": [
+      "Do not give anything by mouth unless instructed by medical professionals"
+    ],
+    "keywords": [
+      "poisoning",
+      "transport",
+      "emergency",
+      "hospital",
+      "stabilization",
+      "first aid",
+      "toxic"
+    ]
+  }
+]

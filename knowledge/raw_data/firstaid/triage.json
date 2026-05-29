@@ -1,0 +1,31 @@
+[
+  {
+    "id": "FA024-1",
+    "title": "S.T.A.R.T. Triage (Mass Casualty)",
+    "category": "FirstAid",
+    "severity": "Critical",
+    "symptoms": [
+      "Multiple victims",
+      "Limited resources",
+      "Need to sort who gets treated first"
+    ],
+    "immediate_steps": [
+      "Assess Respiration: If not breathing, open airway. If still not breathing -> DECEASED (Black). If breathing >30/min -> IMMEDIATE (Red).",
+      "Assess Perfusion: If capillary refill >2 seconds or no radial pulse -> IMMEDIATE (Red). Control major bleeding.",
+      "Assess Mental Status: If unable to follow simple commands -> IMMEDIATE (Red).",
+      "If they pass all three (breathing <30, good pulse, follows commands) -> DELAYED (Yellow).",
+      "Anyone who can walk away when told -> MINOR (Green)."
+    ],
+    "avoid": [
+      "Do not spend too much time on one victim (triage should take <30 seconds per person)",
+      "Do not perform CPR during mass triage if resources are overwhelmed"
+    ],
+    "keywords": [
+      "triage",
+      "mass casualty",
+      "multiple injured",
+      "who to treat first",
+      "START method"
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "SURV010-1",
+    "title": "Fording a Fast-Flowing River",
+    "category": "Survival",
+    "severity": "High",
+    "symptoms": [
+      "Must cross a river",
+      "No bridge",
+      "Fast current"
+    ],
+    "immediate_steps": [
+      "Scout for the widest, shallowest part of the river (avoid narrow, deep, fast sections)",
+      "Keep your boots on to protect your feet, but remove your pants to reduce drag",
+      "Unbuckle your backpack waist strap (so you can ditch it if you fall)",
+      "Find a sturdy stick to use as a third leg for balance",
+      "Face upstream and cross at a slight angle downstream",
+      "Shuffle sideways, maintaining two points of contact at all times"
+    ],
+    "avoid": [
+      "Do not cross if the water is above your knees and moving fast",
+      "Do not cross barefoot",
+      "Do not tie yourself to a rope stretched across the river (it can pull you under)"
+    ],
+    "keywords": [
+      "river",
+      "crossing",
+      "ford",
+      "water",
+      "current",
+      "drowning"
+    ]
+  }
+]

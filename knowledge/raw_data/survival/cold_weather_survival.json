@@ -1,0 +1,34 @@
+[
+  {
+    "id": "SURV013-1",
+    "title": "Winter Wilderness Survival (COAL)",
+    "category": "Survival",
+    "severity": "High",
+    "symptoms": [
+      "Stranded in snow",
+      "Freezing temperatures"
+    ],
+    "immediate_steps": [
+      "Remember COAL: Clean, Overheating, Avoid loose, Layers",
+      "Keep clothing Clean (dirt ruins insulation)",
+      "Avoid Overheating (sweat will freeze; take off layers before doing heavy work)",
+      "Wear clothes loose (tight clothes restrict blood flow)",
+      "Dress in Layers (base, insulating, and wind/waterproof outer shell)",
+      "Protect your extremities (head, hands, feet) as they lose heat fastest",
+      "Build a snow cave or quinzee if snow is deep enough, as snow is an excellent insulator"
+    ],
+    "avoid": [
+      "Do not eat snow directly (it lowers your core temperature; melt it first)",
+      "Do not wear cotton if it gets wet ('cotton kills')",
+      "Do not drink alcohol"
+    ],
+    "keywords": [
+      "winter",
+      "snow",
+      "cold",
+      "COAL",
+      "layers",
+      "freezing"
+    ]
+  }
+]

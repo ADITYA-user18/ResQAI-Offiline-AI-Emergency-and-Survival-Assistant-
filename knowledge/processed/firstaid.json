@@ -1,0 +1,1487 @@
+[
+  {
+    "id": "FA014-1",
+    "title": "Mild to Moderate Allergic Reaction",
+    "text": "Mild to Moderate Allergic Reaction. Signs/Rights: Itchy skin; Hives or localized rash; Sneezing; Itchy or watery eyes; Runny nose. Steps: Remove the allergen if known (e.g., wash off a plant sap, remove a stinger) | Give an over-the-counter antihistamine (like diphenhydramine/Benadryl) | Apply a cool compress or calamine lotion to itchy skin | Monitor the person closely for 30-60 minutes in case symptoms worsen. Avoid: Do not ignore symptoms as they can progress | Do not apply heat to rashes.",
+    "category": "firstaid",
+    "keywords": [
+      "allergy",
+      "hives",
+      "itch",
+      "rash",
+      "pollen",
+      "pet dander",
+      "mild"
+    ],
+    "priority": "high",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA014-2",
+    "title": "Anaphylaxis (Severe Allergic Reaction)",
+    "text": "Anaphylaxis (Severe Allergic Reaction). Signs/Rights: Difficulty breathing or wheezing; Swelling of the throat, lips, tongue, or face; Tightness in the chest or throat; Severe hives spreading rapidly; Dizziness, fainting, or unconsciousness; Nausea, vomiting, or diarrhea; A feeling of impending doom. Steps: Call emergency services immediately | Ask if they have an epinephrine auto-injector (EpiPen) and help them inject it into the outer mid-thigh | Have the person lie down on their back. If breathing is difficult, let them sit up. If they feel faint, elevate their legs. | If they vomit, turn them on their side | Loosen tight clothing and keep them warm | If symptoms don't improve after 5-15 minutes, administer a second EpiPen if available | Begin CPR if they become unresponsive and stop breathing. Avoid: Do not wait to see if symptoms improve before using an EpiPen or calling 911 | Do not give them anything to eat or drink | Do not place a pillow under their head if they are having trouble breathing.",
+    "category": "firstaid",
+    "keywords": [
+      "anaphylaxis",
+      "allergy",
+      "epipen",
+      "swelling",
+      "throat closing",
+      "bee sting",
+      "peanut",
+      "severe"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA020-1",
+    "title": "Traumatic Amputation",
+    "text": "Traumatic Amputation. Signs/Rights: Body part severed; Severe bleeding; Shock. Steps: Call emergency services immediately | Apply a tourniquet above the wound if bleeding is life-threatening, or apply direct firm pressure | Treat the victim for shock (lay them down, elevate legs if possible) | Recover the severed part: wrap it in a sterile gauze or clean cloth, dampen it with clean water or saline | Place the wrapped part in a watertight plastic bag | Place that bag into another container with ice and water. Avoid: Do not put the severed part directly on ice (it will cause frostbite and tissue death) | Do not put the part directly in water | Do not ignore the victim to search endlessly for the part.",
+    "category": "firstaid",
+    "keywords": [
+      "amputation",
+      "severed",
+      "cut off",
+      "finger",
+      "limb",
+      "tourniquet"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA015-1",
+    "title": "Mild to Moderate Asthma Attack",
+    "text": "Mild to Moderate Asthma Attack. Signs/Rights: Shortness of breath; Wheezing (a whistling sound when breathing); Chest tightness; Coughing. Steps: Help the person sit comfortably upright | Reassure them and keep them calm | Help them use their reliever inhaler (usually blue), ideally with a spacer: 1 puff every 30-60 seconds, up to 10 puffs | Encourage slow, deep breaths | If symptoms improve, continue to monitor them. Avoid: Do not lay the person down | Do not leave them alone | Do not expose them to known triggers (smoke, cold air).",
+    "category": "firstaid",
+    "keywords": [
+      "asthma",
+      "wheeze",
+      "inhaler",
+      "breathing",
+      "cough",
+      "chest tightness"
+    ],
+    "priority": "high",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA015-2",
+    "title": "Severe Asthma Attack",
+    "text": "Severe Asthma Attack. Signs/Rights: Severe breathlessness (cannot finish a sentence); Inhaler has no effect; Exhaustion; Blue lips or fingers (cyanosis); Silent chest (no wheezing because air is not moving); Confusion or drowsiness. Steps: Call emergency services immediately | Help the person sit up and lean slightly forward | Continue helping them use their reliever inhaler (1 puff every 30-60 seconds, up to 10 puffs, and repeat after 15 minutes if help hasn't arrived) | Stay calm and keep the person as calm as possible | Loosen tight clothing. Avoid: Do not wait to call an ambulance if the inhaler is not working | Do not force them to lie flat | Do not offer drinks.",
+    "category": "firstaid",
+    "keywords": [
+      "asthma",
+      "severe",
+      "cannot breathe",
+      "inhaler fails",
+      "cyanosis",
+      "silent chest"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA022-1",
+    "title": "Black Widow / Brown Recluse Spider Bite",
+    "text": "Black Widow / Brown Recluse Spider Bite. Signs/Rights: Sharp pinprick pain; Muscle cramps (Black Widow); Necrotic blister/ulcer (Brown Recluse); Nausea; Fever. Steps: Wash the bite area with soap and water | Apply a cold compress or ice pack (wrapped in cloth) to reduce pain and swelling | Keep the bitten area elevated to heart level | Seek medical attention immediately (antivenom may be needed). Avoid: Do not attempt to suck out the venom | Do not apply a tourniquet.",
+    "category": "firstaid",
+    "keywords": [
+      "spider",
+      "bite",
+      "black widow",
+      "brown recluse",
+      "venom"
+    ],
+    "priority": "high",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA022-2",
+    "title": "Tick Removal",
+    "text": "Tick Removal. Signs/Rights: Tick attached to skin. Steps: Use fine-tipped tweezers to grasp the tick as close to the skin's surface as possible | Pull upward with steady, even pressure | After removing, thoroughly clean the bite area and your hands with rubbing alcohol or soap and water | Dispose of the tick by flushing it or putting it in alcohol. Avoid: Do not twist or jerk the tick (the mouthparts can break off in the skin) | Do not use a hot match, nail polish, or petroleum jelly to smother it.",
+    "category": "firstaid",
+    "keywords": [
+      "tick",
+      "lyme disease",
+      "bug bite",
+      "tweezers",
+      "woods"
+    ],
+    "priority": "low",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA005-1",
+    "title": "Minor Cuts and Scrapes",
+    "text": "Minor Cuts and Scrapes. Signs/Rights: Slight bleeding; Superficial skin break; Minor pain. Steps: Wash your hands before treating | Rinse the wound with clean water to remove dirt | Wash around the wound with mild soap | Apply gentle pressure with a clean cloth if bleeding hasn't stopped | Apply a thin layer of antibiotic ointment | Cover with a sterile bandage. Avoid: Do not use alcohol, hydrogen peroxide, or iodine on the wound (they delay healing) | Do not pick at scabs | Do not blow on the wound.",
+    "category": "firstaid",
+    "keywords": [
+      "cut",
+      "scrape",
+      "minor",
+      "abrasion",
+      "bandaid",
+      "scratch"
+    ],
+    "priority": "low",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA005-2",
+    "title": "Severe External Bleeding",
+    "text": "Severe External Bleeding. Signs/Rights: Blood spurting or flowing continuously; Blood pooling on the ground; Clothing soaked in blood; Dizziness, confusion, or pale skin (signs of shock). Steps: Call emergency services immediately | Have the person lie down | Apply strong, direct pressure directly to the wound using a clean cloth or sterile dressing | If blood soaks through, place another cloth on top and press harder | Maintain constant pressure until help arrives | If the wound is on an arm or leg, elevate it above the heart if possible without causing pain. Avoid: Do not remove the first layer of blood-soaked cloth | Do not check the wound to see if it has stopped bleeding | Do not use a makeshift tourniquet for non-life-threatening bleeding.",
+    "category": "firstaid",
+    "keywords": [
+      "bleeding",
+      "severe",
+      "hemorrhage",
+      "artery",
+      "pressure",
+      "blood loss"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA005-3",
+    "title": "Life-Threatening Bleeding (Tourniquet Required)",
+    "text": "Life-Threatening Bleeding (Tourniquet Required). Signs/Rights: Massive spurting blood from an arm or leg; Direct pressure fails to stop the bleeding; Amputation or partial amputation. Steps: Call emergency services immediately | Apply a commercially made tourniquet 2-3 inches above the bleeding site (not over a joint) | Tighten the tourniquet until the bleeding completely stops | Secure the tourniquet and note the exact time it was applied | If a commercial tourniquet is unavailable, use a wide strip of cloth and a stick to twist it tight (windlass) | Treat the person for shock. Avoid: Do not apply a tourniquet over a joint (elbow or knee) - go above it | Do not loosen or remove the tourniquet once it is applied | Do not use narrow materials like wire or shoelaces (they cut tissue).",
+    "category": "firstaid",
+    "keywords": [
+      "tourniquet",
+      "amputation",
+      "life-threatening",
+      "arterial",
+      "massive bleed"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA005-4",
+    "title": "Nosebleed (Epistaxis)",
+    "text": "Nosebleed (Epistaxis). Signs/Rights: Blood flowing from one or both nostrils; Swallowing blood. Steps: Have the person sit upright and lean slightly forward | Pinch the soft part of the nose just below the bony bridge | Breathe through the mouth | Hold pressure for at least 10-15 uninterrupted minutes | Apply a cold compress to the bridge of the nose | Seek medical care if bleeding lasts more than 20 minutes or follows a head injury. Avoid: Do not lean the head back (blood will drain into the throat) | Do not blow the nose for several hours after bleeding stops | Do not pick the nose.",
+    "category": "firstaid",
+    "keywords": [
+      "nosebleed",
+      "nose",
+      "face",
+      "blood"
+    ],
+    "priority": "low",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA005-5",
+    "title": "Bleeding - Types and Immediate Control",
+    "text": "Bleeding - Types and Immediate Control. Signs/Rights: Arterial bleeding (bright red, spurting); Venous bleeding (dark red, flowing steadily); Capillary bleeding (slow oozing). Steps: Apply direct pressure on the wound using a clean cloth or bandage | Elevate the injured area above heart level if possible to reduce blood flow | Maintain steady pressure until bleeding slows or stops | Seek medical attention for severe or uncontrolled bleeding.",
+    "category": "firstaid",
+    "keywords": [
+      "bleeding",
+      "wound",
+      "blood loss",
+      "arterial",
+      "venous",
+      "capillary",
+      "first aid",
+      "emergency"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA005-6",
+    "title": "Bleeding - Pressure and Dressing Techniques",
+    "text": "Bleeding - Pressure and Dressing Techniques. Signs/Rights: Bleeding requiring dressing. Steps: Apply firm and continuous direct pressure on the wound using a clean cloth, gauze, or bandage | If blood soaks through, add more layers on top instead of removing the original dressing | Maintain pressure until bleeding reduces significantly | If possible, elevate the injured limb above heart level to slow blood flow | Secure the dressing once bleeding is controlled. Avoid: Do not frequently remove the cloth to check the wound, as this can restart bleeding | Avoid wrapping too tightly once secured.",
+    "category": "firstaid",
+    "keywords": [
+      "bleeding",
+      "pressure",
+      "bandage",
+      "wound care",
+      "first aid",
+      "emergency",
+      "blood control"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA005-7",
+    "title": "Bleeding - Severe Bleeding and Shock Prevention",
+    "text": "Bleeding - Severe Bleeding and Shock Prevention. Signs/Rights: Severe blood loss; Pale or cold skin; Rapid breathing; Weakness; Dizziness; Confusion. Steps: Apply strong direct pressure immediately | Keep the person lying down | Elevate the legs slightly if there are no suspected fractures | Keep the person warm using a blanket or clothing to maintain body temperature | Continue monitoring until emergency medical help arrives. Avoid: Do not give food or water.",
+    "category": "firstaid",
+    "keywords": [
+      "bleeding",
+      "shock",
+      "blood loss",
+      "emergency",
+      "first aid",
+      "pressure",
+      "trauma"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA005-8",
+    "title": "Bleeding - Special Cases and Wound Care",
+    "text": "Bleeding - Special Cases and Wound Care. Signs/Rights: Embedded object; Nosebleed; Minor cut. Steps: For embedded objects: stabilize it with padding around the object and apply pressure around the wound | For nosebleeds: pinch the soft part of the nose and lean forward slightly | For minor cuts: clean the wound with clean water and apply a sterile dressing | Always monitor for signs of infection such as redness, swelling, or pus after bleeding is controlled. Avoid: Do not remove embedded objects as they may be controlling internal bleeding | For nosebleeds, do not lean back (prevents swallowing blood).",
+    "category": "firstaid",
+    "keywords": [
+      "bleeding",
+      "wound care",
+      "nosebleed",
+      "injury",
+      "first aid",
+      "infection",
+      "emergency"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA003-1",
+    "title": "First-Degree Burn (Superficial)",
+    "text": "First-Degree Burn (Superficial). Signs/Rights: Redness; Mild pain; Swelling; Skin is intact (no blisters). Steps: Run cool (not cold) water over the burn for 10-15 minutes or until pain eases | Remove tight items from the burned area | Apply a soothing lotion (like aloe vera) | Cover loosely with a sterile bandage if needed | Take over-the-counter pain relievers if necessary. Avoid: Do not apply ice | Do not apply butter or greasy ointments | Do not use adhesive bandages tightly.",
+    "category": "firstaid",
+    "keywords": [
+      "burn",
+      "sunburn",
+      "minor",
+      "red",
+      "first degree",
+      "hot water"
+    ],
+    "priority": "high",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA003-2",
+    "title": "Second-Degree Burn (Partial Thickness)",
+    "text": "Second-Degree Burn (Partial Thickness). Signs/Rights: Red, dark red, or blotchy skin; Blisters; Severe pain; Swelling; Moist or weeping skin. Steps: Cool the burn with cool running water for 15-20 minutes | Cover the burn loosely with a sterile, non-stick dressing | Elevate the burned area above heart level if possible | Seek medical attention if the burn is larger than 3 inches or on the face, hands, feet, groin, or over a major joint. Avoid: Do not pop or break blisters | Do not peel off dead skin | Do not apply ice, creams, or home remedies like toothpaste | Do not use cotton balls which can stick to the wound.",
+    "category": "firstaid",
+    "keywords": [
+      "burn",
+      "blister",
+      "second degree",
+      "painful",
+      "scald",
+      "boiling"
+    ],
+    "priority": "high",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA003-3",
+    "title": "Third-Degree Burn (Full Thickness)",
+    "text": "Third-Degree Burn (Full Thickness). Signs/Rights: Charred black, brown, or white skin; Leathery texture; Numbness (no pain because nerve endings are destroyed); Difficulty breathing (if airways are burned). Steps: Call emergency services immediately | Ensure the person is no longer in contact with smoldering materials | Check for breathing and begin CPR if necessary | Cover the burn lightly with a sterile, non-stick bandage or clean cloth | Elevate the burned area | Treat for shock by laying the person flat and elevating feet. Avoid: Do not remove clothing that is stuck to the burn | Do not submerge large severe burns in cold water (can cause hypothermia) | Do not apply any ointments or creams.",
+    "category": "firstaid",
+    "keywords": [
+      "burn",
+      "fire",
+      "third degree",
+      "charred",
+      "severe",
+      "no pain"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA003-4",
+    "title": "Chemical Burn",
+    "text": "Chemical Burn. Signs/Rights: Redness, irritation, or burning at the site of contact; Pain or numbness; Blisters or black dead skin; Vision changes if in eyes. Steps: Brush off any dry chemicals with a gloved hand or cloth | Flush the affected area with a steady stream of cool water for at least 20 minutes | Remove contaminated clothing and jewelry while flushing | Call emergency services or Poison Control | If in the eye, flush from the inner corner to the outer corner. Avoid: Do not use water if the chemical reacts strongly with water (check material safety data sheet if possible) | Do not try to neutralize the chemical (e.g., using acid on an alkali) | Do not touch the chemical with bare hands.",
+    "category": "firstaid",
+    "keywords": [
+      "burn",
+      "chemical",
+      "acid",
+      "bleach",
+      "alkali",
+      "flush",
+      "eye"
+    ],
+    "priority": "high",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA003-5",
+    "title": "Burns - Types and Immediate Action",
+    "text": "Burns - Types and Immediate Action. Signs/Rights: Redness and pain (1st degree); Blisters (2nd degree); White, charred, or leathery skin (3rd degree). Steps: Remove the person from the source of heat safely | Cool the burned area with running cool water for at least 10 to 20 minutes | Remove tight clothing or accessories if they are not stuck to the skin. Avoid: Do not use ice directly on burns.",
+    "category": "firstaid",
+    "keywords": [
+      "burns",
+      "heat",
+      "skin damage",
+      "first aid",
+      "blisters",
+      "electric burn",
+      "chemical burn",
+      "emergency"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA003-6",
+    "title": "Burns - Do's and Don'ts",
+    "text": "Burns - Do's and Don'ts. Signs/Rights: Burn injury. Steps: Do cool the burn immediately with clean running water for 10 to 20 minutes | Do cover the burn with a clean, non-stick cloth or sterile dressing | Do seek medical help for severe or large burns. Avoid: Do not apply ice directly on the burn as it can worsen tissue damage | Do not apply toothpaste, oil, butter, or home remedies on burns | Do not break blisters as they protect against infection | Do not remove clothing stuck to the burned skin.",
+    "category": "firstaid",
+    "keywords": [
+      "burns",
+      "first aid",
+      "do and dont",
+      "blisters",
+      "infection",
+      "skin injury",
+      "emergency"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA003-7",
+    "title": "Burns - Chemical and Electrical Burns",
+    "text": "Burns - Chemical and Electrical Burns. Signs/Rights: Contact with acid/alkali; Contact with electric current. Steps: For chemical burns: Immediately flush the affected area with large amounts of clean water for at least 15 to 20 minutes and remove contaminated clothing carefully | For electrical burns: Switch off the power supply first if possible | Electrical burns may cause internal injuries even if external damage appears minor, so immediate medical attention is necessary in all cases. Avoid: Avoid rubbing the area of a chemical burn | Do not touch the victim if they are still in contact with the electrical source.",
+    "category": "firstaid",
+    "keywords": [
+      "chemical burn",
+      "electrical burn",
+      "acid",
+      "electric shock",
+      "emergency",
+      "first aid",
+      "skin injury"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA003-8",
+    "title": "Burns - Recovery and Infection Prevention",
+    "text": "Burns - Recovery and Infection Prevention. Signs/Rights: Recovering from a burn; Increased redness, swelling, pus, or fever. Steps: Keep the burned area clean and covered with a sterile, non-stick dressing | Change dressings regularly as advised by medical professionals | Watch for signs of infection such as increased redness, swelling, pus, or fever | Severe burns require continuous medical supervision to prevent complications such as dehydration, shock, or scarring. Avoid: Do not apply any unverified ointments or traditional remedies.",
+    "category": "firstaid",
+    "keywords": [
+      "burns",
+      "infection",
+      "healing",
+      "dressing",
+      "first aid",
+      "skin care",
+      "emergency"
+    ],
+    "priority": "high",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA019-1",
+    "title": "Emergency Field Delivery",
+    "text": "Emergency Field Delivery. Signs/Rights: Contractions are 2-3 minutes apart; Crowning is visible; No medical help available. Steps: Ensure a clean environment, wash hands, and prepare clean towels | Do not pull the baby; let the mother push | Support the baby's head as it emerges, do not pull on the neck | Once born, wipe fluid from the baby's mouth and nose to clear airways | Keep the baby warm by placing it skin-to-skin on the mother's chest | Wait for the placenta to deliver naturally (usually within 20 mins); do not pull the umbilical cord | Tie the umbilical cord tightly in two places (about 4 and 6 inches from the baby) with sterile string, then cut between the ties with a sterilized blade. Avoid: Do not let the mother go to the bathroom if delivery is imminent | Do not slap the baby's back to make it cry (rubbing the back gently is enough).",
+    "category": "firstaid",
+    "keywords": [
+      "childbirth",
+      "baby",
+      "delivery",
+      "labor",
+      "pregnant",
+      "umbilical cord"
+    ],
+    "priority": "high",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA006-1",
+    "title": "Adult/Child Choking (Conscious)",
+    "text": "Adult/Child Choking (Conscious). Signs/Rights: Cannot cough forcefully; Cannot speak; Clutching the throat; Blue lips or skin; Wheezing. Steps: Ask 'Are you choking?' and tell them you are going to help | Stand behind them and give 5 firm back blows between the shoulder blades using the heel of your hand | Give 5 abdominal thrusts (Heimlich maneuver): make a fist, place it just above the navel, grab it with your other hand, and pull inward and upward | Alternate 5 back blows and 5 abdominal thrusts until the object is forced out or the person becomes unconscious. Avoid: Do not perform abdominal thrusts if they can still speak or cough forcefully (encourage them to cough instead) | Do not perform a blind finger sweep of the mouth.",
+    "category": "firstaid",
+    "keywords": [
+      "choking",
+      "adult",
+      "child",
+      "heimlich",
+      "abdominal thrusts",
+      "back blows"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA006-2",
+    "title": "Infant Choking (Under 1 year)",
+    "text": "Infant Choking (Under 1 year). Signs/Rights: Cannot cry or make sounds; Weak, ineffective cough; Blue skin or lips; Difficulty breathing. Steps: Hold the infant face down along your forearm, supporting their head and jaw | Give 5 firm back blows between the shoulder blades using the heel of your hand | Turn the infant face up on your forearm, supporting the head | Give 5 chest thrusts using two fingers in the center of the chest (pushing down about 1.5 inches) | Alternate 5 back blows and 5 chest thrusts until the object comes out or the infant goes unconscious | Call emergency services. Avoid: Do not use abdominal thrusts (Heimlich maneuver) on an infant | Do not shake the infant | Do not perform a blind finger sweep.",
+    "category": "firstaid",
+    "keywords": [
+      "choking",
+      "infant",
+      "baby",
+      "chest thrusts",
+      "back blows"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA006-3",
+    "title": "Pregnant or Obese Person Choking",
+    "text": "Pregnant or Obese Person Choking. Signs/Rights: Cannot speak or cough; Clutching throat. Steps: Position yourself behind the person | Give 5 back blows between the shoulder blades | Instead of abdominal thrusts, perform Chest Thrusts | Place your arms under their armpits and encircle their chest | Place your fist on the center of their breastbone (sternum), pull straight back in a quick, sharp motion | Alternate back blows and chest thrusts. Avoid: Do not perform abdominal thrusts on the belly.",
+    "category": "firstaid",
+    "keywords": [
+      "choking",
+      "pregnant",
+      "obese",
+      "chest thrusts",
+      "heimlich"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA006-4",
+    "title": "Choking Alone",
+    "text": "Choking Alone. Signs/Rights: Cannot speak or breathe; No one around to help. Steps: Call emergency services, leave the line open even if you can't speak | Perform the Heimlich maneuver on yourself: Make a fist, place it above your navel, grasp with your other hand, and push inward and upward | Alternatively, lean forcefully over a solid object like a chair back, table edge, or railing, and press your abdomen against it to force the object out. Avoid: Do not panic | Do not go to a bathroom or hidden area (stay where someone might find you).",
+    "category": "firstaid",
+    "keywords": [
+      "choking",
+      "alone",
+      "self",
+      "chair",
+      "heimlich"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA006-4-DUP28",
+    "title": "Choking - Recognition and Immediate Action",
+    "text": "Choking - Recognition and Immediate Action. Signs/Rights: Inability to speak; Difficulty breathing; Clutching the throat; Coughing weakly; Turning blue. Steps: Assess whether they can cough or speak | If they can cough forcefully, encourage them to continue coughing to expel the object | If they cannot breathe, speak, or cough effectively, immediate action is required to clear the airway | Call emergency help immediately while first aid is provided.",
+    "category": "firstaid",
+    "keywords": [
+      "choking",
+      "airway",
+      "breathing",
+      "obstruction",
+      "first aid",
+      "emergency",
+      "cough"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA006-5",
+    "title": "Choking - Abdominal Thrust (Heimlich Maneuver)",
+    "text": "Choking - Abdominal Thrust (Heimlich Maneuver). Signs/Rights: Cannot breathe, cough, or speak. Steps: Stand behind the person and wrap your arms around their waist | Make a fist and place it just above the navel | Grasp the fist with the other hand and give quick inward and upward thrusts | Repeat until the object is expelled or the person becomes unconscious | Seek emergency medical help immediately. Avoid: Do not apply pressure on the ribs or chest area.",
+    "category": "firstaid",
+    "keywords": [
+      "choking",
+      "heimlich",
+      "abdominal thrust",
+      "airway blockage",
+      "first aid",
+      "emergency",
+      "breathing"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA006-6",
+    "title": "Choking - Back Blows and Special Cases",
+    "text": "Choking - Back Blows and Special Cases. Signs/Rights: Abdominal thrusts do not work or cannot be performed; Infant choking; Pregnant or obese individual choking. Steps: For general back blows: Lean the person forward slightly and give firm blows between the shoulder blades using the heel of your hand. Alternate between back blows and abdominal thrusts | For infants: Use a combination of back blows and chest thrusts carefully | For pregnant or obese individuals: Use chest thrusts instead of abdominal thrusts. Avoid: Do not use abdominal thrusts on infants, pregnant women, or obese individuals.",
+    "category": "firstaid",
+    "keywords": [
+      "choking",
+      "back blows",
+      "airway",
+      "infant",
+      "first aid",
+      "emergency",
+      "obstruction"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA006-7",
+    "title": "Choking - Unconscious Person and Recovery",
+    "text": "Choking - Unconscious Person and Recovery. Signs/Rights: Choking person becomes unconscious. Steps: Gently lower them to the ground and call emergency services immediately | Begin CPR by starting chest compressions to attempt to dislodge the obstruction | Before giving rescue breaths, check the mouth for any visible object and remove it carefully if accessible | Continue CPR until the object is expelled or medical help arrives | After recovery, the person must be medically evaluated even if breathing returns to normal.",
+    "category": "firstaid",
+    "keywords": [
+      "choking",
+      "unconscious",
+      "CPR",
+      "airway",
+      "emergency",
+      "breathing",
+      "first aid"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA002-1",
+    "title": "Adult CPR (Hands-Only)",
+    "text": "Adult CPR (Hands-Only). Signs/Rights: Unresponsive; No normal breathing; Gasping. Steps: Call emergency services | Place the person flat on their back on a hard surface | Kneel beside them | Place the heel of one hand on the center of the chest (lower half of the sternum) and the other hand on top | Interlock your fingers | Keep arms straight and push hard and fast (at least 2 inches deep, 100-120 compressions per minute) | Allow the chest to return to normal position after each compression | Continue until help arrives or an AED is ready. Avoid: Do not stop compressions for more than 10 seconds | Do not lean on the chest between compressions | Do not bend your elbows.",
+    "category": "firstaid",
+    "keywords": [
+      "adult",
+      "cpr",
+      "unconscious",
+      "chest compressions",
+      "heart attack",
+      "hands-only"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA002-2",
+    "title": "Child CPR (1 to Puberty)",
+    "text": "Child CPR (1 to Puberty). Signs/Rights: Unresponsive; Not breathing normally. Steps: Call emergency services | Place the child on a firm, flat surface | Use one or two hands in the center of the chest | Push down about 2 inches (5 cm) at a rate of 100-120 per minute | If trained, give 2 rescue breaths after every 30 compressions | Tilt the head back slightly and lift the chin for breaths. Avoid: Do not tilt the head back too far | Do not press on the bottom tip of the breastbone | Do not give large breaths (just enough to make the chest rise).",
+    "category": "firstaid",
+    "keywords": [
+      "child",
+      "cpr",
+      "kid",
+      "unresponsive",
+      "pediatric"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA002-3",
+    "title": "Infant CPR (Under 1 year)",
+    "text": "Infant CPR (Under 1 year). Signs/Rights: Unresponsive; Not breathing; Blue or pale skin. Steps: Flick the bottom of the foot to check for responsiveness | Call emergency services | Place the infant on a firm, flat surface | Place two fingers in the center of the chest, just below the nipple line | Push down about 1.5 inches (4 cm) at a rate of 100-120 per minute | If trained, give 2 gentle rescue breaths for every 30 compressions (cover both mouth and nose with your mouth). Avoid: Do not shake the infant | Do not push too deep (max 1.5 inches) | Do not breathe forcefully (puff only from your cheeks).",
+    "category": "firstaid",
+    "keywords": [
+      "infant",
+      "baby",
+      "cpr",
+      "unresponsive",
+      "blue"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA002-4",
+    "title": "CPR - Immediate Assessment and Response",
+    "text": "CPR - Immediate Assessment and Response. Signs/Rights: Unresponsive; Not breathing normally; Cardiac arrest. Steps: Ensure the area is safe before approaching the victim | Check for responsiveness by tapping and shouting | If there is no response, call emergency services right away | Check breathing for no more than 10 seconds | If the person is not breathing or only gasping, begin CPR immediately.",
+    "category": "firstaid",
+    "keywords": [
+      "CPR",
+      "unconscious",
+      "breathing",
+      "emergency",
+      "cardiac arrest",
+      "first aid",
+      "response"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA002-5",
+    "title": "CPR - Chest Compressions Technique",
+    "text": "CPR - Chest Compressions Technique. Signs/Rights: Unresponsive; Not breathing. Steps: Place the heel of one hand on the center of the chest between the nipples and place the other hand on top | Keep arms straight and press hard and fast at a rate of about 100 to 120 compressions per minute | Push down at least 5 centimeters in adults and allow full chest recoil after each compression | Minimize interruptions to maintain blood flow to vital organs | Continue compressions until emergency help arrives or the person shows signs of life.",
+    "category": "firstaid",
+    "keywords": [
+      "CPR",
+      "chest compression",
+      "heart",
+      "emergency",
+      "resuscitation",
+      "first aid",
+      "cardiac arrest"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA002-6",
+    "title": "CPR - Rescue Breathing Basics",
+    "text": "CPR - Rescue Breathing Basics. Signs/Rights: Unresponsive; Not breathing. Steps: After 30 chest compressions, open the airway by tilting the head back and lifting the chin | Pinch the nose and give two rescue breaths by sealing your mouth over the victim's mouth and blowing steadily until the chest rises | Each breath should last about one second | If the chest does not rise, reposition the head and try again | Continue cycles of 30 compressions and 2 breaths if trained to do so | If untrained, continue hands-only CPR with chest compressions only.",
+    "category": "firstaid",
+    "keywords": [
+      "CPR",
+      "rescue breathing",
+      "airway",
+      "breaths",
+      "oxygen",
+      "first aid",
+      "emergency"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA021-1",
+    "title": "Crush Syndrome",
+    "text": "Crush Syndrome. Signs/Rights: Limb pinned under a heavy object (rubble, car) for more than 15-30 minutes; Numbness; Swelling. Steps: Call emergency services | If the object has been on the limb for LESS than 15 minutes, remove it immediately | If the object has been on the limb for MORE than a few hours, medical personnel may need to administer IV fluids BEFORE removing the object (removing it releases lethal toxins into the heart) | If you must remove it to save their life from other dangers (fire), apply a tourniquet above the crush injury BEFORE removing the weight if possible | Treat for shock. Avoid: Do not abruptly remove a heavy weight that has been pinning someone for hours unless strictly necessary for immediate survival.",
+    "category": "firstaid",
+    "keywords": [
+      "crush",
+      "pinned",
+      "rubble",
+      "earthquake collapse",
+      "toxins"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA018-1",
+    "title": "Knocked-Out Tooth (Avulsed Tooth)",
+    "text": "Knocked-Out Tooth (Avulsed Tooth). Signs/Rights: Tooth completely out of socket; Bleeding from gums; Pain. Steps: Find the tooth and pick it up by the crown (the chewing part), NOT the root | If dirty, rinse it gently in cold running water for 10 seconds | Try to place the tooth back into its socket and have the person bite down gently on gauze to hold it | If you cannot reinsert it, place the tooth in a container of cold milk, or have the person hold it inside their cheek | Get to a dentist immediately (within 30-60 minutes for best chances). Avoid: Do not scrub the tooth or use soap | Do not touch the root | Do not store the tooth in plain water | Do not wrap it in a tissue or cloth (it will dry out).",
+    "category": "firstaid",
+    "keywords": [
+      "tooth",
+      "dental",
+      "knocked out",
+      "mouth",
+      "bleeding",
+      "milk"
+    ],
+    "priority": "medium",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA025-1",
+    "title": "Drowning - Recognition and Immediate Action",
+    "text": "Drowning - Recognition and Immediate Action. Signs/Rights: Distress in water; Inability to call for help; Irregular or absent breathing; Unconscious and floating face down. Steps: Ensure your own safety first before attempting a rescue | Immediately remove them from water if it is safe to do so | Call emergency services immediately | Check breathing and responsiveness as soon as the person is out of water | Begin CPR if the person is not breathing normally.",
+    "category": "firstaid",
+    "keywords": [
+      "drowning",
+      "water",
+      "breathing",
+      "emergency",
+      "first aid",
+      "rescue",
+      "unconscious"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA025-2",
+    "title": "Drowning - Rescue Techniques and Safety",
+    "text": "Drowning - Rescue Techniques and Safety. Signs/Rights: Person drowning in water. Steps: Prioritize your own safety to avoid becoming a victim | Use reaching or throwing methods such as sticks, ropes, or flotation devices instead of entering the water when possible | If entering water is necessary, approach cautiously from behind to avoid being grabbed | Support the person's head above water and move them to a safe area. Avoid: Avoid rough handling, as the person may be panicking and unintentionally pulling the rescuer underwater.",
+    "category": "firstaid",
+    "keywords": [
+      "drowning",
+      "rescue",
+      "water safety",
+      "first aid",
+      "emergency",
+      "floatation",
+      "safety"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA025-3",
+    "title": "Drowning - CPR After Rescue",
+    "text": "Drowning - CPR After Rescue. Signs/Rights: Out of water; Not breathing normally. Steps: Start CPR without delay. Begin with chest compressions followed by rescue breaths if trained | Clear visible water or debris from the mouth if present | Continue cycles of compressions and breaths until the person begins breathing or emergency medical help arrives. Avoid: Do not delay CPR to attempt to remove water from the lungs.",
+    "category": "firstaid",
+    "keywords": [
+      "drowning",
+      "CPR",
+      "rescue breaths",
+      "chest compressions",
+      "emergency",
+      "first aid",
+      "breathing"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA025-4",
+    "title": "Drowning - Recovery and Post Rescue Care",
+    "text": "Drowning - Recovery and Post Rescue Care. Signs/Rights: Regained breathing after drowning. Steps: Monitor closely and ensure immediate medical attention | Place the person in a recovery position on their side to keep the airway open and prevent choking | Keep them warm using blankets or clothing to prevent hypothermia | Watch for delayed complications such as breathing difficulty, coughing, or chest pain. Avoid: Do not assume full recovery without hospital evaluation, as internal water inhalation may cause secondary complications.",
+    "category": "firstaid",
+    "keywords": [
+      "drowning",
+      "recovery position",
+      "hypothermia",
+      "first aid",
+      "emergency",
+      "breathing",
+      "hospital"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA026-1",
+    "title": "Electric Shock - Recognition and Immediate Action",
+    "text": "Electric Shock - Recognition and Immediate Action. Signs/Rights: Burns at entry/exit points; Muscle contractions; Unconsciousness; Difficulty breathing; Irregular heartbeat. Steps: Ensure the power supply is turned off or the source is safely disconnected first | Only approach the victim after ensuring safety | Check responsiveness and breathing immediately after ensuring safety | Call emergency services without delay. Avoid: Do not touch them while they are still in contact with the electrical source.",
+    "category": "firstaid",
+    "keywords": [
+      "electric shock",
+      "current",
+      "burns",
+      "unconscious",
+      "emergency",
+      "first aid",
+      "cardiac arrest"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA026-2",
+    "title": "Electric Shock - Do's and Don'ts and Safety Steps",
+    "text": "Electric Shock - Do's and Don'ts and Safety Steps. Signs/Rights: Electric shock emergency. Steps: Switch off the power source or unplug the device before touching the victim | If power cannot be switched off, use a dry non-conductive object such as wood or plastic to separate the person | Call emergency services immediately | Check breathing and pulse once the person is safe. Avoid: Do not touch the victim directly while they are still in contact with electricity | Do not use wet objects or metal to separate them | Do not attempt to move the person before ensuring the area is safe.",
+    "category": "firstaid",
+    "keywords": [
+      "electric shock",
+      "safety",
+      "do and dont",
+      "current",
+      "first aid",
+      "emergency",
+      "rescue"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA026-3",
+    "title": "Electric Shock - Injuries and Internal Effects",
+    "text": "Electric Shock - Injuries and Internal Effects. Signs/Rights: Burns where electricity entered and exited; Muscle spasms; Fractures or dislocations from sudden movement. Steps: Treat as a severe medical emergency as internal damage can affect muscles, nerves, and organs even if skin injuries appear minor.",
+    "category": "firstaid",
+    "keywords": [
+      "electric shock",
+      "burns",
+      "internal injury",
+      "heart",
+      "nerves",
+      "muscles",
+      "first aid",
+      "emergency"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA026-4",
+    "title": "Electric Shock - Post Rescue Care and Monitoring",
+    "text": "Electric Shock - Post Rescue Care and Monitoring. Signs/Rights: Separated from electrical source. Steps: Check breathing and pulse immediately | Begin CPR if necessary | Place the person in a recovery position if they are breathing but unconscious | Monitor continuously for signs of complications such as irregular heartbeat, breathing difficulty, burns, or confusion | Keep the person warm and comfortable | Ensure medical evaluation even if the person appears fine (internal injuries and rhythm disturbances may occur later).",
+    "category": "firstaid",
+    "keywords": [
+      "electric shock",
+      "recovery position",
+      "CPR",
+      "first aid",
+      "emergency",
+      "monitoring",
+      "heart"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA017-1",
+    "title": "Foreign Object in the Eye",
+    "text": "Foreign Object in the Eye. Signs/Rights: Pain; Tearing; Redness; Feeling like something is in the eye; Sensitivity to light. Steps: Wash hands before examining the eye | Have the person blink rapidly to naturally flush it out | Flush the eye gently with clean, warm water or saline solution from a cup, small glass, or gentle stream | Pull the upper eyelid over the lower eyelid to help brush the object out | If the object remains, cover both eyes (to prevent movement) and seek medical help. Avoid: Do not rub the eye | Do not use tweezers, cotton swabs, or anything hard to remove the object | Do not try to remove an object that is embedded in the eyeball.",
+    "category": "firstaid",
+    "keywords": [
+      "eye",
+      "object",
+      "dust",
+      "sand",
+      "dirt",
+      "flush",
+      "blink"
+    ],
+    "priority": "medium",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA017-2",
+    "title": "Chemical Splash in Eye",
+    "text": "Chemical Splash in Eye. Signs/Rights: Intense pain; Burning; Redness; Swelling; Inability to open the eye. Steps: Immediately flush the eye with a steady stream of lukewarm tap water for at least 15-20 minutes | Hold the eyelid open while flushing | Flush from the inner corner (near nose) outward | Remove contact lenses while flushing if possible | Call emergency services or Poison Control while flushing. Avoid: Do not stop flushing to remove contacts (do it during) | Do not bandage the eye | Do not use any eye drops or chemical neutralizers.",
+    "category": "firstaid",
+    "keywords": [
+      "eye",
+      "chemical",
+      "splash",
+      "burn",
+      "acid",
+      "flush",
+      "blindness"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA004-1",
+    "title": "Closed Fracture (Simple Fracture)",
+    "text": "Closed Fracture (Simple Fracture). Signs/Rights: Severe pain that worsens with movement; Swelling; Bruising; Deformity or unnatural angle; Inability to bear weight or use the limb. Steps: Call emergency services if the injury involves the head, neck, back, pelvis, or upper leg | Keep the limb completely still | Support the injured area using rolled-up blankets, clothing, or a splint only if trained and moving the person is necessary | Apply an ice pack wrapped in a cloth for 20 minutes to reduce swelling | Elevate the limb if it can be done without causing pain. Avoid: Do not try to realign the bone or push it back into place | Do not move the person if a spinal injury is suspected | Do not test the limb's mobility | Do not give food or drink in case surgery is needed.",
+    "category": "firstaid",
+    "keywords": [
+      "fracture",
+      "broken bone",
+      "closed",
+      "splint",
+      "deformity",
+      "swelling"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA004-2",
+    "title": "Open Fracture (Compound Fracture)",
+    "text": "Open Fracture (Compound Fracture). Signs/Rights: Bone protruding through the skin; Severe pain; Heavy bleeding; Deep wound over a suspected fracture. Steps: Call emergency services immediately | Control bleeding by applying gentle pressure around (NOT directly over) the protruding bone using a sterile dressing | Cover the entire wound and protruding bone with a sterile dressing or clean cloth | Immobilize the area exactly as you found it | Treat the person for shock (keep them warm and calm). Avoid: Do not push the bone back into the skin | Do not probe the wound or attempt to clean it | Do not apply direct pressure on the bone itself | Do not let the person eat or drink.",
+    "category": "firstaid",
+    "keywords": [
+      "fracture",
+      "compound",
+      "open",
+      "bone sticking out",
+      "bleeding",
+      "severe"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA004-3",
+    "title": "Spinal Injury (Suspected)",
+    "text": "Spinal Injury (Suspected). Signs/Rights: Severe back or neck pain; Numbness, tingling, or loss of control in limbs; Weakness; Loss of bladder/bowel control; Head or neck in an unnatural position. Steps: Call emergency services immediately | Instruct the person not to move | Stabilize the head and neck by placing your hands on both sides of the head to keep it in the position you found it | Keep the person calm and warm | If you must move them (e.g., vomiting, choking), log-roll them as a single unit with the help of others. Avoid: Do not move the person unless absolutely necessary for their immediate survival | Do not attempt to straighten their neck or back | Do not remove their helmet if they are wearing one.",
+    "category": "firstaid",
+    "keywords": [
+      "spine",
+      "back",
+      "neck",
+      "paralysis",
+      "fall",
+      "car crash",
+      "immobilize"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA004-4",
+    "title": "Fracture - Identification and Immediate Action",
+    "text": "Fracture - Identification and Immediate Action. Signs/Rights: Severe pain; Swelling; Bruising; Deformity; Inability to move the affected part; Bone may protrude through skin. Steps: Keep the injured person still and avoid moving the affected area | Immobilize the injured part using a splint or any rigid support to prevent further damage | Seek immediate medical assistance. Avoid: Do not attempt to realign or push the bone back into place.",
+    "category": "firstaid",
+    "keywords": [
+      "fracture",
+      "bone",
+      "injury",
+      "swelling",
+      "pain",
+      "emergency",
+      "splint",
+      "trauma"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA004-5",
+    "title": "Fracture - Splinting and Immobilization",
+    "text": "Fracture - Splinting and Immobilization. Signs/Rights: Fractured bone needing support. Steps: Use rigid materials such as sticks, cardboard, rolled newspapers, or folded cloth to support the injured area | The splint should extend beyond the joints above and below the fracture site | Secure it gently with cloth or bandages without cutting off blood circulation | Always check for signs of circulation such as warmth, color, and sensation in the limb after splinting. Avoid: Do not tighten excessively, as it may restrict blood flow.",
+    "category": "firstaid",
+    "keywords": [
+      "fracture",
+      "splint",
+      "immobilization",
+      "bone injury",
+      "first aid",
+      "emergency",
+      "bandage"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA004-6",
+    "title": "Fracture - Open Fractures and Bleeding Control",
+    "text": "Fracture - Open Fractures and Bleeding Control. Signs/Rights: Broken bone pierces the skin; Severe bleeding. Steps: Cover the area with a clean, sterile cloth or dressing to reduce contamination | Apply gentle pressure around the wound to control bleeding | Keep the injured person still and calm | Seek emergency medical care immediately. Avoid: Do not push the bone back into the wound | Avoid pressing directly on exposed bone.",
+    "category": "firstaid",
+    "keywords": [
+      "open fracture",
+      "bleeding",
+      "bone injury",
+      "infection",
+      "emergency",
+      "first aid",
+      "wound care"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA004-7",
+    "title": "Fracture - Transport and Medical Care",
+    "text": "Fracture - Transport and Medical Care. Signs/Rights: Fracture stabilized; Preparing for transport; Pale skin, rapid breathing, dizziness (shock). Steps: Transport the injured person to a medical facility as soon as possible | Support the injured limb during transport to prevent unnecessary motion | If possible, keep the person lying down and monitor for signs of shock | Immediate professional medical evaluation is necessary for proper bone alignment and treatment. Avoid: Movement should be minimized to avoid worsening the injury | Do not give food or water if surgery may be required.",
+    "category": "firstaid",
+    "keywords": [
+      "fracture",
+      "transport",
+      "hospital",
+      "emergency",
+      "shock",
+      "immobilization",
+      "first aid",
+      "injury"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA013-1",
+    "title": "Concussion / Mild Traumatic Brain Injury",
+    "text": "Concussion / Mild Traumatic Brain Injury. Signs/Rights: Headache or a feeling of pressure in the head; Temporary confusion or feeling in a fog; Amnesia surrounding the traumatic event; Dizziness or 'seeing stars'; Ringing in the ears (tinnitus); Nausea or vomiting; Fatigue. Steps: Have the person stop the activity and rest | Apply a cold compress to any swelling on the head | Monitor them continuously for worsening symptoms | Seek medical evaluation to confirm the diagnosis and rule out severe injury | Ensure they rest completely (physical and mental rest). Avoid: Do not let them return to sports or rigorous activity | Do not let them drive | Do not give them aspirin or ibuprofen if severe bleeding inside the skull is suspected (use acetaminophen if directed by a doctor).",
+    "category": "firstaid",
+    "keywords": [
+      "concussion",
+      "head impact",
+      "dizziness",
+      "sports injury",
+      "bump"
+    ],
+    "priority": "medium",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA013-2",
+    "title": "Severe Head Injury / Skull Fracture",
+    "text": "Severe Head Injury / Skull Fracture. Signs/Rights: Prolonged unconsciousness; Severe or worsening headache; Repeated vomiting; Unequal pupil size; Clear fluid or blood leaking from the nose or ears; Seizures; Weakness or numbness in the body; Slurred speech; Depressed area in the skull. Steps: Call emergency services immediately | Keep the person completely still; assume there is a spinal injury | Stop any bleeding by applying firm pressure with a sterile cloth (unless you suspect a skull fracture, then apply gentle pressure around the wound) | Monitor breathing and be prepared for CPR | If they vomit, roll their entire body to the side (log-roll) to prevent choking. Avoid: Do not move the person unless absolutely necessary | Do not apply direct pressure to a bleeding head wound if you suspect the skull is fractured | Do not remove any penetrating objects | Do not wash a deep head wound.",
+    "category": "firstaid",
+    "keywords": [
+      "head injury",
+      "skull fracture",
+      "unconscious",
+      "brain trauma",
+      "bleeding ear",
+      "severe"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA011-1",
+    "title": "Suspected Heart Attack",
+    "text": "Suspected Heart Attack. Signs/Rights: Chest pain, pressure, or tightness; Pain radiating to the jaw, neck, back, or arms (especially the left arm); Shortness of breath; Cold sweat; Nausea or lightheadedness; Extreme fatigue (more common in women). Steps: Call emergency services immediately | Have the person sit down, rest, and try to keep calm (W position or half-sitting is often best for breathing) | Loosen any tight clothing | Ask if they take chest pain medication (e.g., nitroglycerin) and assist them in taking it | Offer them a standard adult aspirin (325mg) to chew and swallow, if they are not allergic and have no bleeding disorders | Be ready to perform CPR if they become unresponsive. Avoid: Do not let the person drive themselves to the hospital | Do not ignore the symptoms, even if they seem mild | Do not let the person exert themselves | Do not give aspirin if they are allergic or have been told not to take it by a doctor.",
+    "category": "firstaid",
+    "keywords": [
+      "heart attack",
+      "myocardial infarction",
+      "chest pain",
+      "cardiac",
+      "heart",
+      "aspirin"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA009-1",
+    "title": "Heat Exhaustion",
+    "text": "Heat Exhaustion. Signs/Rights: Heavy sweating; Cold, pale, and clammy skin; Fast, weak pulse; Nausea or vomiting; Muscle cramps; Weakness or dizziness; Headache; Fainting. Steps: Move to a cooler, shaded, or air-conditioned environment | Lie down and elevate legs slightly | Loosen or remove heavy clothing | Sip cool water or a sports drink | Apply cool, wet cloths to the skin or take a cool bath | If symptoms worsen or last longer than an hour, seek medical attention. Avoid: Do not drink ice-cold water too quickly (can cause stomach cramps) | Do not drink alcohol or caffeine | Do not ignore symptoms as it can progress to heat stroke.",
+    "category": "firstaid",
+    "keywords": [
+      "heat exhaustion",
+      "sweating",
+      "cramps",
+      "summer",
+      "overheating",
+      "dizzy"
+    ],
+    "priority": "medium",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA009-2",
+    "title": "Heat Stroke",
+    "text": "Heat Stroke. Signs/Rights: High body temperature (103°F/39.4°C or higher); Hot, red, dry, or damp skin (no sweating); Fast, strong pulse; Headache and dizziness; Confusion, agitation, or slurred speech; Nausea; Seizures; Loss of consciousness. Steps: Call emergency services immediately (this is a medical emergency) | Move the person to a cool environment | Rapidly cool the person by immersing them in a cold bath or shower if possible | Alternatively, sponge with cold water and fan vigorously | Place ice packs on the neck, armpits, and groin | Monitor breathing and be prepared for CPR. Avoid: Do not give the person fluids to drink if they have altered mental status or are vomiting | Do not give fever-reducing medications like acetaminophen or ibuprofen (they are harmful in heat stroke) | Do not leave the person alone.",
+    "category": "firstaid",
+    "keywords": [
+      "heat stroke",
+      "sunstroke",
+      "hot skin",
+      "no sweat",
+      "fever",
+      "unconscious"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA012-4",
+    "title": "Heat Stroke - Recognition and Immediate Action",
+    "text": "Heat Stroke - Recognition and Immediate Action. Signs/Rights: Extremely high body temperature; Confusion; Dizziness; Headache; Rapid pulse; Hot and dry skin; Loss of consciousness. Steps: Immediately move the person to a cooler or shaded area | Remove excess clothing to help cool the body | Begin cooling measures such as applying cool water to the skin, using wet cloths, or fanning the person | Call emergency services immediately.",
+    "category": "firstaid",
+    "keywords": [
+      "heat stroke",
+      "high temperature",
+      "emergency",
+      "first aid",
+      "confusion",
+      "dehydration",
+      "body heat"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA012-5",
+    "title": "Heat Stroke - Symptoms and Risk Factors",
+    "text": "Heat Stroke - Symptoms and Risk Factors. Signs/Rights: Heavy sweating (early stage); Weakness; Dizziness; Nausea; Muscle cramps; Sweating stops (late stage); Skin becomes hot and dry; Seizures. Steps: Identify risk factors: dehydration, direct sun exposure, lack of ventilation, strenuous outdoor activity, wearing heavy/dark clothing.",
+    "category": "firstaid",
+    "keywords": [
+      "heat stroke",
+      "symptoms",
+      "dehydration",
+      "sun exposure",
+      "confusion",
+      "emergency",
+      "risk factors"
+    ],
+    "priority": "high",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA012-6",
+    "title": "Heat Stroke - Recovery and Medical Care",
+    "text": "Heat Stroke - Recovery and Medical Care. Signs/Rights: Recovering from heat stroke; Unconscious. Steps: Immediate medical attention is necessary, even if the person improves after initial cooling | Continue monitoring body temperature, breathing, and consciousness until help arrives | Keep the person lying down in a cool environment | If the person becomes unconscious, place them in a recovery position to maintain airway safety. Avoid: Do not give any medications unless prescribed by medical professionals.",
+    "category": "firstaid",
+    "keywords": [
+      "heat stroke",
+      "recovery",
+      "emergency",
+      "hospital",
+      "first aid",
+      "monitoring",
+      "organ damage"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA008-1",
+    "title": "Mild to Moderate Hypothermia",
+    "text": "Mild to Moderate Hypothermia. Signs/Rights: Constant shivering; Slurred speech; Clumsiness; Apathy or confusion; Cold, pale skin. Steps: Move the person to a warm, dry environment | Remove wet clothing and replace with dry clothing or blankets | Cover the head and neck | Apply warm, dry compresses to the center of the body (chest, neck, groin) | If fully conscious and able to swallow, give warm, sweet, non-alcoholic beverages. Avoid: Do not rub or massage the skin | Do not apply direct heat (like a fire, heating pad, or hot water bottle directly on skin) | Do not warm the arms and legs first (this forces cold blood back to the heart) | Do not give alcohol or caffeine.",
+    "category": "firstaid",
+    "keywords": [
+      "hypothermia",
+      "cold",
+      "shivering",
+      "winter",
+      "exposure",
+      "freezing"
+    ],
+    "priority": "high",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA008-2",
+    "title": "Severe Hypothermia",
+    "text": "Severe Hypothermia. Signs/Rights: Shivering stops; Extreme confusion or unconsciousness; Very slow, shallow breathing; Weak, irregular, or undetectable pulse; Stiff muscles. Steps: Call emergency services immediately | Handle the person extremely gently (rough handling can cause cardiac arrest) | Prevent further heat loss by wrapping in blankets | If breathing has stopped, begin CPR immediately | Continue CPR until emergency responders arrive, even if the person feels ice cold and appears dead ('no one is dead until they are warm and dead'). Avoid: Do not actively rewarm the person rapidly | Do not shake them | Do not give up on CPR.",
+    "category": "firstaid",
+    "keywords": [
+      "hypothermia",
+      "severe",
+      "unconscious",
+      "no shivering",
+      "frozen",
+      "cardiac arrest"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA008-3",
+    "title": "Frostbite",
+    "text": "Frostbite. Signs/Rights: Cold, prickling feeling; Numbness; Skin turns red, then white, pale, or grayish-yellow; Hard or waxy-looking skin; Blisters after warming. Steps: Get out of the cold | Remove wet clothing and restrictive items (rings) | Gradually warm the area using body heat (e.g., place frostbitten fingers in armpits) | Alternatively, soak the area in warm water (100°F - 105°F) for 15-30 minutes until skin becomes soft and returns to a normal color | Loosely bandage the area with sterile dressings; separate fingers or toes with gauze | Seek medical attention. Avoid: Do not rub the skin or massage it | Do not use dry heat (fire, radiator, heating pad) | Do not walk on frostbitten feet | Do not thaw the area if there is a chance it will refreeze before getting medical help | Do not pop blisters.",
+    "category": "firstaid",
+    "keywords": [
+      "frostbite",
+      "ice",
+      "frozen skin",
+      "fingers",
+      "toes",
+      "numb"
+    ],
+    "priority": "high",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA010-1",
+    "title": "Swallowed Poison",
+    "text": "Swallowed Poison. Signs/Rights: Nausea, vomiting, diarrhea; Abdominal pain; Burns or redness around the mouth and lips; Breath that smells like chemicals; Drowsiness or unconsciousness; Seizures. Steps: If the person is unconscious, having seizures, or not breathing, call emergency services immediately | If conscious and stable, call Poison Control | Find out what was taken, how much, and when | Wipe the mouth clean and remove any remaining poison | Keep the person calm and monitor breathing. Avoid: Do not induce vomiting unless explicitly told to do so by Poison Control (vomiting chemicals can cause double damage) | Do not give milk, water, or activated charcoal unless instructed | Do not wait for symptoms to appear before calling for help.",
+    "category": "firstaid",
+    "keywords": [
+      "poison",
+      "swallowed",
+      "ingested",
+      "chemical",
+      "pills",
+      "overdose",
+      "toxic"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA010-2",
+    "title": "Inhaled Poison (Carbon Monoxide, Chemicals)",
+    "text": "Inhaled Poison (Carbon Monoxide, Chemicals). Signs/Rights: Headache; Dizziness or weakness; Nausea or vomiting; Shortness of breath; Confusion; Blurred vision; Loss of consciousness; Cherry red skin (rare, in late CO poisoning). Steps: Get the person out of the toxic environment into fresh air immediately | Call emergency services | If the person is not breathing, begin CPR | Open doors and windows to ventilate the area if it's safe to do so. Avoid: Do not enter a toxic environment without proper breathing apparatus (you might become a victim too) | Do not light a match or use electronics if a gas leak is suspected.",
+    "category": "firstaid",
+    "keywords": [
+      "poison",
+      "inhaled",
+      "gas",
+      "carbon monoxide",
+      "smoke",
+      "fumes",
+      "toxic"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA010-3",
+    "title": "Poison on the Skin",
+    "text": "Poison on the Skin. Signs/Rights: Redness, swelling, or pain; Blisters; Itching; Chemical smell. Steps: Remove contaminated clothing using gloves | Brush off dry powders from the skin | Rinse the affected skin with a continuous stream of water for at least 15-20 minutes | Wash gently with soap and water | Call Poison Control or emergency services. Avoid: Do not touch the poison with your bare hands | Do not apply ointments or creams without medical advice | Do not scrub the skin harshly.",
+    "category": "firstaid",
+    "keywords": [
+      "poison",
+      "skin",
+      "chemical spill",
+      "pesticide",
+      "absorption"
+    ],
+    "priority": "high",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA007-4",
+    "title": "Poisoning - Identification and Immediate Action",
+    "text": "Poisoning - Identification and Immediate Action. Signs/Rights: Nausea; Vomiting; Dizziness; Confusion; Difficulty breathing; Loss of consciousness. Steps: Immediately remove the person from exposure if it is safe to do so | Check responsiveness and breathing | Call emergency services without delay | Try to identify the poison if possible by checking containers or surroundings. Avoid: Do not wait for symptoms to worsen before calling for help | Do not waste time trying to identify the poison if it delays treatment.",
+    "category": "firstaid",
+    "keywords": [
+      "poisoning",
+      "toxic",
+      "emergency",
+      "first aid",
+      "chemical",
+      "ingestion",
+      "symptoms"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA007-5",
+    "title": "Poisoning - Do's and Don'ts",
+    "text": "Poisoning - Do's and Don'ts. Signs/Rights: Poisoning suspected. Steps: Do call emergency services immediately and provide information about the suspected poison | Do keep the person calm and monitor breathing and consciousness | Do remove contaminated clothing if the poison is on the skin and rinse with clean water. Avoid: Do not induce vomiting unless instructed by medical professionals | Do not give food, milk, or water unless advised by emergency services | Do not attempt home remedies or delay hospital treatment.",
+    "category": "firstaid",
+    "keywords": [
+      "poisoning",
+      "toxic",
+      "first aid",
+      "emergency",
+      "do and dont",
+      "chemical",
+      "ingestion"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA007-6",
+    "title": "Poisoning - Types of Poison Exposure",
+    "text": "Poisoning - Types of Poison Exposure. Signs/Rights: Ingestion; Inhalation; Skin contact; Injection. Steps: Ingestion: toxic substances swallowed (chemicals, medicines, spoiled food) | Inhalation: toxic gases or fumes breathed in (carbon monoxide, smoke) | Skin contact: harmful chemicals absorbed through the skin | Injection: toxins enter through bites, stings, or contaminated needles | Seek immediate medical attention as each type requires different first aid precautions.",
+    "category": "firstaid",
+    "keywords": [
+      "poisoning",
+      "toxic",
+      "ingestion",
+      "inhalation",
+      "skin contact",
+      "injection",
+      "emergency",
+      "first aid"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA007-7",
+    "title": "Poisoning - Stabilization and Transport",
+    "text": "Poisoning - Stabilization and Transport. Signs/Rights: Preparing for transport; Vomiting. Steps: Keep the person lying down and monitor breathing, pulse, and consciousness continuously | If vomiting occurs, turn the person on their side to prevent choking | Bring any container or sample of the suspected poison to assist medical treatment | Transport to a hospital immediately. Avoid: Do not give anything by mouth unless instructed by medical professionals.",
+    "category": "firstaid",
+    "keywords": [
+      "poisoning",
+      "transport",
+      "emergency",
+      "hospital",
+      "stabilization",
+      "first aid",
+      "toxic"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA023-1",
+    "title": "Nuclear Fallout / Radiation Exposure",
+    "text": "Nuclear Fallout / Radiation Exposure. Signs/Rights: Nuclear detonation nearby; Radioactive dust/ash falling. Steps: Get inside a sturdy building immediately (basements or windowless center rooms are best) | Remove contaminated clothing and seal it in a plastic bag | Shower thoroughly with soap and warm water (do not scrub hard enough to break the skin) | Wash hair with shampoo | Take Potassium Iodide (KI) pills ONLY if instructed by public health officials (protects the thyroid). Avoid: Do not use hair conditioner (it binds radioactive material to the hair) | Do not consume food or water that was exposed outside | Do not go outside until authorities announce it is safe.",
+    "category": "firstaid",
+    "keywords": [
+      "nuclear",
+      "radiation",
+      "fallout",
+      "bomb",
+      "iodine",
+      "decontamination"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA012-1",
+    "title": "Generalized Seizure (Convulsions)",
+    "text": "Generalized Seizure (Convulsions). Signs/Rights: Sudden fall to the ground; Uncontrollable jerking of arms and legs; Loss of consciousness; Foaming at the mouth; Biting of the tongue; Loss of bladder/bowel control; Confusion after the seizure (postictal state). Steps: Note the time the seizure starts | Clear the area of any hard or sharp objects | Ease the person to the floor and place something soft under their head | Loosen tight clothing around the neck | Gently roll them onto their side to keep the airway clear and allow fluids to drain | Stay with them until the seizure ends and they are fully aware | Call emergency services if the seizure lasts >5 minutes, they have a second seizure, they are injured, pregnant, or it's their first seizure. Avoid: Do not hold the person down or try to stop their movements | Do not put absolutely anything in their mouth (they cannot swallow their tongue) | Do not give food or water until they are fully alert | Do not attempt artificial respiration during the seizure.",
+    "category": "firstaid",
+    "keywords": [
+      "seizure",
+      "epilepsy",
+      "convulsions",
+      "shaking",
+      "fit"
+    ],
+    "priority": "high",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA012-2",
+    "title": "Focal (Partial) Seizure",
+    "text": "Focal (Partial) Seizure. Signs/Rights: Staring blankly; Repetitive movements (lip smacking, chewing, hand rubbing); Wandering aimlessly; Altered sense of taste or smell; Confusion, but remaining on their feet. Steps: Stay calm and observe | Gently guide them away from hazards (stairs, traffic) | Speak calmly and reassure them | Stay with them until they return to complete awareness | Note the duration of the event. Avoid: Do not grab them or yell (they may perceive it as a threat and become aggressive) | Do not try to snap them out of it | Do not restrain them unless they are in immediate danger.",
+    "category": "firstaid",
+    "keywords": [
+      "seizure",
+      "focal",
+      "partial",
+      "absence",
+      "staring",
+      "confusion",
+      "epilepsy"
+    ],
+    "priority": "high",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA007-1",
+    "title": "Hypovolemic Shock (Blood/Fluid Loss)",
+    "text": "Hypovolemic Shock (Blood/Fluid Loss). Signs/Rights: Pale, cold, clammy skin; Rapid, shallow breathing; Rapid, weak pulse; Confusion or anxiety; Dizziness or fainting; Extreme thirst. Steps: Call emergency services immediately | Control any visible external bleeding | Have the person lie flat on their back | Elevate their legs 12 inches (unless head, neck, or leg injury is suspected) | Keep them warm by covering them with a blanket or coat | Provide reassurance and keep them calm. Avoid: Do not give the person anything to eat or drink, even if they complain of severe thirst | Do not elevate the head (keep it flat) | Do not use a heating pad.",
+    "category": "firstaid",
+    "keywords": [
+      "shock",
+      "blood loss",
+      "bleeding",
+      "hypovolemic",
+      "clammy",
+      "pale",
+      "faint"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA007-2",
+    "title": "Cardiogenic Shock (Heart Failure)",
+    "text": "Cardiogenic Shock (Heart Failure). Signs/Rights: Chest pain; Shortness of breath; Pale skin; Rapid pulse; Sweating; Fainting. Steps: Call emergency services immediately | Have the person rest in a comfortable position (often sitting up helps them breathe better than lying flat) | Loosen tight clothing | Ask if they have prescribed heart medication (like nitroglycerin) and assist them in taking it | Monitor breathing and be prepared for CPR. Avoid: Do not lay them flat if it makes their breathing worse | Do not let them exert themselves | Do not give them food or water.",
+    "category": "firstaid",
+    "keywords": [
+      "shock",
+      "heart",
+      "cardiogenic",
+      "chest pain",
+      "breathing"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA001-1",
+    "title": "Unidentified or Venomous Snake Bite",
+    "text": "Unidentified or Venomous Snake Bite. Signs/Rights: Puncture marks; Severe, throbbing pain; Rapid swelling; Numbness or tingling; Nausea or vomiting; Difficulty breathing; Weakness; Metallic taste. Steps: Call emergency services immediately | Keep the victim completely still and calm to slow venom spread | Remove jewelry and tight clothing before swelling begins | Immobilize the bitten area with a splint | Keep the bitten area at or slightly below heart level | Carry the victim if possible instead of letting them walk. Avoid: Do not cut or slash the bite | Do not suck the venom by mouth or with any device | Do not apply a tourniquet | Do not apply ice, cold packs, or water | Do not give the person alcohol, caffeine, or any pain medication | Do not try to catch the snake.",
+    "category": "firstaid",
+    "keywords": [
+      "snake",
+      "venomous",
+      "cobra",
+      "rattlesnake",
+      "viper",
+      "bite",
+      "poison",
+      "fang"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA001-2",
+    "title": "Non-Venomous Snake Bite",
+    "text": "Non-Venomous Snake Bite. Signs/Rights: Semicircular teeth marks (no fangs); Minor bleeding; Mild pain; Itching; Local redness. Steps: Wash the bite area with soap and water | Apply an antibiotic ointment if available | Cover with a clean, dry bandage | Monitor for signs of infection over the next few days | Seek medical attention to verify it was non-venomous and for a possible tetanus shot. Avoid: Do not panic | Do not apply tight bandages | Do not ignore signs of infection (pus, severe redness).",
+    "category": "firstaid",
+    "keywords": [
+      "snake",
+      "non-venomous",
+      "garter",
+      "python",
+      "bite",
+      "teeth",
+      "harmless"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA001-3",
+    "title": "Spitting Cobra - Venom in Eyes",
+    "text": "Spitting Cobra - Venom in Eyes. Signs/Rights: Intense pain in the eyes; Tearing; Temporary blindness; Redness and swelling around the eyes. Steps: Immediately flush the eyes with large amounts of clean water or saline for at least 15-20 minutes | Blink frequently while flushing | Call emergency services immediately | Keep the person calm. Avoid: Do not rub the eyes | Do not use eye drops or any chemicals to rinse the eyes (use only clean water or saline) | Do not delay flushing.",
+    "category": "firstaid",
+    "keywords": [
+      "snake",
+      "cobra",
+      "spit",
+      "eye",
+      "venom",
+      "blindness",
+      "flush"
+    ],
+    "priority": "high",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA001-4",
+    "title": "Snake Bite - Immediate Response",
+    "text": "Snake Bite - Immediate Response. Signs/Rights: Bitten by a snake. Steps: Remain calm and avoid panic | Keep the affected person still | Remove any tight items such as rings, bracelets, or tight clothing near the affected area | Keep the bitten limb at or slightly below heart level | Seek emergency medical help immediately. Avoid: Do not attempt to suck out the venom or cut the wound | Do not allow movement as it can spread venom faster through the body.",
+    "category": "firstaid",
+    "keywords": [
+      "snake bite",
+      "venom",
+      "emergency",
+      "first aid",
+      "swelling",
+      "calm",
+      "hospital"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA001-5",
+    "title": "Snake Bite - Do's and Don'ts",
+    "text": "Snake Bite - Do's and Don'ts. Signs/Rights: Bitten by a snake. Steps: Do keep the person calm and immobilized to slow venom spread | Do keep the affected limb still and slightly lowered | Do seek immediate medical attention. Avoid: Do not cut the wound or try to suck out venom | Do not apply ice, chemicals, or herbal remedies | Do not allow the victim to walk or run | Avoid giving alcohol or painkillers unless prescribed by a medical professional.",
+    "category": "firstaid",
+    "keywords": [
+      "snake bite",
+      "do and dont",
+      "venom",
+      "emergency",
+      "first aid",
+      "hospital",
+      "treatment"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA001-6",
+    "title": "Snake Bite - Identification and Symptoms",
+    "text": "Snake Bite - Identification and Symptoms. Signs/Rights: Pain at the bite site; Swelling; Redness; Bruising; Nausea; Vomiting; Difficulty breathing; Blurred vision; Sweating; Muscle weakness. Steps: Medical evaluation is always necessary even if the bite appears minor (some bites may not show immediate symptoms).",
+    "category": "firstaid",
+    "keywords": [
+      "snake bite",
+      "symptoms",
+      "venom",
+      "pain",
+      "swelling",
+      "emergency",
+      "breathing",
+      "weakness"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA001-7",
+    "title": "Snake Bite - Stabilization and Transport",
+    "text": "Snake Bite - Stabilization and Transport. Signs/Rights: Bitten by a snake; Preparing for transport. Steps: Keep the person lying down and prevent any unnecessary movement | Immobilize the affected limb using a splint or cloth to reduce motion | Monitor breathing and consciousness levels continuously | If possible, note the time of the bite and description of the snake for medical reference | Ensure emergency services are contacted immediately. Avoid: Do not risk further exposure to identify the snake.",
+    "category": "firstaid",
+    "keywords": [
+      "snake bite",
+      "transport",
+      "stabilize",
+      "hospital",
+      "emergency",
+      "immobilize",
+      "first aid"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA024-1",
+    "title": "S.T.A.R.T. Triage (Mass Casualty)",
+    "text": "S.T.A.R.T. Triage (Mass Casualty). Signs/Rights: Multiple victims; Limited resources; Need to sort who gets treated first. Steps: Assess Respiration: If not breathing, open airway. If still not breathing -> DECEASED (Black). If breathing >30/min -> IMMEDIATE (Red). | Assess Perfusion: If capillary refill >2 seconds or no radial pulse -> IMMEDIATE (Red). Control major bleeding. | Assess Mental Status: If unable to follow simple commands -> IMMEDIATE (Red). | If they pass all three (breathing <30, good pulse, follows commands) -> DELAYED (Yellow). | Anyone who can walk away when told -> MINOR (Green).. Avoid: Do not spend too much time on one victim (triage should take <30 seconds per person) | Do not perform CPR during mass triage if resources are overwhelmed.",
+    "category": "firstaid",
+    "keywords": [
+      "triage",
+      "mass casualty",
+      "multiple injured",
+      "who to treat first",
+      "START method"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA016-1",
+    "title": "Puncture Wound (Nails, Animal Bites)",
+    "text": "Puncture Wound (Nails, Animal Bites). Signs/Rights: Deep, narrow hole in the skin; Minor bleeding; Pain; Possible debris in wound. Steps: Wash hands thoroughly | Stop the bleeding with gentle pressure | Rinse the wound for 5-10 minutes under running water | Clean the area around the wound with soap | Apply an antibiotic ointment and a bandage | Seek medical attention for deep wounds, animal bites, or if a tetanus shot is needed. Avoid: Do not probe or try to clean deep inside a puncture wound | Do not use iodine or hydrogen peroxide | Do not remove large embedded objects (leave them and go to ER).",
+    "category": "firstaid",
+    "keywords": [
+      "puncture",
+      "nail",
+      "bite",
+      "dog bite",
+      "cat bite",
+      "deep wound",
+      "rusty"
+    ],
+    "priority": "high",
+    "source": "WHO / IFRC"
+  },
+  {
+    "id": "FA016-2",
+    "title": "Embedded Object (Knife, Glass, Wood)",
+    "text": "Embedded Object (Knife, Glass, Wood). Signs/Rights: Object sticking out of the body; Bleeding around the object; Pain. Steps: Call emergency services | Leave the object in place | Apply pressure around the edges of the object to control bleeding, not on the object itself | Stabilize the object by packing bulky dressings (like rolled-up gauze or cloths) around it and taping them down | Keep the person completely still. Avoid: DO NOT remove the object (it may be acting as a plug to stop severe bleeding) | Do not cut the object shorter unless it is completely unmanageable to transport.",
+    "category": "firstaid",
+    "keywords": [
+      "embedded",
+      "knife",
+      "stabbed",
+      "impaled",
+      "glass",
+      "sticking out"
+    ],
+    "priority": "critical",
+    "source": "WHO / IFRC"
+  }
+]

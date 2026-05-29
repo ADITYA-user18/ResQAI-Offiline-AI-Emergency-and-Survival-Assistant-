@@ -1,0 +1,222 @@
+[
+  {
+    "id": "FA004-1",
+    "title": "Closed Fracture (Simple Fracture)",
+    "category": "FirstAid",
+    "severity": "High",
+    "symptoms": [
+      "Severe pain that worsens with movement",
+      "Swelling",
+      "Bruising",
+      "Deformity or unnatural angle",
+      "Inability to bear weight or use the limb"
+    ],
+    "immediate_steps": [
+      "Call emergency services if the injury involves the head, neck, back, pelvis, or upper leg",
+      "Keep the limb completely still",
+      "Support the injured area using rolled-up blankets, clothing, or a splint only if trained and moving the person is necessary",
+      "Apply an ice pack wrapped in a cloth for 20 minutes to reduce swelling",
+      "Elevate the limb if it can be done without causing pain"
+    ],
+    "avoid": [
+      "Do not try to realign the bone or push it back into place",
+      "Do not move the person if a spinal injury is suspected",
+      "Do not test the limb's mobility",
+      "Do not give food or drink in case surgery is needed"
+    ],
+    "keywords": [
+      "fracture",
+      "broken bone",
+      "closed",
+      "splint",
+      "deformity",
+      "swelling"
+    ]
+  },
+  {
+    "id": "FA004-2",
+    "title": "Open Fracture (Compound Fracture)",
+    "category": "FirstAid",
+    "severity": "Critical",
+    "symptoms": [
+      "Bone protruding through the skin",
+      "Severe pain",
+      "Heavy bleeding",
+      "Deep wound over a suspected fracture"
+    ],
+    "immediate_steps": [
+      "Call emergency services immediately",
+      "Control bleeding by applying gentle pressure around (NOT directly over) the protruding bone using a sterile dressing",
+      "Cover the entire wound and protruding bone with a sterile dressing or clean cloth",
+      "Immobilize the area exactly as you found it",
+      "Treat the person for shock (keep them warm and calm)"
+    ],
+    "avoid": [
+      "Do not push the bone back into the skin",
+      "Do not probe the wound or attempt to clean it",
+      "Do not apply direct pressure on the bone itself",
+      "Do not let the person eat or drink"
+    ],
+    "keywords": [
+      "fracture",
+      "compound",
+      "open",
+      "bone sticking out",
+      "bleeding",
+      "severe"
+    ]
+  },
+  {
+    "id": "FA004-3",
+    "title": "Spinal Injury (Suspected)",
+    "category": "FirstAid",
+    "severity": "Critical",
+    "symptoms": [
+      "Severe back or neck pain",
+      "Numbness, tingling, or loss of control in limbs",
+      "Weakness",
+      "Loss of bladder/bowel control",
+      "Head or neck in an unnatural position"
+    ],
+    "immediate_steps": [
+      "Call emergency services immediately",
+      "Instruct the person not to move",
+      "Stabilize the head and neck by placing your hands on both sides of the head to keep it in the position you found it",
+      "Keep the person calm and warm",
+      "If you must move them (e.g., vomiting, choking), log-roll them as a single unit with the help of others"
+    ],
+    "avoid": [
+      "Do not move the person unless absolutely necessary for their immediate survival",
+      "Do not attempt to straighten their neck or back",
+      "Do not remove their helmet if they are wearing one"
+    ],
+    "keywords": [
+      "spine",
+      "back",
+      "neck",
+      "paralysis",
+      "fall",
+      "car crash",
+      "immobilize"
+    ]
+  },
+  {
+    "id": "FA004-4",
+    "title": "Fracture - Identification and Immediate Action",
+    "category": "FirstAid",
+    "severity": "Critical",
+    "symptoms": [
+      "Severe pain",
+      "Swelling",
+      "Bruising",
+      "Deformity",
+      "Inability to move the affected part",
+      "Bone may protrude through skin"
+    ],
+    "immediate_steps": [
+      "Keep the injured person still and avoid moving the affected area",
+      "Immobilize the injured part using a splint or any rigid support to prevent further damage",
+      "Seek immediate medical assistance"
+    ],
+    "avoid": [
+      "Do not attempt to realign or push the bone back into place"
+    ],
+    "keywords": [
+      "fracture",
+      "bone",
+      "injury",
+      "swelling",
+      "pain",
+      "emergency",
+      "splint",
+      "trauma"
+    ]
+  },
+  {
+    "id": "FA004-5",
+    "title": "Fracture - Splinting and Immobilization",
+    "category": "FirstAid",
+    "severity": "Critical",
+    "symptoms": [
+      "Fractured bone needing support"
+    ],
+    "immediate_steps": [
+      "Use rigid materials such as sticks, cardboard, rolled newspapers, or folded cloth to support the injured area",
+      "The splint should extend beyond the joints above and below the fracture site",
+      "Secure it gently with cloth or bandages without cutting off blood circulation",
+      "Always check for signs of circulation such as warmth, color, and sensation in the limb after splinting"
+    ],
+    "avoid": [
+      "Do not tighten excessively, as it may restrict blood flow"
+    ],
+    "keywords": [
+      "fracture",
+      "splint",
+      "immobilization",
+      "bone injury",
+      "first aid",
+      "emergency",
+      "bandage"
+    ]
+  },
+  {
+    "id": "FA004-6",
+    "title": "Fracture - Open Fractures and Bleeding Control",
+    "category": "FirstAid",
+    "severity": "Critical",
+    "symptoms": [
+      "Broken bone pierces the skin",
+      "Severe bleeding"
+    ],
+    "immediate_steps": [
+      "Cover the area with a clean, sterile cloth or dressing to reduce contamination",
+      "Apply gentle pressure around the wound to control bleeding",
+      "Keep the injured person still and calm",
+      "Seek emergency medical care immediately"
+    ],
+    "avoid": [
+      "Do not push the bone back into the wound",
+      "Avoid pressing directly on exposed bone"
+    ],
+    "keywords": [
+      "open fracture",
+      "bleeding",
+      "bone injury",
+      "infection",
+      "emergency",
+      "first aid",
+      "wound care"
+    ]
+  },
+  {
+    "id": "FA004-7",
+    "title": "Fracture - Transport and Medical Care",
+    "category": "FirstAid",
+    "severity": "Critical",
+    "symptoms": [
+      "Fracture stabilized",
+      "Preparing for transport",
+      "Pale skin, rapid breathing, dizziness (shock)"
+    ],
+    "immediate_steps": [
+      "Transport the injured person to a medical facility as soon as possible",
+      "Support the injured limb during transport to prevent unnecessary motion",
+      "If possible, keep the person lying down and monitor for signs of shock",
+      "Immediate professional medical evaluation is necessary for proper bone alignment and treatment"
+    ],
+    "avoid": [
+      "Movement should be minimized to avoid worsening the injury",
+      "Do not give food or water if surgery may be required"
+    ],
+    "keywords": [
+      "fracture",
+      "transport",
+      "hospital",
+      "emergency",
+      "shock",
+      "immobilization",
+      "first aid",
+      "injury"
+    ]
+  }
+]

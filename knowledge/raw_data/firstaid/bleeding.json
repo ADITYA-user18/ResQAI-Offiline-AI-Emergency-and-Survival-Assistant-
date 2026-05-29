@@ -1,0 +1,247 @@
+[
+  {
+    "id": "FA005-1",
+    "title": "Minor Cuts and Scrapes",
+    "category": "FirstAid",
+    "severity": "Low",
+    "symptoms": [
+      "Slight bleeding",
+      "Superficial skin break",
+      "Minor pain"
+    ],
+    "immediate_steps": [
+      "Wash your hands before treating",
+      "Rinse the wound with clean water to remove dirt",
+      "Wash around the wound with mild soap",
+      "Apply gentle pressure with a clean cloth if bleeding hasn't stopped",
+      "Apply a thin layer of antibiotic ointment",
+      "Cover with a sterile bandage"
+    ],
+    "avoid": [
+      "Do not use alcohol, hydrogen peroxide, or iodine on the wound (they delay healing)",
+      "Do not pick at scabs",
+      "Do not blow on the wound"
+    ],
+    "keywords": [
+      "cut",
+      "scrape",
+      "minor",
+      "abrasion",
+      "bandaid",
+      "scratch"
+    ]
+  },
+  {
+    "id": "FA005-2",
+    "title": "Severe External Bleeding",
+    "category": "FirstAid",
+    "severity": "Critical",
+    "symptoms": [
+      "Blood spurting or flowing continuously",
+      "Blood pooling on the ground",
+      "Clothing soaked in blood",
+      "Dizziness, confusion, or pale skin (signs of shock)"
+    ],
+    "immediate_steps": [
+      "Call emergency services immediately",
+      "Have the person lie down",
+      "Apply strong, direct pressure directly to the wound using a clean cloth or sterile dressing",
+      "If blood soaks through, place another cloth on top and press harder",
+      "Maintain constant pressure until help arrives",
+      "If the wound is on an arm or leg, elevate it above the heart if possible without causing pain"
+    ],
+    "avoid": [
+      "Do not remove the first layer of blood-soaked cloth",
+      "Do not check the wound to see if it has stopped bleeding",
+      "Do not use a makeshift tourniquet for non-life-threatening bleeding"
+    ],
+    "keywords": [
+      "bleeding",
+      "severe",
+      "hemorrhage",
+      "artery",
+      "pressure",
+      "blood loss"
+    ]
+  },
+  {
+    "id": "FA005-3",
+    "title": "Life-Threatening Bleeding (Tourniquet Required)",
+    "category": "FirstAid",
+    "severity": "Critical",
+    "symptoms": [
+      "Massive spurting blood from an arm or leg",
+      "Direct pressure fails to stop the bleeding",
+      "Amputation or partial amputation"
+    ],
+    "immediate_steps": [
+      "Call emergency services immediately",
+      "Apply a commercially made tourniquet 2-3 inches above the bleeding site (not over a joint)",
+      "Tighten the tourniquet until the bleeding completely stops",
+      "Secure the tourniquet and note the exact time it was applied",
+      "If a commercial tourniquet is unavailable, use a wide strip of cloth and a stick to twist it tight (windlass)",
+      "Treat the person for shock"
+    ],
+    "avoid": [
+      "Do not apply a tourniquet over a joint (elbow or knee) - go above it",
+      "Do not loosen or remove the tourniquet once it is applied",
+      "Do not use narrow materials like wire or shoelaces (they cut tissue)"
+    ],
+    "keywords": [
+      "tourniquet",
+      "amputation",
+      "life-threatening",
+      "arterial",
+      "massive bleed"
+    ]
+  },
+  {
+    "id": "FA005-4",
+    "title": "Nosebleed (Epistaxis)",
+    "category": "FirstAid",
+    "severity": "Low",
+    "symptoms": [
+      "Blood flowing from one or both nostrils",
+      "Swallowing blood"
+    ],
+    "immediate_steps": [
+      "Have the person sit upright and lean slightly forward",
+      "Pinch the soft part of the nose just below the bony bridge",
+      "Breathe through the mouth",
+      "Hold pressure for at least 10-15 uninterrupted minutes",
+      "Apply a cold compress to the bridge of the nose",
+      "Seek medical care if bleeding lasts more than 20 minutes or follows a head injury"
+    ],
+    "avoid": [
+      "Do not lean the head back (blood will drain into the throat)",
+      "Do not blow the nose for several hours after bleeding stops",
+      "Do not pick the nose"
+    ],
+    "keywords": [
+      "nosebleed",
+      "nose",
+      "face",
+      "blood"
+    ]
+  },
+  {
+    "id": "FA005-5",
+    "title": "Bleeding - Types and Immediate Control",
+    "category": "FirstAid",
+    "severity": "Critical",
+    "symptoms": [
+      "Arterial bleeding (bright red, spurting)",
+      "Venous bleeding (dark red, flowing steadily)",
+      "Capillary bleeding (slow oozing)"
+    ],
+    "immediate_steps": [
+      "Apply direct pressure on the wound using a clean cloth or bandage",
+      "Elevate the injured area above heart level if possible to reduce blood flow",
+      "Maintain steady pressure until bleeding slows or stops",
+      "Seek medical attention for severe or uncontrolled bleeding"
+    ],
+    "avoid": [],
+    "keywords": [
+      "bleeding",
+      "wound",
+      "blood loss",
+      "arterial",
+      "venous",
+      "capillary",
+      "first aid",
+      "emergency"
+    ]
+  },
+  {
+    "id": "FA005-6",
+    "title": "Bleeding - Pressure and Dressing Techniques",
+    "category": "FirstAid",
+    "severity": "Critical",
+    "symptoms": [
+      "Bleeding requiring dressing"
+    ],
+    "immediate_steps": [
+      "Apply firm and continuous direct pressure on the wound using a clean cloth, gauze, or bandage",
+      "If blood soaks through, add more layers on top instead of removing the original dressing",
+      "Maintain pressure until bleeding reduces significantly",
+      "If possible, elevate the injured limb above heart level to slow blood flow",
+      "Secure the dressing once bleeding is controlled"
+    ],
+    "avoid": [
+      "Do not frequently remove the cloth to check the wound, as this can restart bleeding",
+      "Avoid wrapping too tightly once secured"
+    ],
+    "keywords": [
+      "bleeding",
+      "pressure",
+      "bandage",
+      "wound care",
+      "first aid",
+      "emergency",
+      "blood control"
+    ]
+  },
+  {
+    "id": "FA005-7",
+    "title": "Bleeding - Severe Bleeding and Shock Prevention",
+    "category": "FirstAid",
+    "severity": "Critical",
+    "symptoms": [
+      "Severe blood loss",
+      "Pale or cold skin",
+      "Rapid breathing",
+      "Weakness",
+      "Dizziness",
+      "Confusion"
+    ],
+    "immediate_steps": [
+      "Apply strong direct pressure immediately",
+      "Keep the person lying down",
+      "Elevate the legs slightly if there are no suspected fractures",
+      "Keep the person warm using a blanket or clothing to maintain body temperature",
+      "Continue monitoring until emergency medical help arrives"
+    ],
+    "avoid": [
+      "Do not give food or water"
+    ],
+    "keywords": [
+      "bleeding",
+      "shock",
+      "blood loss",
+      "emergency",
+      "first aid",
+      "pressure",
+      "trauma"
+    ]
+  },
+  {
+    "id": "FA005-8",
+    "title": "Bleeding - Special Cases and Wound Care",
+    "category": "FirstAid",
+    "severity": "High",
+    "symptoms": [
+      "Embedded object",
+      "Nosebleed",
+      "Minor cut"
+    ],
+    "immediate_steps": [
+      "For embedded objects: stabilize it with padding around the object and apply pressure around the wound",
+      "For nosebleeds: pinch the soft part of the nose and lean forward slightly",
+      "For minor cuts: clean the wound with clean water and apply a sterile dressing",
+      "Always monitor for signs of infection such as redness, swelling, or pus after bleeding is controlled"
+    ],
+    "avoid": [
+      "Do not remove embedded objects as they may be controlling internal bleeding",
+      "For nosebleeds, do not lean back (prevents swallowing blood)"
+    ],
+    "keywords": [
+      "bleeding",
+      "wound care",
+      "nosebleed",
+      "injury",
+      "first aid",
+      "infection",
+      "emergency"
+    ]
+  }
+]

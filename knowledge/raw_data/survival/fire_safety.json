@@ -1,0 +1,64 @@
+[
+  {
+    "id": "SURV003-1",
+    "title": "Starting a Fire (Friction/Bow Drill)",
+    "category": "Survival",
+    "severity": "High",
+    "symptoms": [
+      "Cold",
+      "Need to boil water",
+      "No matches or lighter"
+    ],
+    "immediate_steps": [
+      "Gather dry tinder (bird nests, dry grass, shaved bark)",
+      "Create a bow using a flexible branch and a shoelace or cord",
+      "Make a fireboard from dry, soft wood with a small notch",
+      "Carve a straight, hard wood spindle",
+      "Use a bearing block (stone or hard wood) to hold the top of the spindle",
+      "Wrap the bowstring around the spindle and move the bow back and forth rapidly to create friction",
+      "Once an ember forms, drop it into the tinder bundle and blow gently until it ignites"
+    ],
+    "avoid": [
+      "Do not use wet or green wood",
+      "Do not blow too hard and extinguish the ember",
+      "Do not give up quickly (friction fires require stamina)"
+    ],
+    "keywords": [
+      "fire",
+      "bow drill",
+      "friction",
+      "tinder",
+      "ember",
+      "warmth"
+    ]
+  },
+  {
+    "id": "SURV003-2",
+    "title": "Fire Safety and Extinguishing",
+    "category": "Survival",
+    "severity": "High",
+    "symptoms": [
+      "Leaving camp",
+      "Dry conditions"
+    ],
+    "immediate_steps": [
+      "Clear a 10-foot radius around your fire pit of all flammable material",
+      "Keep the fire small and manageable",
+      "To extinguish, drown the fire with water",
+      "Stir the ashes and embers with dirt and more water",
+      "Feel the ashes with the back of your hand to ensure it is completely cold before leaving"
+    ],
+    "avoid": [
+      "Do not leave a fire unattended",
+      "Do not build a fire on peaty soil (fire can burn underground)",
+      "Do not use river rocks (they can explode when heated)"
+    ],
+    "keywords": [
+      "fire",
+      "safety",
+      "extinguish",
+      "wildfire",
+      "camp"
+    ]
+  }
+]

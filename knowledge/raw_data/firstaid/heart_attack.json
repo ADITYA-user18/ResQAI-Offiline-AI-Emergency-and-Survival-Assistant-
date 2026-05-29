@@ -1,0 +1,38 @@
+[
+  {
+    "id": "FA011-1",
+    "title": "Suspected Heart Attack",
+    "category": "FirstAid",
+    "severity": "Critical",
+    "symptoms": [
+      "Chest pain, pressure, or tightness",
+      "Pain radiating to the jaw, neck, back, or arms (especially the left arm)",
+      "Shortness of breath",
+      "Cold sweat",
+      "Nausea or lightheadedness",
+      "Extreme fatigue (more common in women)"
+    ],
+    "immediate_steps": [
+      "Call emergency services immediately",
+      "Have the person sit down, rest, and try to keep calm (W position or half-sitting is often best for breathing)",
+      "Loosen any tight clothing",
+      "Ask if they take chest pain medication (e.g., nitroglycerin) and assist them in taking it",
+      "Offer them a standard adult aspirin (325mg) to chew and swallow, if they are not allergic and have no bleeding disorders",
+      "Be ready to perform CPR if they become unresponsive"
+    ],
+    "avoid": [
+      "Do not let the person drive themselves to the hospital",
+      "Do not ignore the symptoms, even if they seem mild",
+      "Do not let the person exert themselves",
+      "Do not give aspirin if they are allergic or have been told not to take it by a doctor"
+    ],
+    "keywords": [
+      "heart attack",
+      "myocardial infarction",
+      "chest pain",
+      "cardiac",
+      "heart",
+      "aspirin"
+    ]
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "id": "SURV011-1",
+    "title": "Surviving the Night Without Gear",
+    "category": "Survival",
+    "severity": "High",
+    "symptoms": [
+      "Lost",
+      "Sun is setting",
+      "No camping gear",
+      "Dropping temperatures"
+    ],
+    "immediate_steps": [
+      "Stop moving at least 2 hours before dark",
+      "Prioritize finding shelter from the wind (a rock overhang, a fallen tree, or dense evergreens)",
+      "Insulate your body from the cold ground using thick layers of dry leaves or pine boughs",
+      "Stuff your clothing with dry leaves or grass for insulation",
+      "Huddle in a fetal position to conserve body heat",
+      "Stay awake and do isometric exercises (flexing muscles) to generate heat if you are shivering uncontrollably"
+    ],
+    "avoid": [
+      "Do not attempt to hike in the dark (high risk of injury)",
+      "Do not lie directly on the cold ground",
+      "Do not sleep if you are severely hypothermic and alone"
+    ],
+    "keywords": [
+      "night",
+      "dark",
+      "cold",
+      "bivouac",
+      "insulation",
+      "sleep"
+    ]
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "id": "SURV005-1",
+    "title": "Visual Signaling (Daytime)",
+    "category": "Survival",
+    "severity": "High",
+    "symptoms": [
+      "Stranded",
+      "Search and rescue expected",
+      "Daylight"
+    ],
+    "immediate_steps": [
+      "Build three fires in a triangle formation (the universal distress signal)",
+      "Once a plane or helicopter is heard, throw green leaves, pine boughs, or damp wood on the fire to create thick white smoke",
+      "Use a signal mirror or shiny object (CD, foil) to flash sunlight at passing planes or distant ridges",
+      "Create a large 'X' or 'SOS' on the ground using highly contrasting materials (dark rocks on snow, or bright clothes on dirt)"
+    ],
+    "avoid": [
+      "Do not light signal fires until you hear or see potential rescuers",
+      "Do not point a laser pointer at aircraft (it is illegal and blinding)"
+    ],
+    "keywords": [
+      "signal",
+      "rescue",
+      "smoke",
+      "mirror",
+      "sos",
+      "lost"
+    ]
+  },
+  {
+    "id": "SURV005-2",
+    "title": "Lost In Forest - Signaling And Rescue",
+    "category": "Survival",
+    "severity": "High",
+    "symptoms": [
+      "Lost in forest",
+      "Need rescue"
+    ],
+    "immediate_steps": [
+      "Increase visibility for rescuers once a safe location is established",
+      "Use whistles, mirrors, flashlights or bright-colored clothing for signaling",
+      "Create visible ground markers using stones, branches or logs in open areas",
+      "Smoke from controlled fires may assist rescuers during daytime",
+      "Stay near signaling locations and respond immediately to sounds of rescue teams or vehicles"
+    ],
+    "avoid": [
+      "Avoid unnecessary movement once a safe location is established"
+    ],
+    "keywords": [
+      "rescue",
+      "signal",
+      "whistle",
+      "mirror",
+      "smoke",
+      "visibility",
+      "search",
+      "forest",
+      "help",
+      "survival"
+    ]
+  }
+]

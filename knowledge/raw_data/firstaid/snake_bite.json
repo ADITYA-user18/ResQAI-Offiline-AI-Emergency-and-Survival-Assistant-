@@ -1,0 +1,229 @@
+[
+  {
+    "id": "FA001-1",
+    "title": "Unidentified or Venomous Snake Bite",
+    "category": "FirstAid",
+    "severity": "Critical",
+    "symptoms": [
+      "Puncture marks",
+      "Severe, throbbing pain",
+      "Rapid swelling",
+      "Numbness or tingling",
+      "Nausea or vomiting",
+      "Difficulty breathing",
+      "Weakness",
+      "Metallic taste"
+    ],
+    "immediate_steps": [
+      "Call emergency services immediately",
+      "Keep the victim completely still and calm to slow venom spread",
+      "Remove jewelry and tight clothing before swelling begins",
+      "Immobilize the bitten area with a splint",
+      "Keep the bitten area at or slightly below heart level",
+      "Carry the victim if possible instead of letting them walk"
+    ],
+    "avoid": [
+      "Do not cut or slash the bite",
+      "Do not suck the venom by mouth or with any device",
+      "Do not apply a tourniquet",
+      "Do not apply ice, cold packs, or water",
+      "Do not give the person alcohol, caffeine, or any pain medication",
+      "Do not try to catch the snake"
+    ],
+    "keywords": [
+      "snake",
+      "venomous",
+      "cobra",
+      "rattlesnake",
+      "viper",
+      "bite",
+      "poison",
+      "fang"
+    ]
+  },
+  {
+    "id": "FA001-2",
+    "title": "Non-Venomous Snake Bite",
+    "category": "FirstAid",
+    "severity": "Low",
+    "symptoms": [
+      "Semicircular teeth marks (no fangs)",
+      "Minor bleeding",
+      "Mild pain",
+      "Itching",
+      "Local redness"
+    ],
+    "immediate_steps": [
+      "Wash the bite area with soap and water",
+      "Apply an antibiotic ointment if available",
+      "Cover with a clean, dry bandage",
+      "Monitor for signs of infection over the next few days",
+      "Seek medical attention to verify it was non-venomous and for a possible tetanus shot"
+    ],
+    "avoid": [
+      "Do not panic",
+      "Do not apply tight bandages",
+      "Do not ignore signs of infection (pus, severe redness)"
+    ],
+    "keywords": [
+      "snake",
+      "non-venomous",
+      "garter",
+      "python",
+      "bite",
+      "teeth",
+      "harmless"
+    ]
+  },
+  {
+    "id": "FA001-3",
+    "title": "Spitting Cobra - Venom in Eyes",
+    "category": "FirstAid",
+    "severity": "High",
+    "symptoms": [
+      "Intense pain in the eyes",
+      "Tearing",
+      "Temporary blindness",
+      "Redness and swelling around the eyes"
+    ],
+    "immediate_steps": [
+      "Immediately flush the eyes with large amounts of clean water or saline for at least 15-20 minutes",
+      "Blink frequently while flushing",
+      "Call emergency services immediately",
+      "Keep the person calm"
+    ],
+    "avoid": [
+      "Do not rub the eyes",
+      "Do not use eye drops or any chemicals to rinse the eyes (use only clean water or saline)",
+      "Do not delay flushing"
+    ],
+    "keywords": [
+      "snake",
+      "cobra",
+      "spit",
+      "eye",
+      "venom",
+      "blindness",
+      "flush"
+    ]
+  },
+  {
+    "id": "FA001-4",
+    "title": "Snake Bite - Immediate Response",
+    "category": "FirstAid",
+    "severity": "Critical",
+    "symptoms": [
+      "Bitten by a snake"
+    ],
+    "immediate_steps": [
+      "Remain calm and avoid panic",
+      "Keep the affected person still",
+      "Remove any tight items such as rings, bracelets, or tight clothing near the affected area",
+      "Keep the bitten limb at or slightly below heart level",
+      "Seek emergency medical help immediately"
+    ],
+    "avoid": [
+      "Do not attempt to suck out the venom or cut the wound",
+      "Do not allow movement as it can spread venom faster through the body"
+    ],
+    "keywords": [
+      "snake bite",
+      "venom",
+      "emergency",
+      "first aid",
+      "swelling",
+      "calm",
+      "hospital"
+    ]
+  },
+  {
+    "id": "FA001-5",
+    "title": "Snake Bite - Do's and Don'ts",
+    "category": "FirstAid",
+    "severity": "Critical",
+    "symptoms": [
+      "Bitten by a snake"
+    ],
+    "immediate_steps": [
+      "Do keep the person calm and immobilized to slow venom spread",
+      "Do keep the affected limb still and slightly lowered",
+      "Do seek immediate medical attention"
+    ],
+    "avoid": [
+      "Do not cut the wound or try to suck out venom",
+      "Do not apply ice, chemicals, or herbal remedies",
+      "Do not allow the victim to walk or run",
+      "Avoid giving alcohol or painkillers unless prescribed by a medical professional"
+    ],
+    "keywords": [
+      "snake bite",
+      "do and dont",
+      "venom",
+      "emergency",
+      "first aid",
+      "hospital",
+      "treatment"
+    ]
+  },
+  {
+    "id": "FA001-6",
+    "title": "Snake Bite - Identification and Symptoms",
+    "category": "FirstAid",
+    "severity": "High",
+    "symptoms": [
+      "Pain at the bite site",
+      "Swelling",
+      "Redness",
+      "Bruising",
+      "Nausea",
+      "Vomiting",
+      "Difficulty breathing",
+      "Blurred vision",
+      "Sweating",
+      "Muscle weakness"
+    ],
+    "immediate_steps": [
+      "Medical evaluation is always necessary even if the bite appears minor (some bites may not show immediate symptoms)"
+    ],
+    "avoid": [],
+    "keywords": [
+      "snake bite",
+      "symptoms",
+      "venom",
+      "pain",
+      "swelling",
+      "emergency",
+      "breathing",
+      "weakness"
+    ]
+  },
+  {
+    "id": "FA001-7",
+    "title": "Snake Bite - Stabilization and Transport",
+    "category": "FirstAid",
+    "severity": "Critical",
+    "symptoms": [
+      "Bitten by a snake",
+      "Preparing for transport"
+    ],
+    "immediate_steps": [
+      "Keep the person lying down and prevent any unnecessary movement",
+      "Immobilize the affected limb using a splint or cloth to reduce motion",
+      "Monitor breathing and consciousness levels continuously",
+      "If possible, note the time of the bite and description of the snake for medical reference",
+      "Ensure emergency services are contacted immediately"
+    ],
+    "avoid": [
+      "Do not risk further exposure to identify the snake"
+    ],
+    "keywords": [
+      "snake bite",
+      "transport",
+      "stabilize",
+      "hospital",
+      "emergency",
+      "immobilize",
+      "first aid"
+    ]
+  }
+]

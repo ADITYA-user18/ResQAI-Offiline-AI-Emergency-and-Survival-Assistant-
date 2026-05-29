@@ -1,0 +1,33 @@
+# ResQAI Backend — Python Dependencies (v2.0 with Auth)
+# =======================================================
+# Install with: pip install -r requirements.txt
+#
+# Core framework
+fastapi==0.111.0
+uvicorn[standard]==0.29.0
+pydantic==2.7.1
+
+# HTTP client (for Ollama API calls)
+requests==2.31.0
+
+# Vector search
+faiss-cpu==1.8.0
+
+# Numerical computing
+numpy==1.26.4
+
+# ── Authentication (NEW in v2.0) ──────────────────────────
+# Password hashing — bcrypt (industry standard, offline, fast)
+bcrypt==4.1.3
+
+# JWT token signing and validation — PyJWT (pure Python, offline)
+PyJWT==2.8.0
+
+# Python standard library (no install needed):
+# - sqlite3  (users + chat storage)
+# - json     (metadata / processed knowledge)
+# - logging  (log system)
+# - pathlib  (file paths)
+# - uuid     (ID generation)
+# - re       (username validation)
+# - dataclasses (CurrentUser model)

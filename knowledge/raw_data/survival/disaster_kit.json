@@ -1,0 +1,35 @@
+[
+  {
+    "id": "SURV007-1",
+    "title": "FEMA Go-Bag (Evacuation Kit)",
+    "category": "Preparedness",
+    "severity": "Low",
+    "symptoms": [
+      "Preparing for emergencies",
+      "Evacuation order issued"
+    ],
+    "immediate_steps": [
+      "Pack 1 gallon of water per person per day (3-day supply)",
+      "Pack a 3-day supply of non-perishable food",
+      "Include a battery-powered or hand-crank radio (NOAA Weather Radio)",
+      "Include a flashlight with extra batteries",
+      "Pack a First Aid kit, whistle, dust mask, moist towelettes, and garbage bags",
+      "Include local maps, a manual can opener, and a cell phone with backup chargers",
+      "Store copies of important documents in a waterproof container"
+    ],
+    "avoid": [
+      "Do not pack heavy canned goods if you are traveling on foot",
+      "Do not forget medications and pet supplies",
+      "Do not leave the kit in an inaccessible place"
+    ],
+    "keywords": [
+      "fema",
+      "go bag",
+      "bug out bag",
+      "evacuation",
+      "kit",
+      "supplies",
+      "disaster"
+    ]
+  }
+]

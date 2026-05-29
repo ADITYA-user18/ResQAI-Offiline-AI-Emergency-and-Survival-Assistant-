@@ -1,0 +1,74 @@
+[
+  {
+    "id": "FA013-1",
+    "title": "Concussion / Mild Traumatic Brain Injury",
+    "category": "FirstAid",
+    "severity": "Moderate",
+    "symptoms": [
+      "Headache or a feeling of pressure in the head",
+      "Temporary confusion or feeling in a fog",
+      "Amnesia surrounding the traumatic event",
+      "Dizziness or 'seeing stars'",
+      "Ringing in the ears (tinnitus)",
+      "Nausea or vomiting",
+      "Fatigue"
+    ],
+    "immediate_steps": [
+      "Have the person stop the activity and rest",
+      "Apply a cold compress to any swelling on the head",
+      "Monitor them continuously for worsening symptoms",
+      "Seek medical evaluation to confirm the diagnosis and rule out severe injury",
+      "Ensure they rest completely (physical and mental rest)"
+    ],
+    "avoid": [
+      "Do not let them return to sports or rigorous activity",
+      "Do not let them drive",
+      "Do not give them aspirin or ibuprofen if severe bleeding inside the skull is suspected (use acetaminophen if directed by a doctor)"
+    ],
+    "keywords": [
+      "concussion",
+      "head impact",
+      "dizziness",
+      "sports injury",
+      "bump"
+    ]
+  },
+  {
+    "id": "FA013-2",
+    "title": "Severe Head Injury / Skull Fracture",
+    "category": "FirstAid",
+    "severity": "Critical",
+    "symptoms": [
+      "Prolonged unconsciousness",
+      "Severe or worsening headache",
+      "Repeated vomiting",
+      "Unequal pupil size",
+      "Clear fluid or blood leaking from the nose or ears",
+      "Seizures",
+      "Weakness or numbness in the body",
+      "Slurred speech",
+      "Depressed area in the skull"
+    ],
+    "immediate_steps": [
+      "Call emergency services immediately",
+      "Keep the person completely still; assume there is a spinal injury",
+      "Stop any bleeding by applying firm pressure with a sterile cloth (unless you suspect a skull fracture, then apply gentle pressure around the wound)",
+      "Monitor breathing and be prepared for CPR",
+      "If they vomit, roll their entire body to the side (log-roll) to prevent choking"
+    ],
+    "avoid": [
+      "Do not move the person unless absolutely necessary",
+      "Do not apply direct pressure to a bleeding head wound if you suspect the skull is fractured",
+      "Do not remove any penetrating objects",
+      "Do not wash a deep head wound"
+    ],
+    "keywords": [
+      "head injury",
+      "skull fracture",
+      "unconscious",
+      "brain trauma",
+      "bleeding ear",
+      "severe"
+    ]
+  }
+]

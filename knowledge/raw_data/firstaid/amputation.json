@@ -1,0 +1,34 @@
+[
+  {
+    "id": "FA020-1",
+    "title": "Traumatic Amputation",
+    "category": "FirstAid",
+    "severity": "Critical",
+    "symptoms": [
+      "Body part severed",
+      "Severe bleeding",
+      "Shock"
+    ],
+    "immediate_steps": [
+      "Call emergency services immediately",
+      "Apply a tourniquet above the wound if bleeding is life-threatening, or apply direct firm pressure",
+      "Treat the victim for shock (lay them down, elevate legs if possible)",
+      "Recover the severed part: wrap it in a sterile gauze or clean cloth, dampen it with clean water or saline",
+      "Place the wrapped part in a watertight plastic bag",
+      "Place that bag into another container with ice and water"
+    ],
+    "avoid": [
+      "Do not put the severed part directly on ice (it will cause frostbite and tissue death)",
+      "Do not put the part directly in water",
+      "Do not ignore the victim to search endlessly for the part"
+    ],
+    "keywords": [
+      "amputation",
+      "severed",
+      "cut off",
+      "finger",
+      "limb",
+      "tourniquet"
+    ]
+  }
+]

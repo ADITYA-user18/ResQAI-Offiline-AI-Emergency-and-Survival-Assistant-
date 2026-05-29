@@ -1,0 +1,33 @@
+[
+  {
+    "id": "LEG007-1",
+    "title": "National Emergency Numbers (India)",
+    "category": "Emergency Response",
+    "severity": "Critical",
+    "rights": [
+      "All citizens have the right to access these toll-free numbers from any mobile network, even without a SIM card or active balance"
+    ],
+    "avoid": [
+      "Do not make prank calls to emergency numbers",
+      "Do not hang up if you call by mistake (stay on the line and explain)"
+    ],
+    "emergency_numbers": [
+      "112 (National Emergency - Police, Fire, Medical)",
+      "100 (Police)",
+      "101 (Fire Brigade)",
+      "102 (Ambulance)",
+      "108 (Emergency Disaster Management)",
+      "1091 (Women Helpline)",
+      "1098 (Childline)",
+      "1078 (National Disaster Response Force - NDRF)"
+    ],
+    "keywords": [
+      "numbers",
+      "call",
+      "help",
+      "sos",
+      "helpline",
+      "emergency"
+    ]
+  }
+]

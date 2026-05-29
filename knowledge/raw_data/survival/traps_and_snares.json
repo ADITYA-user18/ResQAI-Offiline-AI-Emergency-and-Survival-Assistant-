@@ -1,0 +1,62 @@
+[
+  {
+    "id": "SURV016-1",
+    "title": "Simple Snare",
+    "category": "Survival",
+    "severity": "Moderate",
+    "symptoms": [
+      "Need food",
+      "Found animal trails or runs"
+    ],
+    "immediate_steps": [
+      "Find a natural funnel or animal trail (look for tracks, scat, or chewed vegetation)",
+      "Use wire, parachute cord inner strands, or strong string to make a loop",
+      "Tie the snare securely to a solid anchor (tree or heavy drag log)",
+      "Suspend the loop over the trail using small twigs to prop it open",
+      "Place the snare at head-height of the target animal (e.g., fist width for a rabbit)"
+    ],
+    "avoid": [
+      "Do not touch the snare area excessively (human scent deters animals)",
+      "Do not use weak cordage that an animal can easily chew through",
+      "Do not set snares where you cannot check them daily"
+    ],
+    "keywords": [
+      "snare",
+      "trap",
+      "food",
+      "rabbit",
+      "hunting",
+      "wire"
+    ]
+  },
+  {
+    "id": "SURV016-2",
+    "title": "Figure-4 Deadfall Trap",
+    "category": "Survival",
+    "severity": "Moderate",
+    "symptoms": [
+      "Need food",
+      "No wire or cordage available",
+      "Have access to a heavy rock or log"
+    ],
+    "immediate_steps": [
+      "Carve three sticks: an upright stick, a diagonal release stick, and a horizontal bait stick",
+      "Notch the sticks so they interlock in a '4' shape",
+      "Balance a heavy flat rock or log on the diagonal release stick",
+      "Place bait on the horizontal stick underneath the weight",
+      "When an animal bumps the bait stick, the '4' collapses, dropping the weight"
+    ],
+    "avoid": [
+      "Do not construct the trap without keeping your hands clear of the falling weight",
+      "Do not use a weight that is too light (must crush the target instantly)"
+    ],
+    "keywords": [
+      "trap",
+      "deadfall",
+      "figure 4",
+      "hunting",
+      "food",
+      "rock"
+    ]
+  }
+]

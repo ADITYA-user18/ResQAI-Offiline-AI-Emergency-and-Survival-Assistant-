@@ -1,0 +1,34 @@
+[
+  {
+    "id": "FA019-1",
+    "title": "Emergency Field Delivery",
+    "category": "FirstAid",
+    "severity": "High",
+    "symptoms": [
+      "Contractions are 2-3 minutes apart",
+      "Crowning is visible",
+      "No medical help available"
+    ],
+    "immediate_steps": [
+      "Ensure a clean environment, wash hands, and prepare clean towels",
+      "Do not pull the baby; let the mother push",
+      "Support the baby's head as it emerges, do not pull on the neck",
+      "Once born, wipe fluid from the baby's mouth and nose to clear airways",
+      "Keep the baby warm by placing it skin-to-skin on the mother's chest",
+      "Wait for the placenta to deliver naturally (usually within 20 mins); do not pull the umbilical cord",
+      "Tie the umbilical cord tightly in two places (about 4 and 6 inches from the baby) with sterile string, then cut between the ties with a sterilized blade"
+    ],
+    "avoid": [
+      "Do not let the mother go to the bathroom if delivery is imminent",
+      "Do not slap the baby's back to make it cry (rubbing the back gently is enough)"
+    ],
+    "keywords": [
+      "childbirth",
+      "baby",
+      "delivery",
+      "labor",
+      "pregnant",
+      "umbilical cord"
+    ]
+  }
+]

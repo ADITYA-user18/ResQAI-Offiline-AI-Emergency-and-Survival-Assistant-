@@ -1,0 +1,31 @@
+[
+  {
+    "id": "SURV025-1",
+    "title": "Trapped in a Vehicle by Wildfire",
+    "category": "Survival",
+    "severity": "Critical",
+    "symptoms": [
+      "Road blocked by fire",
+      "Flames approaching vehicle"
+    ],
+    "immediate_steps": [
+      "Park the vehicle in an area clear of heavy vegetation (bare dirt or rocks is best)",
+      "Close all windows and vents, turn off the AC to prevent drawing in smoke",
+      "Leave headlights and hazard lights on",
+      "Get below the window level and cover yourself with a wool blanket or jacket (NOT synthetic materials which melt)",
+      "Wait for the fire front to pass over the vehicle"
+    ],
+    "avoid": [
+      "Do not drive blindly through heavy smoke",
+      "Do not abandon the vehicle for a body of water unless it is extremely large and deep (water boils and heat radiates)"
+    ],
+    "keywords": [
+      "wildfire",
+      "fire",
+      "car",
+      "trapped",
+      "smoke",
+      "evacuation"
+    ]
+  }
+]

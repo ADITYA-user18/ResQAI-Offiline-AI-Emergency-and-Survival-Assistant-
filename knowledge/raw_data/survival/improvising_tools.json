@@ -1,0 +1,31 @@
+[
+  {
+    "id": "SURV020-1",
+    "title": "Creating a Cutting Tool (Flint Knapping)",
+    "category": "Survival",
+    "severity": "Moderate",
+    "symptoms": [
+      "Need a knife",
+      "Have glass, flint, obsidian, or quartz"
+    ],
+    "immediate_steps": [
+      "Find a brittle stone like flint, chert, obsidian, or use the thick glass bottom of a broken bottle",
+      "Use a harder, round 'hammerstone' to strike the edge of the material at a downward angle",
+      "Flake off thin, razor-sharp pieces",
+      "Use the flakes directly for cutting meat, cordage, or carving wood",
+      "Wrap the dull side of the flake in leather or cloth to protect your hand"
+    ],
+    "avoid": [
+      "Do not strike without eye protection if possible (squint or look away upon impact)"
+    ],
+    "keywords": [
+      "knife",
+      "tool",
+      "flint",
+      "glass",
+      "cutting",
+      "blade",
+      "obsidian"
+    ]
+  }
+]

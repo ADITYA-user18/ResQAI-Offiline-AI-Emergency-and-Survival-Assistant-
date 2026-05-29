@@ -1,0 +1,61 @@
+[
+  {
+    "id": "SURV006-1",
+    "title": "STOP Protocol (When you realize you are lost)",
+    "category": "Survival",
+    "severity": "High",
+    "symptoms": [
+      "Disoriented",
+      "Off trail",
+      "Panic setting in"
+    ],
+    "immediate_steps": [
+      "S - Stop: Sit down, halt all movement. Do not walk aimlessly.",
+      "T - Think: How did you get here? Which way were you facing? Where is the sun?",
+      "O - Observe: Look for landmarks, trails, or sounds of civilization. Check your supplies and physical condition.",
+      "P - Plan: Decide whether to stay put or self-rescue based on daylight, weather, and your physical state.",
+      "If it is near dark, start building a shelter immediately. Staying put is usually safer if someone knows your itinerary."
+    ],
+    "avoid": [
+      "Do not panic and run (you will get more lost and sweat, causing hypothermia)",
+      "Do not wander in the dark",
+      "Do not walk downhill blindly (it often leads to dangerous cliffs or dense brush, not always civilization)"
+    ],
+    "keywords": [
+      "lost",
+      "forest",
+      "woods",
+      "stop",
+      "panic",
+      "disoriented"
+    ]
+  },
+  {
+    "id": "SURV006-2",
+    "title": "Lost In Forest - Immediate Response",
+    "category": "Survival",
+    "severity": "High",
+    "symptoms": [
+      "Lost in forest",
+      "Disoriented"
+    ],
+    "immediate_steps": [
+      "Remain calm and avoid panic",
+      "Stop unnecessary movement and assess the surroundings",
+      "Stay near recognizable landmarks when possible",
+      "Conserve resources such as water, food, clothing and daylight",
+      "Observe the environment and plan actions carefully before moving"
+    ],
+    "avoid": [
+      "Random walking may increase the distance from rescue routes and waste energy"
+    ],
+    "keywords": [
+      "forest",
+      "lost",
+      "trek",
+      "survival",
+      "navigation",
+      "landmark"
+    ]
+  }
+]

@@ -1,0 +1,230 @@
+[
+  {
+    "id": "FA006-1",
+    "title": "Adult/Child Choking (Conscious)",
+    "category": "FirstAid",
+    "severity": "Critical",
+    "symptoms": [
+      "Cannot cough forcefully",
+      "Cannot speak",
+      "Clutching the throat",
+      "Blue lips or skin",
+      "Wheezing"
+    ],
+    "immediate_steps": [
+      "Ask 'Are you choking?' and tell them you are going to help",
+      "Stand behind them and give 5 firm back blows between the shoulder blades using the heel of your hand",
+      "Give 5 abdominal thrusts (Heimlich maneuver): make a fist, place it just above the navel, grab it with your other hand, and pull inward and upward",
+      "Alternate 5 back blows and 5 abdominal thrusts until the object is forced out or the person becomes unconscious"
+    ],
+    "avoid": [
+      "Do not perform abdominal thrusts if they can still speak or cough forcefully (encourage them to cough instead)",
+      "Do not perform a blind finger sweep of the mouth"
+    ],
+    "keywords": [
+      "choking",
+      "adult",
+      "child",
+      "heimlich",
+      "abdominal thrusts",
+      "back blows"
+    ]
+  },
+  {
+    "id": "FA006-2",
+    "title": "Infant Choking (Under 1 year)",
+    "category": "FirstAid",
+    "severity": "Critical",
+    "symptoms": [
+      "Cannot cry or make sounds",
+      "Weak, ineffective cough",
+      "Blue skin or lips",
+      "Difficulty breathing"
+    ],
+    "immediate_steps": [
+      "Hold the infant face down along your forearm, supporting their head and jaw",
+      "Give 5 firm back blows between the shoulder blades using the heel of your hand",
+      "Turn the infant face up on your forearm, supporting the head",
+      "Give 5 chest thrusts using two fingers in the center of the chest (pushing down about 1.5 inches)",
+      "Alternate 5 back blows and 5 chest thrusts until the object comes out or the infant goes unconscious",
+      "Call emergency services"
+    ],
+    "avoid": [
+      "Do not use abdominal thrusts (Heimlich maneuver) on an infant",
+      "Do not shake the infant",
+      "Do not perform a blind finger sweep"
+    ],
+    "keywords": [
+      "choking",
+      "infant",
+      "baby",
+      "chest thrusts",
+      "back blows"
+    ]
+  },
+  {
+    "id": "FA006-3",
+    "title": "Pregnant or Obese Person Choking",
+    "category": "FirstAid",
+    "severity": "Critical",
+    "symptoms": [
+      "Cannot speak or cough",
+      "Clutching throat"
+    ],
+    "immediate_steps": [
+      "Position yourself behind the person",
+      "Give 5 back blows between the shoulder blades",
+      "Instead of abdominal thrusts, perform Chest Thrusts",
+      "Place your arms under their armpits and encircle their chest",
+      "Place your fist on the center of their breastbone (sternum), pull straight back in a quick, sharp motion",
+      "Alternate back blows and chest thrusts"
+    ],
+    "avoid": [
+      "Do not perform abdominal thrusts on the belly"
+    ],
+    "keywords": [
+      "choking",
+      "pregnant",
+      "obese",
+      "chest thrusts",
+      "heimlich"
+    ]
+  },
+  {
+    "id": "FA006-4",
+    "title": "Choking Alone",
+    "category": "FirstAid",
+    "severity": "Critical",
+    "symptoms": [
+      "Cannot speak or breathe",
+      "No one around to help"
+    ],
+    "immediate_steps": [
+      "Call emergency services, leave the line open even if you can't speak",
+      "Perform the Heimlich maneuver on yourself: Make a fist, place it above your navel, grasp with your other hand, and push inward and upward",
+      "Alternatively, lean forcefully over a solid object like a chair back, table edge, or railing, and press your abdomen against it to force the object out"
+    ],
+    "avoid": [
+      "Do not panic",
+      "Do not go to a bathroom or hidden area (stay where someone might find you)"
+    ],
+    "keywords": [
+      "choking",
+      "alone",
+      "self",
+      "chair",
+      "heimlich"
+    ]
+  },
+  {
+    "id": "FA006-4",
+    "title": "Choking - Recognition and Immediate Action",
+    "category": "FirstAid",
+    "severity": "Critical",
+    "symptoms": [
+      "Inability to speak",
+      "Difficulty breathing",
+      "Clutching the throat",
+      "Coughing weakly",
+      "Turning blue"
+    ],
+    "immediate_steps": [
+      "Assess whether they can cough or speak",
+      "If they can cough forcefully, encourage them to continue coughing to expel the object",
+      "If they cannot breathe, speak, or cough effectively, immediate action is required to clear the airway",
+      "Call emergency help immediately while first aid is provided"
+    ],
+    "avoid": [],
+    "keywords": [
+      "choking",
+      "airway",
+      "breathing",
+      "obstruction",
+      "first aid",
+      "emergency",
+      "cough"
+    ]
+  },
+  {
+    "id": "FA006-5",
+    "title": "Choking - Abdominal Thrust (Heimlich Maneuver)",
+    "category": "FirstAid",
+    "severity": "Critical",
+    "symptoms": [
+      "Cannot breathe, cough, or speak"
+    ],
+    "immediate_steps": [
+      "Stand behind the person and wrap your arms around their waist",
+      "Make a fist and place it just above the navel",
+      "Grasp the fist with the other hand and give quick inward and upward thrusts",
+      "Repeat until the object is expelled or the person becomes unconscious",
+      "Seek emergency medical help immediately"
+    ],
+    "avoid": [
+      "Do not apply pressure on the ribs or chest area"
+    ],
+    "keywords": [
+      "choking",
+      "heimlich",
+      "abdominal thrust",
+      "airway blockage",
+      "first aid",
+      "emergency",
+      "breathing"
+    ]
+  },
+  {
+    "id": "FA006-6",
+    "title": "Choking - Back Blows and Special Cases",
+    "category": "FirstAid",
+    "severity": "Critical",
+    "symptoms": [
+      "Abdominal thrusts do not work or cannot be performed",
+      "Infant choking",
+      "Pregnant or obese individual choking"
+    ],
+    "immediate_steps": [
+      "For general back blows: Lean the person forward slightly and give firm blows between the shoulder blades using the heel of your hand. Alternate between back blows and abdominal thrusts",
+      "For infants: Use a combination of back blows and chest thrusts carefully",
+      "For pregnant or obese individuals: Use chest thrusts instead of abdominal thrusts"
+    ],
+    "avoid": [
+      "Do not use abdominal thrusts on infants, pregnant women, or obese individuals"
+    ],
+    "keywords": [
+      "choking",
+      "back blows",
+      "airway",
+      "infant",
+      "first aid",
+      "emergency",
+      "obstruction"
+    ]
+  },
+  {
+    "id": "FA006-7",
+    "title": "Choking - Unconscious Person and Recovery",
+    "category": "FirstAid",
+    "severity": "Critical",
+    "symptoms": [
+      "Choking person becomes unconscious"
+    ],
+    "immediate_steps": [
+      "Gently lower them to the ground and call emergency services immediately",
+      "Begin CPR by starting chest compressions to attempt to dislodge the obstruction",
+      "Before giving rescue breaths, check the mouth for any visible object and remove it carefully if accessible",
+      "Continue CPR until the object is expelled or medical help arrives",
+      "After recovery, the person must be medically evaluated even if breathing returns to normal"
+    ],
+    "avoid": [],
+    "keywords": [
+      "choking",
+      "unconscious",
+      "CPR",
+      "airway",
+      "emergency",
+      "breathing",
+      "first aid"
+    ]
+  }
+]

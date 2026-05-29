@@ -1,0 +1,56 @@
+[
+  {
+    "id": "SURV018-1",
+    "title": "Jungle Navigation and Movement",
+    "category": "Survival",
+    "severity": "High",
+    "symptoms": [
+      "Dense tropical rainforest",
+      "Disoriented"
+    ],
+    "immediate_steps": [
+      "Travel slowly and deliberately (the jungle is easy to get lost in and full of tripping hazards)",
+      "Follow water downstream (streams lead to rivers, rivers lead to civilization)",
+      "Use a walking stick to part vegetation and check for snakes before stepping",
+      "Check yourself daily for leeches, ticks, and fungal infections"
+    ],
+    "avoid": [
+      "Do not grab vegetation to pull yourself up (many plants have thorns or venomous insects hiding on them)",
+      "Do not sleep directly on the jungle floor (build a raised platform bed)"
+    ],
+    "keywords": [
+      "jungle",
+      "rainforest",
+      "tropical",
+      "navigation",
+      "vines",
+      "leeches"
+    ]
+  },
+  {
+    "id": "SURV018-2",
+    "title": "Extracting Water from Vines",
+    "category": "Survival",
+    "severity": "Moderate",
+    "symptoms": [
+      "Thirst in a jungle environment"
+    ],
+    "immediate_steps": [
+      "Locate thick, woody vines extending into the canopy",
+      "Cut a deep notch high up on the vine, then cut the vine completely off near the ground",
+      "Let the clear liquid drip from the bottom cut into your mouth or a container",
+      "If the liquid is cloudy, milky, or bitter, discard it immediately (it may be toxic)"
+    ],
+    "avoid": [
+      "Do not drink from vines with milky or colored sap",
+      "Do not cut the bottom first (capillary action will pull the water up into the canopy)"
+    ],
+    "keywords": [
+      "water",
+      "vine",
+      "jungle",
+      "thirst",
+      "bamboo"
+    ]
+  }
+]

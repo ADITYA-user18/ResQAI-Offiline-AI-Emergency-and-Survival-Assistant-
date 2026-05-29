@@ -1,0 +1,62 @@
+# Node / Web Frontend
+node_modules/
+dist/
+.vite/
+npm-debug.log
+yarn-error.log
+.eslintcache
+web/dist/
+
+# Python / Backend
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+.venv
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+
+# Databases & Vector Stores (Keep the folder structure, but ignore files inside if needed)
+backend/database/*.db
+backend/database/*.sqlite
+backend/database/*.sqlite3
+# BUT DO NOT ignore the knowledge base index if we want it shipped in the repo!
+# If FAISS index is small, we can keep it. We will NOT ignore knowledge/ folder.
+
+# OS Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db

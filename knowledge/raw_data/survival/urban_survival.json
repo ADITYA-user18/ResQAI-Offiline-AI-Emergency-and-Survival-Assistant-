@@ -1,0 +1,32 @@
+[
+  {
+    "id": "SURV022-1",
+    "title": "Active Shooter / Riot Evasion",
+    "category": "Survival",
+    "severity": "Critical",
+    "symptoms": [
+      "Gunfire heard",
+      "Violent mob approaching",
+      "Trapped in building"
+    ],
+    "immediate_steps": [
+      "RUN: Have an escape route in mind, leave belongings behind, keep hands visible",
+      "HIDE: If you can't run, hide out of view. Lock and barricade doors with heavy furniture. Silence your cell phone and remain perfectly quiet.",
+      "FIGHT: As an absolute last resort, act with physical aggression, throw items, and commit to your actions to incapacitate the shooter"
+    ],
+    "avoid": [
+      "Do not hide in groups (spread out)",
+      "Do not pull the fire alarm (it can force people into open hallways)",
+      "Do not argue with law enforcement (follow instructions immediately)"
+    ],
+    "keywords": [
+      "shooter",
+      "gunfire",
+      "riot",
+      "mob",
+      "urban",
+      "barricade",
+      "hide"
+    ]
+  }
+]

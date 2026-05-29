@@ -1,0 +1,247 @@
+[
+  {
+    "id": "FA003-1",
+    "title": "First-Degree Burn (Superficial)",
+    "category": "FirstAid",
+    "severity": "Low",
+    "symptoms": [
+      "Redness",
+      "Mild pain",
+      "Swelling",
+      "Skin is intact (no blisters)"
+    ],
+    "immediate_steps": [
+      "Run cool (not cold) water over the burn for 10-15 minutes or until pain eases",
+      "Remove tight items from the burned area",
+      "Apply a soothing lotion (like aloe vera)",
+      "Cover loosely with a sterile bandage if needed",
+      "Take over-the-counter pain relievers if necessary"
+    ],
+    "avoid": [
+      "Do not apply ice",
+      "Do not apply butter or greasy ointments",
+      "Do not use adhesive bandages tightly"
+    ],
+    "keywords": [
+      "burn",
+      "sunburn",
+      "minor",
+      "red",
+      "first degree",
+      "hot water"
+    ]
+  },
+  {
+    "id": "FA003-2",
+    "title": "Second-Degree Burn (Partial Thickness)",
+    "category": "FirstAid",
+    "severity": "Moderate",
+    "symptoms": [
+      "Red, dark red, or blotchy skin",
+      "Blisters",
+      "Severe pain",
+      "Swelling",
+      "Moist or weeping skin"
+    ],
+    "immediate_steps": [
+      "Cool the burn with cool running water for 15-20 minutes",
+      "Cover the burn loosely with a sterile, non-stick dressing",
+      "Elevate the burned area above heart level if possible",
+      "Seek medical attention if the burn is larger than 3 inches or on the face, hands, feet, groin, or over a major joint"
+    ],
+    "avoid": [
+      "Do not pop or break blisters",
+      "Do not peel off dead skin",
+      "Do not apply ice, creams, or home remedies like toothpaste",
+      "Do not use cotton balls which can stick to the wound"
+    ],
+    "keywords": [
+      "burn",
+      "blister",
+      "second degree",
+      "painful",
+      "scald",
+      "boiling"
+    ]
+  },
+  {
+    "id": "FA003-3",
+    "title": "Third-Degree Burn (Full Thickness)",
+    "category": "FirstAid",
+    "severity": "Critical",
+    "symptoms": [
+      "Charred black, brown, or white skin",
+      "Leathery texture",
+      "Numbness (no pain because nerve endings are destroyed)",
+      "Difficulty breathing (if airways are burned)"
+    ],
+    "immediate_steps": [
+      "Call emergency services immediately",
+      "Ensure the person is no longer in contact with smoldering materials",
+      "Check for breathing and begin CPR if necessary",
+      "Cover the burn lightly with a sterile, non-stick bandage or clean cloth",
+      "Elevate the burned area",
+      "Treat for shock by laying the person flat and elevating feet"
+    ],
+    "avoid": [
+      "Do not remove clothing that is stuck to the burn",
+      "Do not submerge large severe burns in cold water (can cause hypothermia)",
+      "Do not apply any ointments or creams"
+    ],
+    "keywords": [
+      "burn",
+      "fire",
+      "third degree",
+      "charred",
+      "severe",
+      "no pain"
+    ]
+  },
+  {
+    "id": "FA003-4",
+    "title": "Chemical Burn",
+    "category": "FirstAid",
+    "severity": "High",
+    "symptoms": [
+      "Redness, irritation, or burning at the site of contact",
+      "Pain or numbness",
+      "Blisters or black dead skin",
+      "Vision changes if in eyes"
+    ],
+    "immediate_steps": [
+      "Brush off any dry chemicals with a gloved hand or cloth",
+      "Flush the affected area with a steady stream of cool water for at least 20 minutes",
+      "Remove contaminated clothing and jewelry while flushing",
+      "Call emergency services or Poison Control",
+      "If in the eye, flush from the inner corner to the outer corner"
+    ],
+    "avoid": [
+      "Do not use water if the chemical reacts strongly with water (check material safety data sheet if possible)",
+      "Do not try to neutralize the chemical (e.g., using acid on an alkali)",
+      "Do not touch the chemical with bare hands"
+    ],
+    "keywords": [
+      "burn",
+      "chemical",
+      "acid",
+      "bleach",
+      "alkali",
+      "flush",
+      "eye"
+    ]
+  },
+  {
+    "id": "FA003-5",
+    "title": "Burns - Types and Immediate Action",
+    "category": "FirstAid",
+    "severity": "Critical",
+    "symptoms": [
+      "Redness and pain (1st degree)",
+      "Blisters (2nd degree)",
+      "White, charred, or leathery skin (3rd degree)"
+    ],
+    "immediate_steps": [
+      "Remove the person from the source of heat safely",
+      "Cool the burned area with running cool water for at least 10 to 20 minutes",
+      "Remove tight clothing or accessories if they are not stuck to the skin"
+    ],
+    "avoid": [
+      "Do not use ice directly on burns"
+    ],
+    "keywords": [
+      "burns",
+      "heat",
+      "skin damage",
+      "first aid",
+      "blisters",
+      "electric burn",
+      "chemical burn",
+      "emergency"
+    ]
+  },
+  {
+    "id": "FA003-6",
+    "title": "Burns - Do's and Don'ts",
+    "category": "FirstAid",
+    "severity": "Critical",
+    "symptoms": [
+      "Burn injury"
+    ],
+    "immediate_steps": [
+      "Do cool the burn immediately with clean running water for 10 to 20 minutes",
+      "Do cover the burn with a clean, non-stick cloth or sterile dressing",
+      "Do seek medical help for severe or large burns"
+    ],
+    "avoid": [
+      "Do not apply ice directly on the burn as it can worsen tissue damage",
+      "Do not apply toothpaste, oil, butter, or home remedies on burns",
+      "Do not break blisters as they protect against infection",
+      "Do not remove clothing stuck to the burned skin"
+    ],
+    "keywords": [
+      "burns",
+      "first aid",
+      "do and dont",
+      "blisters",
+      "infection",
+      "skin injury",
+      "emergency"
+    ]
+  },
+  {
+    "id": "FA003-7",
+    "title": "Burns - Chemical and Electrical Burns",
+    "category": "FirstAid",
+    "severity": "Critical",
+    "symptoms": [
+      "Contact with acid/alkali",
+      "Contact with electric current"
+    ],
+    "immediate_steps": [
+      "For chemical burns: Immediately flush the affected area with large amounts of clean water for at least 15 to 20 minutes and remove contaminated clothing carefully",
+      "For electrical burns: Switch off the power supply first if possible",
+      "Electrical burns may cause internal injuries even if external damage appears minor, so immediate medical attention is necessary in all cases"
+    ],
+    "avoid": [
+      "Avoid rubbing the area of a chemical burn",
+      "Do not touch the victim if they are still in contact with the electrical source"
+    ],
+    "keywords": [
+      "chemical burn",
+      "electrical burn",
+      "acid",
+      "electric shock",
+      "emergency",
+      "first aid",
+      "skin injury"
+    ]
+  },
+  {
+    "id": "FA003-8",
+    "title": "Burns - Recovery and Infection Prevention",
+    "category": "FirstAid",
+    "severity": "High",
+    "symptoms": [
+      "Recovering from a burn",
+      "Increased redness, swelling, pus, or fever"
+    ],
+    "immediate_steps": [
+      "Keep the burned area clean and covered with a sterile, non-stick dressing",
+      "Change dressings regularly as advised by medical professionals",
+      "Watch for signs of infection such as increased redness, swelling, pus, or fever",
+      "Severe burns require continuous medical supervision to prevent complications such as dehydration, shock, or scarring"
+    ],
+    "avoid": [
+      "Do not apply any unverified ointments or traditional remedies"
+    ],
+    "keywords": [
+      "burns",
+      "infection",
+      "healing",
+      "dressing",
+      "first aid",
+      "skin care",
+      "emergency"
+    ]
+  }
+]

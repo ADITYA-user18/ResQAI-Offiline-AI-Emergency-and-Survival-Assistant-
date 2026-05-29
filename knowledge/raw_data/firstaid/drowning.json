@@ -1,0 +1,112 @@
+[
+  {
+    "id": "FA025-1",
+    "title": "Drowning - Recognition and Immediate Action",
+    "category": "FirstAid",
+    "severity": "Critical",
+    "symptoms": [
+      "Distress in water",
+      "Inability to call for help",
+      "Irregular or absent breathing",
+      "Unconscious and floating face down"
+    ],
+    "immediate_steps": [
+      "Ensure your own safety first before attempting a rescue",
+      "Immediately remove them from water if it is safe to do so",
+      "Call emergency services immediately",
+      "Check breathing and responsiveness as soon as the person is out of water",
+      "Begin CPR if the person is not breathing normally"
+    ],
+    "avoid": [],
+    "keywords": [
+      "drowning",
+      "water",
+      "breathing",
+      "emergency",
+      "first aid",
+      "rescue",
+      "unconscious"
+    ]
+  },
+  {
+    "id": "FA025-2",
+    "title": "Drowning - Rescue Techniques and Safety",
+    "category": "FirstAid",
+    "severity": "Critical",
+    "symptoms": [
+      "Person drowning in water"
+    ],
+    "immediate_steps": [
+      "Prioritize your own safety to avoid becoming a victim",
+      "Use reaching or throwing methods such as sticks, ropes, or flotation devices instead of entering the water when possible",
+      "If entering water is necessary, approach cautiously from behind to avoid being grabbed",
+      "Support the person's head above water and move them to a safe area"
+    ],
+    "avoid": [
+      "Avoid rough handling, as the person may be panicking and unintentionally pulling the rescuer underwater"
+    ],
+    "keywords": [
+      "drowning",
+      "rescue",
+      "water safety",
+      "first aid",
+      "emergency",
+      "floatation",
+      "safety"
+    ]
+  },
+  {
+    "id": "FA025-3",
+    "title": "Drowning - CPR After Rescue",
+    "category": "FirstAid",
+    "severity": "Critical",
+    "symptoms": [
+      "Out of water",
+      "Not breathing normally"
+    ],
+    "immediate_steps": [
+      "Start CPR without delay. Begin with chest compressions followed by rescue breaths if trained",
+      "Clear visible water or debris from the mouth if present",
+      "Continue cycles of compressions and breaths until the person begins breathing or emergency medical help arrives"
+    ],
+    "avoid": [
+      "Do not delay CPR to attempt to remove water from the lungs"
+    ],
+    "keywords": [
+      "drowning",
+      "CPR",
+      "rescue breaths",
+      "chest compressions",
+      "emergency",
+      "first aid",
+      "breathing"
+    ]
+  },
+  {
+    "id": "FA025-4",
+    "title": "Drowning - Recovery and Post Rescue Care",
+    "category": "FirstAid",
+    "severity": "Critical",
+    "symptoms": [
+      "Regained breathing after drowning"
+    ],
+    "immediate_steps": [
+      "Monitor closely and ensure immediate medical attention",
+      "Place the person in a recovery position on their side to keep the airway open and prevent choking",
+      "Keep them warm using blankets or clothing to prevent hypothermia",
+      "Watch for delayed complications such as breathing difficulty, coughing, or chest pain"
+    ],
+    "avoid": [
+      "Do not assume full recovery without hospital evaluation, as internal water inhalation may cause secondary complications"
+    ],
+    "keywords": [
+      "drowning",
+      "recovery position",
+      "hypothermia",
+      "first aid",
+      "emergency",
+      "breathing",
+      "hospital"
+    ]
+  }
+]

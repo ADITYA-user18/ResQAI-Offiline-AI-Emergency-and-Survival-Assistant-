@@ -1,0 +1,32 @@
+[
+  {
+    "id": "SURV026-1",
+    "title": "Making a Transpiration Bag",
+    "category": "Survival",
+    "severity": "Moderate",
+    "symptoms": [
+      "No surface water",
+      "Abundant leafy trees/bushes",
+      "Have a clear plastic bag"
+    ],
+    "immediate_steps": [
+      "Find a living, healthy branch with plenty of leaves in direct sunlight",
+      "Place a clear plastic bag over the branch, enclosing as many leaves as possible",
+      "Tie the mouth of the bag tightly around the branch",
+      "Place a small rock inside the bag to create a low point where water will collect",
+      "Leave it for several hours as the sun causes the leaves to 'sweat' (transpire) pure water"
+    ],
+    "avoid": [
+      "Do not use poisonous plants (e.g., oleander)",
+      "Do not leave the bag on for more than 2-3 days (the branch will die)"
+    ],
+    "keywords": [
+      "water",
+      "transpiration",
+      "bag",
+      "leaves",
+      "condensation",
+      "thirst"
+    ]
+  }
+]

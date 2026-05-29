@@ -1,0 +1,119 @@
+# ResQAI - Data Sources & Records
+
+This file maintains a record of the data sources used to build the knowledge base for the ResQAI project. 
+
+## First Aid Knowledge Base
+**Location:** `knowledge/raw_data/firstaid/`
+
+The original dataset consisted of various heavy PDF and PPTX files containing comprehensive first-aid and trauma guidelines. To optimize for offline RAG (Retrieval-Augmented Generation) and lightweight local LLM chunking, these original files were processed, synthesized, and converted into highly structured, scenario-specific JSON arrays.
+
+### Original Source Files (Processed & Removed):
+1. `IFRC International First Aid, Resuscitation and Education Guidelines 2025.pdf` (International Federation of Red Cross and Red Crescent Societies)
+2. `FA-manual-1.pdf` (General First Aid Manual)
+3. `2511.01289v1.pdf`
+4. `bec-breathing.pptx` (Basic Emergency Care - Breathing)
+5. `bec-shock.pptx` (Basic Emergency Care - Shock)
+6. `bec-transfer-and-handover.pptx`
+7. `bec-trauma.pptx` (Basic Emergency Care - Trauma)
+8. `conflict-trauma-blast.pptx`
+9. `conflict-trauma-burns.pptx`
+10. `conflict-trauma-penetrating-injury.pptx`
+11. `conflict-trauma-primary-survey.pptx`
+
+### Current Structured Dataset (JSON format):
+The information from the above sources and standard medical first-aid protocols was synthesized into the following domain-specific JSON files. Each file contains an array of specific emergency scenarios (e.g., adult vs. infant CPR, different degrees of burns) to ensure precise vector retrieval:
+
+- `allergic_reaction.json`
+- `amputation.json`
+- `asthma_attack.json`
+- `bites_and_stings.json`
+- `bleeding.json`
+- `burns.json`
+- `childbirth_emergency.json`
+- `choking.json`
+- `cpr.json`
+- `crush_injury.json`
+- `dental.json`
+- `drowning.json`
+- `electric_shock.json`
+- `eye_injury.json`
+- `fracture.json`
+- `head_injury.json`
+- `heart_attack.json`
+- `heat_stroke.json`
+- `hypothermia.json`
+- `poisoning.json`
+- `radiation_exposure.json`
+- `seizure.json`
+- `shock.json`
+- `snake_bite.json`
+- `triage.json`
+- `wound_care.json`
+
+**Note:** The structured JSON format was specifically designed with the fields `id`, `title`, `category`, `severity`, `symptoms`, `immediate_steps`, `avoid`, and `keywords` to maximize data quality for chunking and prompt injection into the local LLM.
+
+## Survival Knowledge Base
+**Location:** `knowledge/raw_data/survival/`
+
+This dataset was compiled and synthesized to handle offline survival, wilderness emergencies, and disaster preparedness. It combines active wilderness procurement strategies with civilian emergency protocols.
+
+### Original Source Materials (Processed & Removed):
+1. `AF-10-644.pdf` (US Air Force Search and Rescue Survival Training)
+2. `FM_3-05.70_(FM_21-76)_Survival_-_May_2002.pdf` / `fm3-05-70.pdf` (U.S. Army Survival Manual)
+3. `Wilderness Survival Manual Collections` (Weather, maritime safety)
+4. `Maine Woods Survival Guide` (Forest navigation, emergency planning)
+5. `FEMA Preparedness Guides` (Disaster kits, sheltering in place, civilian preparedness)
+
+### Current Structured Dataset (JSON format):
+The data was heavily enriched and transformed into JSON arrays identical in structure to the First Aid dataset for seamless vector embedding. The 15 core MVP files include:
+- `avalanche.json`
+- `cold_weather_survival.json`
+- `dangerous_animals.json`
+- `desert_survival.json`
+- `direction_finding.json`
+- `disaster_kit.json`
+- `earthquake_prep.json`
+- `fire_safety.json`
+- `fire_making_advanced.json`
+- `food_safety.json`
+- `hurricane_prep.json`
+- `improvising_tools.json`
+- `jungle_survival.json`
+- `lost_forest.json`
+- `night_survival.json`
+- `psychology_of_survival.json`
+- `river_crossing.json`
+- `sea_survival.json`
+- `shelter_building.json`
+- `signaling_help.json`
+- `traps_and_snares.json`
+- `tsunami.json`
+- `urban_survival.json`
+- `water_purification.json`
+- `water_procurement_advanced.json`
+- `weather_precautions.json`
+- `wildfire_evacuation.json`
+
+## Legal & Emergency Rights Knowledge Base
+**Location:** `knowledge/raw_data/legal/`
+
+This dataset focuses purely on basic awareness of citizen rights, police interactions, and emergency help in India, without providing explicit legal interpretation or advice.
+
+### Original Source Materials Referenced:
+1. `National Disaster Management Authority (NDMA)` (Disaster preparedness, response)
+2. `National Legal Services Authority (NALSA)` (Legal aid, citizen rights)
+3. `Digital India Legal Awareness` (Cyber safety)
+4. `Constitution of India` (Fundamental rights, equality)
+
+### Current Structured Dataset (JSON format):
+To maintain structural consistency with the rest of the application, these guidelines were converted into the same JSON array format:
+- `citizen_rights.json`
+- `cyber_safety.json`
+- `emergency_contacts.json`
+- `legal_aid.json`
+- `ndma_earthquake_safety.json`
+- `ndma_flood_response.json`
+- `ndma_heatwave.json`
+- `police_interaction.json`
+- `road_accident_rights.json`
+- `women_help.json`

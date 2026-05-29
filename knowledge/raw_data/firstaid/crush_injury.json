@@ -1,0 +1,30 @@
+[
+  {
+    "id": "FA021-1",
+    "title": "Crush Syndrome",
+    "category": "FirstAid",
+    "severity": "Critical",
+    "symptoms": [
+      "Limb pinned under a heavy object (rubble, car) for more than 15-30 minutes",
+      "Numbness",
+      "Swelling"
+    ],
+    "immediate_steps": [
+      "Call emergency services",
+      "If the object has been on the limb for LESS than 15 minutes, remove it immediately",
+      "If the object has been on the limb for MORE than a few hours, medical personnel may need to administer IV fluids BEFORE removing the object (removing it releases lethal toxins into the heart)",
+      "If you must remove it to save their life from other dangers (fire), apply a tourniquet above the crush injury BEFORE removing the weight if possible",
+      "Treat for shock"
+    ],
+    "avoid": [
+      "Do not abruptly remove a heavy weight that has been pinning someone for hours unless strictly necessary for immediate survival"
+    ],
+    "keywords": [
+      "crush",
+      "pinned",
+      "rubble",
+      "earthquake collapse",
+      "toxins"
+    ]
+  }
+]

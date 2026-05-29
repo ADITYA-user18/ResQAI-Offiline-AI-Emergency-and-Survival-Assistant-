@@ -1,0 +1,32 @@
+[
+  {
+    "id": "SURV014-1",
+    "title": "During an Earthquake",
+    "category": "Preparedness",
+    "severity": "Critical",
+    "symptoms": [
+      "Ground shaking",
+      "Things falling"
+    ],
+    "immediate_steps": [
+      "Drop, Cover, and Hold On",
+      "Drop to your hands and knees",
+      "Cover your head and neck with your arms, and crawl under a sturdy desk or table if nearby",
+      "Hold On to your shelter until the shaking stops",
+      "If in bed, stay there and cover your head with a pillow",
+      "If outside, move away from buildings, streetlights, and utility wires"
+    ],
+    "avoid": [
+      "Do not run outside during the shaking",
+      "Do not stand in a doorway (they are not stronger than the rest of the building and do not protect from falling debris)",
+      "Do not use elevators"
+    ],
+    "keywords": [
+      "earthquake",
+      "shaking",
+      "fema",
+      "drop cover hold",
+      "seismic"
+    ]
+  }
+]

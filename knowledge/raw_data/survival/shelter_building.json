@@ -1,0 +1,209 @@
+[
+  {
+    "id": "SURV002-1",
+    "title": "Debris Hut (Cold Weather)",
+    "category": "Survival",
+    "severity": "High",
+    "symptoms": [
+      "Stranded overnight",
+      "Cold weather approaching",
+      "No tent"
+    ],
+    "immediate_steps": [
+      "Find a sturdy ridgepole (a long, strong branch) and rest one end on a stump or low tree fork",
+      "Lean thick branches against both sides of the ridgepole to create a rib-like frame",
+      "Pile at least 2-3 feet of dry leaves, pine needles, or grass over the frame for insulation",
+      "Stuff the inside of the hut with dry leaves to act as a mattress and blanket",
+      "Crawl inside and pull debris in to block the entrance"
+    ],
+    "avoid": [
+      "Do not build in a dry riverbed (flash flood risk)",
+      "Do not build directly under dead trees/branches ('widowmakers')",
+      "Do not make the inside too large (it won't retain body heat)"
+    ],
+    "keywords": [
+      "shelter",
+      "debris hut",
+      "cold",
+      "insulation",
+      "sleep",
+      "warmth",
+      "wilderness"
+    ]
+  },
+  {
+    "id": "SURV002-2",
+    "title": "Lean-To Shelter (Reflector)",
+    "category": "Survival",
+    "severity": "Moderate",
+    "symptoms": [
+      "Need a quick shelter",
+      "Planning to build a fire for warmth"
+    ],
+    "immediate_steps": [
+      "Tie or wedge a strong horizontal pole between two trees",
+      "Lean branches against the pole on the windward side at a 45-degree angle",
+      "Weave smaller branches horizontally through the frame",
+      "Cover the roof with leaves, pine boughs, or a tarp to shed rain",
+      "Build a small fire on the open side so the lean-to reflects heat onto you"
+    ],
+    "avoid": [
+      "Do not build the fire too close to the shelter",
+      "Do not face the opening into the wind"
+    ],
+    "keywords": [
+      "shelter",
+      "lean-to",
+      "fire reflector",
+      "windbreak",
+      "tarp"
+    ]
+  },
+  {
+    "id": "SURV002-3",
+    "title": "Lost In Forest - Shelter Building",
+    "category": "Survival",
+    "severity": "High",
+    "symptoms": [
+      "Lost in forest",
+      "Approaching nightfall"
+    ],
+    "immediate_steps": [
+      "Construct shelter before nightfall to protect against weather, wind and temperature changes",
+      "Select elevated ground that is dry and safe from falling branches or flooding",
+      "Use available materials such as leaves, branches, grass and cloth to create insulation",
+      "Keep the shelter compact to retain body heat",
+      "Place dry leaves or vegetation beneath the body to insulate from the cold ground"
+    ],
+    "avoid": [
+      "Avoid sleeping directly on cold ground"
+    ],
+    "keywords": [
+      "shelter",
+      "forest",
+      "weather",
+      "insulation",
+      "branches",
+      "leaves",
+      "cold",
+      "night",
+      "survival"
+    ]
+  },
+  {
+    "id": "SURV002-4",
+    "title": "Shelter Building - Importance and Site Selection",
+    "category": "Survival",
+    "severity": "High",
+    "symptoms": [
+      "Need to build a shelter",
+      "Looking for a safe location"
+    ],
+    "immediate_steps": [
+      "Select a safe location to protect the body from cold, rain, wind and extreme heat",
+      "Choose elevated ground that is dry and away from flood zones, falling branches and animal paths"
+    ],
+    "avoid": [
+      "Avoid valleys where cold air collects",
+      "Avoid areas near unstable trees or rocks"
+    ],
+    "keywords": [
+      "shelter",
+      "survival",
+      "site selection",
+      "forest",
+      "cold",
+      "rain",
+      "protection",
+      "temperature"
+    ]
+  },
+  {
+    "id": "SURV002-5",
+    "title": "Shelter Building - Materials and Construction Basics",
+    "category": "Survival",
+    "severity": "High",
+    "symptoms": [
+      "Ready to construct shelter"
+    ],
+    "immediate_steps": [
+      "Use natural materials such as branches, leaves, grass, mud, and bark",
+      "Use strong branches as the main frame structure",
+      "Use smaller sticks and leaves to provide insulation and cover",
+      "Keep the shelter compact to retain body heat",
+      "Build a simple lean-to or A-frame structure for quick protection",
+      "Always ensure the shelter is stable and does not collapse under wind or weight"
+    ],
+    "avoid": [
+      "Do not build a shelter that is too large, as it will fail to retain body heat"
+    ],
+    "keywords": [
+      "shelter",
+      "branches",
+      "leaves",
+      "forest",
+      "construction",
+      "survival",
+      "insulation",
+      "lean-to"
+    ]
+  },
+  {
+    "id": "SURV002-6",
+    "title": "Shelter Building - Insulation and Weather Protection",
+    "category": "Survival",
+    "severity": "High",
+    "symptoms": [
+      "Cold environment",
+      "Need warmth in shelter"
+    ],
+    "immediate_steps": [
+      "Use dry leaves, grass, and pine needles as insulation material between the body and the ground to reduce heat loss",
+      "Cover openings using leaves or branches to block wind and rain",
+      "Ensure there is enough ventilation to avoid suffocation",
+      "In cold environments, reduce air gaps to help retain warmth",
+      "In hot environments, increase ventilation to prevent overheating"
+    ],
+    "avoid": [
+      "Do not seal the shelter completely; suffocation is a severe risk if there is no ventilation"
+    ],
+    "keywords": [
+      "insulation",
+      "shelter",
+      "cold",
+      "heat",
+      "weather",
+      "survival",
+      "leaves",
+      "wind protection"
+    ]
+  },
+  {
+    "id": "SURV002-7",
+    "title": "Shelter Building - Emergency Shelter Types",
+    "category": "Survival",
+    "severity": "Moderate",
+    "symptoms": [
+      "Deciding which shelter to build"
+    ],
+    "immediate_steps": [
+      "Lean-to shelter: Built by leaning branches against a strong support like a tree or log",
+      "A-frame shelter: Made by forming a triangular structure using two main poles",
+      "Debris hut: Uses natural materials like leaves and branches to fully cover the body for insulation",
+      "Prioritize quick and simple structures over complex designs in emergencies"
+    ],
+    "avoid": [
+      "Do not waste time building complex structures if time and daylight are limited"
+    ],
+    "keywords": [
+      "shelter",
+      "lean-to",
+      "a-frame",
+      "debris hut",
+      "survival",
+      "forest",
+      "emergency",
+      "construction"
+    ]
+  }
+]

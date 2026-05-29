@@ -1,0 +1,32 @@
+[
+  {
+    "id": "SURV015-1",
+    "title": "Hurricane and Flooding Readiness",
+    "category": "Preparedness",
+    "severity": "High",
+    "symptoms": [
+      "Hurricane warning",
+      "Rising waters"
+    ],
+    "immediate_steps": [
+      "Board up windows or close storm shutters",
+      "Bring outdoor furniture and garbage cans inside",
+      "Turn off propane tanks and unplug small appliances",
+      "Evacuate immediately if ordered to do so, following designated routes",
+      "If trapped by flooding, move to the highest level of the building, but do not climb into a closed attic (you may become trapped)"
+    ],
+    "avoid": [
+      "Do not walk, swim, or drive through floodwaters ('Turn Around, Don't Drown')",
+      "Do not drink tap water until authorities declare it safe",
+      "Do not return home until the area is declared safe"
+    ],
+    "keywords": [
+      "hurricane",
+      "flood",
+      "fema",
+      "storm",
+      "water",
+      "evacuation"
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": "FA016-1",
+    "title": "Puncture Wound (Nails, Animal Bites)",
+    "category": "FirstAid",
+    "severity": "Moderate",
+    "symptoms": [
+      "Deep, narrow hole in the skin",
+      "Minor bleeding",
+      "Pain",
+      "Possible debris in wound"
+    ],
+    "immediate_steps": [
+      "Wash hands thoroughly",
+      "Stop the bleeding with gentle pressure",
+      "Rinse the wound for 5-10 minutes under running water",
+      "Clean the area around the wound with soap",
+      "Apply an antibiotic ointment and a bandage",
+      "Seek medical attention for deep wounds, animal bites, or if a tetanus shot is needed"
+    ],
+    "avoid": [
+      "Do not probe or try to clean deep inside a puncture wound",
+      "Do not use iodine or hydrogen peroxide",
+      "Do not remove large embedded objects (leave them and go to ER)"
+    ],
+    "keywords": [
+      "puncture",
+      "nail",
+      "bite",
+      "dog bite",
+      "cat bite",
+      "deep wound",
+      "rusty"
+    ]
+  },
+  {
+    "id": "FA016-2",
+    "title": "Embedded Object (Knife, Glass, Wood)",
+    "category": "FirstAid",
+    "severity": "Critical",
+    "symptoms": [
+      "Object sticking out of the body",
+      "Bleeding around the object",
+      "Pain"
+    ],
+    "immediate_steps": [
+      "Call emergency services",
+      "Leave the object in place",
+      "Apply pressure around the edges of the object to control bleeding, not on the object itself",
+      "Stabilize the object by packing bulky dressings (like rolled-up gauze or cloths) around it and taping them down",
+      "Keep the person completely still"
+    ],
+    "avoid": [
+      "DO NOT remove the object (it may be acting as a plug to stop severe bleeding)",
+      "Do not cut the object shorter unless it is completely unmanageable to transport"
+    ],
+    "keywords": [
+      "embedded",
+      "knife",
+      "stabbed",
+      "impaled",
+      "glass",
+      "sticking out"
+    ]
+  }
+]

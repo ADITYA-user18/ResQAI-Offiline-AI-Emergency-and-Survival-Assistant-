@@ -1,0 +1,796 @@
+[
+  {
+    "id": "SURV023-1",
+    "title": "Caught in an Avalanche",
+    "text": "Caught in an Avalanche. Signs/Rights: Snow sliding down mountain; Swept away by snow. Steps: Try to ski or board straight downhill to gather speed, then veer left or right to escape the avalanche path | If swept up, discard skis and poles (they act as anchors) | Make swimming motions to fight your way to the surface | As the snow slows down, cup your hands over your mouth to create an air pocket | Take a deep breath to expand your chest just before the snow sets (it sets like concrete). Avoid: Do not yell once buried (it wastes oxygen; only yell when you hear rescuers directly above you).",
+    "category": "survival",
+    "keywords": [
+      "avalanche",
+      "snow",
+      "mountain",
+      "buried",
+      "winter"
+    ],
+    "priority": "critical",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "id": "SURV013-1",
+    "title": "Winter Wilderness Survival (COAL)",
+    "text": "Winter Wilderness Survival (COAL). Signs/Rights: Stranded in snow; Freezing temperatures. Steps: Remember COAL: Clean, Overheating, Avoid loose, Layers | Keep clothing Clean (dirt ruins insulation) | Avoid Overheating (sweat will freeze; take off layers before doing heavy work) | Wear clothes loose (tight clothes restrict blood flow) | Dress in Layers (base, insulating, and wind/waterproof outer shell) | Protect your extremities (head, hands, feet) as they lose heat fastest | Build a snow cave or quinzee if snow is deep enough, as snow is an excellent insulator. Avoid: Do not eat snow directly (it lowers your core temperature; melt it first) | Do not wear cotton if it gets wet ('cotton kills') | Do not drink alcohol.",
+    "category": "survival",
+    "keywords": [
+      "winter",
+      "snow",
+      "cold",
+      "COAL",
+      "layers",
+      "freezing"
+    ],
+    "priority": "high",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "id": "SURV021-1",
+    "title": "Bear Encounter",
+    "text": "Bear Encounter. Signs/Rights: Saw a bear; Bear is approaching. Steps: Identify the bear (Brown/Grizzly vs. Black bear) | If a Black Bear: stand your ground, make yourself look large, yell, wave your arms, and fight back aggressively if it attacks | If a Brown/Grizzly Bear: do not make eye contact, back away slowly, speak in a calm voice. If it charges, stand your ground (most are bluff charges). If it makes contact, play dead (lie on stomach, hands over neck, legs spread). Avoid: Do not run (bears are faster than horses, running triggers a predatory chase) | Do not climb a tree (black bears are excellent climbers, grizzlies can reach high).",
+    "category": "survival",
+    "keywords": [
+      "bear",
+      "grizzly",
+      "animal",
+      "attack",
+      "wildlife",
+      "predator"
+    ],
+    "priority": "critical",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "id": "SURV021-2",
+    "title": "Mountain Lion / Cougar Encounter",
+    "text": "Mountain Lion / Cougar Encounter. Signs/Rights: Stalked by a big cat. Steps: Maintain intense eye contact with the animal | Make yourself look as large as possible (open your jacket, raise your arms) | Make loud noises and throw rocks or sticks if it approaches | If attacked, fight back with everything you have (aim for the eyes and nose). Avoid: Do not turn your back | Do not run | Do not bend down or crouch (it makes you look like prey).",
+    "category": "survival",
+    "keywords": [
+      "cougar",
+      "lion",
+      "puma",
+      "cat",
+      "attack",
+      "predator"
+    ],
+    "priority": "critical",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "id": "SURV012-1",
+    "title": "Conserving Water and Heat Management",
+    "text": "Conserving Water and Heat Management. Signs/Rights: Stranded in desert; High heat; Limited water. Steps: Travel only during the cool hours of the early morning or night | Rest in deep shade during the heat of the day (build a shade tarp if necessary) | Keep all your clothes on, including long sleeves and a hat, to slow sweat evaporation and prevent sunburn | Breathe through your nose, not your mouth, to reduce moisture loss | If you find water, drink it (do not ration it to the point of dehydration). Avoid: Do not walk during the peak heat (10 AM to 4 PM) | Do not remove your shirt (sunburn increases fluid loss) | Do not eat food if you are out of water (digestion uses body water) | Do not drink urine (it contains toxins that accelerate dehydration).",
+    "category": "survival",
+    "keywords": [
+      "desert",
+      "heat",
+      "water",
+      "dehydration",
+      "shade",
+      "sun"
+    ],
+    "priority": "critical",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "id": "SURV004-1",
+    "title": "Finding North (Sun and Shadows)",
+    "text": "Finding North (Sun and Shadows). Signs/Rights: Lost; No compass; Daytime with sunlight. Steps: Find a straight stick about 3 feet long and push it upright into flat ground | Mark the tip of the stick's shadow with a small stone (this is West) | Wait 15-30 minutes for the sun to move | Mark the new position of the shadow's tip with another stone (this is East) | Draw a straight line between the two stones. Stand with the first stone on your left and the second on your right; you are now facing True North. Avoid: Do not use a curved stick | Do not move the stick during the process | Do not rely on this near the equator (it is less accurate).",
+    "category": "survival",
+    "keywords": [
+      "navigation",
+      "compass",
+      "lost",
+      "north",
+      "shadow stick",
+      "sun"
+    ],
+    "priority": "medium",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "id": "SURV004-2",
+    "title": "Finding North (Stars)",
+    "text": "Finding North (Stars). Signs/Rights: Lost; Nighttime; Clear sky; Northern Hemisphere. Steps: Locate the Big Dipper constellation (Ursa Major) | Find the two stars forming the outer edge of the Dipper's 'bowl' (the pointer stars) | Draw an imaginary line straight up from those two stars, about five times the distance between them | The star you hit is Polaris (the North Star), which is the tip of the Little Dipper's handle | Face Polaris; you are facing True North. Avoid: Do not confuse the Big Dipper with other formations | Do not rely on the position of the moon (it is complex to navigate by).",
+    "category": "survival",
+    "keywords": [
+      "navigation",
+      "stars",
+      "night",
+      "north star",
+      "polaris",
+      "lost"
+    ],
+    "priority": "medium",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "id": "SURV004-3",
+    "title": "Lost In Forest - Finding Direction",
+    "text": "Lost In Forest - Finding Direction. Signs/Rights: Lost in forest; Need to find direction. Steps: Determine direction before moving | Observe the position of the sun during daytime to estimate east and west directions | Look for natural landmarks such as rivers, trails, hills and clearings | Follow marked paths when available | If carrying a compass, verify direction periodically. Avoid: Avoid moving in circles by selecting a fixed distant object as a reference point while walking.",
+    "category": "survival",
+    "keywords": [
+      "direction",
+      "navigation",
+      "sun",
+      "trail",
+      "forest",
+      "landmark",
+      "compass",
+      "orientation"
+    ],
+    "priority": "high",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "id": "SURV007-1",
+    "title": "FEMA Go-Bag (Evacuation Kit)",
+    "text": "FEMA Go-Bag (Evacuation Kit). Signs/Rights: Preparing for emergencies; Evacuation order issued. Steps: Pack 1 gallon of water per person per day (3-day supply) | Pack a 3-day supply of non-perishable food | Include a battery-powered or hand-crank radio (NOAA Weather Radio) | Include a flashlight with extra batteries | Pack a First Aid kit, whistle, dust mask, moist towelettes, and garbage bags | Include local maps, a manual can opener, and a cell phone with backup chargers | Store copies of important documents in a waterproof container. Avoid: Do not pack heavy canned goods if you are traveling on foot | Do not forget medications and pet supplies | Do not leave the kit in an inaccessible place.",
+    "category": "survival",
+    "keywords": [
+      "fema",
+      "go bag",
+      "bug out bag",
+      "evacuation",
+      "kit",
+      "supplies",
+      "disaster"
+    ],
+    "priority": "low",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "id": "SURV014-1",
+    "title": "During an Earthquake",
+    "text": "During an Earthquake. Signs/Rights: Ground shaking; Things falling. Steps: Drop, Cover, and Hold On | Drop to your hands and knees | Cover your head and neck with your arms, and crawl under a sturdy desk or table if nearby | Hold On to your shelter until the shaking stops | If in bed, stay there and cover your head with a pillow | If outside, move away from buildings, streetlights, and utility wires. Avoid: Do not run outside during the shaking | Do not stand in a doorway (they are not stronger than the rest of the building and do not protect from falling debris) | Do not use elevators.",
+    "category": "survival",
+    "keywords": [
+      "earthquake",
+      "shaking",
+      "fema",
+      "drop cover hold",
+      "seismic"
+    ],
+    "priority": "critical",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "id": "SURV027-1",
+    "title": "Battery and Steel Wool Fire",
+    "text": "Battery and Steel Wool Fire. Signs/Rights: Need fire; Have a 9-volt or AA batteries and fine steel wool. Steps: Prepare a tinder bundle (dry grass, cotton, dryer lint) and place the steel wool in the center | Take a 9-volt battery and rub both terminals against the steel wool | The steel wool will short-circuit the battery and immediately glow red-hot | Blow gently into the tinder bundle until it catches flame. Avoid: Do not do this in high winds without shielding the spark | Do not use coarse steel wool (it requires very fine, e.g., 0000 grade).",
+    "category": "survival",
+    "keywords": [
+      "fire",
+      "battery",
+      "steel wool",
+      "spark",
+      "tinder"
+    ],
+    "priority": "high",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "id": "SURV003-1",
+    "title": "Starting a Fire (Friction/Bow Drill)",
+    "text": "Starting a Fire (Friction/Bow Drill). Signs/Rights: Cold; Need to boil water; No matches or lighter. Steps: Gather dry tinder (bird nests, dry grass, shaved bark) | Create a bow using a flexible branch and a shoelace or cord | Make a fireboard from dry, soft wood with a small notch | Carve a straight, hard wood spindle | Use a bearing block (stone or hard wood) to hold the top of the spindle | Wrap the bowstring around the spindle and move the bow back and forth rapidly to create friction | Once an ember forms, drop it into the tinder bundle and blow gently until it ignites. Avoid: Do not use wet or green wood | Do not blow too hard and extinguish the ember | Do not give up quickly (friction fires require stamina).",
+    "category": "survival",
+    "keywords": [
+      "fire",
+      "bow drill",
+      "friction",
+      "tinder",
+      "ember",
+      "warmth"
+    ],
+    "priority": "high",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "id": "SURV003-2",
+    "title": "Fire Safety and Extinguishing",
+    "text": "Fire Safety and Extinguishing. Signs/Rights: Leaving camp; Dry conditions. Steps: Clear a 10-foot radius around your fire pit of all flammable material | Keep the fire small and manageable | To extinguish, drown the fire with water | Stir the ashes and embers with dirt and more water | Feel the ashes with the back of your hand to ensure it is completely cold before leaving. Avoid: Do not leave a fire unattended | Do not build a fire on peaty soil (fire can burn underground) | Do not use river rocks (they can explode when heated).",
+    "category": "survival",
+    "keywords": [
+      "fire",
+      "safety",
+      "extinguish",
+      "wildfire",
+      "camp"
+    ],
+    "priority": "high",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "id": "SURV008-1",
+    "title": "Universal Edibility Test (Plants)",
+    "text": "Universal Edibility Test (Plants). Signs/Rights: Starving; No known food sources; Considering wild plants. Steps: Separate the plant into parts (roots, stems, leaves, buds) | Smell it (discard if it smells like almonds or peaches) | Test on skin (rub on wrist, wait 15 mins for reaction) | Prepare a small piece (boil if possible) | Touch to lips (wait 3 mins) | Touch to tongue (wait 15 mins) | Chew and hold in mouth (wait 15 mins) | Swallow a small amount (wait 8 hours). If no sickness occurs, eat a slightly larger amount. Avoid: Do not eat plants with milky sap, umbrella-shaped flower clusters, or pods with beans/seeds unless positively identified | Do not skip any steps of the edibility test | Do not test on a full stomach.",
+    "category": "survival",
+    "keywords": [
+      "food",
+      "foraging",
+      "plants",
+      "edibility",
+      "starvation",
+      "wild"
+    ],
+    "priority": "medium",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "id": "SURV015-1",
+    "title": "Hurricane and Flooding Readiness",
+    "text": "Hurricane and Flooding Readiness. Signs/Rights: Hurricane warning; Rising waters. Steps: Board up windows or close storm shutters | Bring outdoor furniture and garbage cans inside | Turn off propane tanks and unplug small appliances | Evacuate immediately if ordered to do so, following designated routes | If trapped by flooding, move to the highest level of the building, but do not climb into a closed attic (you may become trapped). Avoid: Do not walk, swim, or drive through floodwaters ('Turn Around, Don't Drown') | Do not drink tap water until authorities declare it safe | Do not return home until the area is declared safe.",
+    "category": "survival",
+    "keywords": [
+      "hurricane",
+      "flood",
+      "fema",
+      "storm",
+      "water",
+      "evacuation"
+    ],
+    "priority": "high",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "id": "SURV020-1",
+    "title": "Creating a Cutting Tool (Flint Knapping)",
+    "text": "Creating a Cutting Tool (Flint Knapping). Signs/Rights: Need a knife; Have glass, flint, obsidian, or quartz. Steps: Find a brittle stone like flint, chert, obsidian, or use the thick glass bottom of a broken bottle | Use a harder, round 'hammerstone' to strike the edge of the material at a downward angle | Flake off thin, razor-sharp pieces | Use the flakes directly for cutting meat, cordage, or carving wood | Wrap the dull side of the flake in leather or cloth to protect your hand. Avoid: Do not strike without eye protection if possible (squint or look away upon impact).",
+    "category": "survival",
+    "keywords": [
+      "knife",
+      "tool",
+      "flint",
+      "glass",
+      "cutting",
+      "blade",
+      "obsidian"
+    ],
+    "priority": "medium",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "id": "SURV018-1",
+    "title": "Jungle Navigation and Movement",
+    "text": "Jungle Navigation and Movement. Signs/Rights: Dense tropical rainforest; Disoriented. Steps: Travel slowly and deliberately (the jungle is easy to get lost in and full of tripping hazards) | Follow water downstream (streams lead to rivers, rivers lead to civilization) | Use a walking stick to part vegetation and check for snakes before stepping | Check yourself daily for leeches, ticks, and fungal infections. Avoid: Do not grab vegetation to pull yourself up (many plants have thorns or venomous insects hiding on them) | Do not sleep directly on the jungle floor (build a raised platform bed).",
+    "category": "survival",
+    "keywords": [
+      "jungle",
+      "rainforest",
+      "tropical",
+      "navigation",
+      "vines",
+      "leeches"
+    ],
+    "priority": "critical",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "id": "SURV018-2",
+    "title": "Extracting Water from Vines",
+    "text": "Extracting Water from Vines. Signs/Rights: Thirst in a jungle environment. Steps: Locate thick, woody vines extending into the canopy | Cut a deep notch high up on the vine, then cut the vine completely off near the ground | Let the clear liquid drip from the bottom cut into your mouth or a container | If the liquid is cloudy, milky, or bitter, discard it immediately (it may be toxic). Avoid: Do not drink from vines with milky or colored sap | Do not cut the bottom first (capillary action will pull the water up into the canopy).",
+    "category": "survival",
+    "keywords": [
+      "water",
+      "vine",
+      "jungle",
+      "thirst",
+      "bamboo"
+    ],
+    "priority": "critical",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "id": "SURV006-1",
+    "title": "STOP Protocol (When you realize you are lost)",
+    "text": "STOP Protocol (When you realize you are lost). Signs/Rights: Disoriented; Off trail; Panic setting in. Steps: S - Stop: Sit down, halt all movement. Do not walk aimlessly. | T - Think: How did you get here? Which way were you facing? Where is the sun? | O - Observe: Look for landmarks, trails, or sounds of civilization. Check your supplies and physical condition. | P - Plan: Decide whether to stay put or self-rescue based on daylight, weather, and your physical state. | If it is near dark, start building a shelter immediately. Staying put is usually safer if someone knows your itinerary.. Avoid: Do not panic and run (you will get more lost and sweat, causing hypothermia) | Do not wander in the dark | Do not walk downhill blindly (it often leads to dangerous cliffs or dense brush, not always civilization).",
+    "category": "survival",
+    "keywords": [
+      "lost",
+      "forest",
+      "woods",
+      "stop",
+      "panic",
+      "disoriented"
+    ],
+    "priority": "high",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "id": "SURV006-2",
+    "title": "Lost In Forest - Immediate Response",
+    "text": "Lost In Forest - Immediate Response. Signs/Rights: Lost in forest; Disoriented. Steps: Remain calm and avoid panic | Stop unnecessary movement and assess the surroundings | Stay near recognizable landmarks when possible | Conserve resources such as water, food, clothing and daylight | Observe the environment and plan actions carefully before moving. Avoid: Random walking may increase the distance from rescue routes and waste energy.",
+    "category": "survival",
+    "keywords": [
+      "forest",
+      "lost",
+      "trek",
+      "survival",
+      "navigation",
+      "landmark"
+    ],
+    "priority": "high",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "id": "SURV011-1",
+    "title": "Surviving the Night Without Gear",
+    "text": "Surviving the Night Without Gear. Signs/Rights: Lost; Sun is setting; No camping gear; Dropping temperatures. Steps: Stop moving at least 2 hours before dark | Prioritize finding shelter from the wind (a rock overhang, a fallen tree, or dense evergreens) | Insulate your body from the cold ground using thick layers of dry leaves or pine boughs | Stuff your clothing with dry leaves or grass for insulation | Huddle in a fetal position to conserve body heat | Stay awake and do isometric exercises (flexing muscles) to generate heat if you are shivering uncontrollably. Avoid: Do not attempt to hike in the dark (high risk of injury) | Do not lie directly on the cold ground | Do not sleep if you are severely hypothermic and alone.",
+    "category": "survival",
+    "keywords": [
+      "night",
+      "dark",
+      "cold",
+      "bivouac",
+      "insulation",
+      "sleep"
+    ],
+    "priority": "high",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "id": "SURV019-1",
+    "title": "Overcoming Panic and Fear",
+    "text": "Overcoming Panic and Fear. Signs/Rights: Overwhelming anxiety; Heart racing; Inability to think clearly; Feeling of hopelessness. Steps: Accept the reality of the situation (denial gets people killed) | Focus on immediate, achievable tasks (e.g., 'I just need to build a fire right now') | Talk to yourself out loud to maintain focus and combat loneliness | Remember that humans are highly resilient and capable of surviving extreme conditions | Maintain a positive mental attitude (PMA); it is the single most important survival tool. Avoid: Do not give up (apathy is a killer) | Do not focus on the 'big picture' if it causes despair; break survival into small steps.",
+    "category": "survival",
+    "keywords": [
+      "fear",
+      "panic",
+      "psychology",
+      "mental",
+      "attitude",
+      "hope",
+      "give up"
+    ],
+    "priority": "critical",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "id": "SURV010-1",
+    "title": "Fording a Fast-Flowing River",
+    "text": "Fording a Fast-Flowing River. Signs/Rights: Must cross a river; No bridge; Fast current. Steps: Scout for the widest, shallowest part of the river (avoid narrow, deep, fast sections) | Keep your boots on to protect your feet, but remove your pants to reduce drag | Unbuckle your backpack waist strap (so you can ditch it if you fall) | Find a sturdy stick to use as a third leg for balance | Face upstream and cross at a slight angle downstream | Shuffle sideways, maintaining two points of contact at all times. Avoid: Do not cross if the water is above your knees and moving fast | Do not cross barefoot | Do not tie yourself to a rope stretched across the river (it can pull you under).",
+    "category": "survival",
+    "keywords": [
+      "river",
+      "crossing",
+      "ford",
+      "water",
+      "current",
+      "drowning"
+    ],
+    "priority": "high",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "id": "SURV017-1",
+    "title": "Stranded in Open Water (Life Raft)",
+    "text": "Stranded in Open Water (Life Raft). Signs/Rights: Shipwreck or plane crash at sea; Aboard a life raft. Steps: Deploy the sea anchor to stabilize the raft and stay near the crash site for rescuers | Rig a shade canopy to protect from intense sun | Keep the raft dry by bailing out water | Collect rainwater using the canopy or containers | Maintain a continuous watch for ships, aircraft, and land. Avoid: DO NOT DRINK SEAWATER (it will kill you through kidney failure) | Do not drink urine | Do not eat fish or birds unless you have a steady supply of drinking water (digestion consumes water).",
+    "category": "survival",
+    "keywords": [
+      "ocean",
+      "sea",
+      "raft",
+      "water",
+      "seawater",
+      "stranded",
+      "marine"
+    ],
+    "priority": "critical",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "id": "SURV017-2",
+    "title": "Floating without a Raft (Drownproofing)",
+    "text": "Floating without a Raft (Drownproofing). Signs/Rights: In deep water; No flotation device; Exhaustion. Steps: Take a deep breath and let your body hang limp vertically in the water | Allow your face to submerge while your lungs keep you buoyant | When you need to breathe, raise your arms, part your legs, and push down gently to lift your mouth above the surface | Exhale rapidly, inhale deeply, and return to the relaxed limp position | If wearing pants, tie the legs in a knot, sweep air into the waist, and use it as a makeshift float. Avoid: Do not panic and thrash (you will sink and exhaust yourself) | Do not try to keep your head above water constantly if you are tired.",
+    "category": "survival",
+    "keywords": [
+      "drowning",
+      "floating",
+      "ocean",
+      "water",
+      "drownproofing"
+    ],
+    "priority": "critical",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "id": "SURV002-1",
+    "title": "Debris Hut (Cold Weather)",
+    "text": "Debris Hut (Cold Weather). Signs/Rights: Stranded overnight; Cold weather approaching; No tent. Steps: Find a sturdy ridgepole (a long, strong branch) and rest one end on a stump or low tree fork | Lean thick branches against both sides of the ridgepole to create a rib-like frame | Pile at least 2-3 feet of dry leaves, pine needles, or grass over the frame for insulation | Stuff the inside of the hut with dry leaves to act as a mattress and blanket | Crawl inside and pull debris in to block the entrance. Avoid: Do not build in a dry riverbed (flash flood risk) | Do not build directly under dead trees/branches ('widowmakers') | Do not make the inside too large (it won't retain body heat).",
+    "category": "survival",
+    "keywords": [
+      "shelter",
+      "debris hut",
+      "cold",
+      "insulation",
+      "sleep",
+      "warmth",
+      "wilderness"
+    ],
+    "priority": "high",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "id": "SURV002-2",
+    "title": "Lean-To Shelter (Reflector)",
+    "text": "Lean-To Shelter (Reflector). Signs/Rights: Need a quick shelter; Planning to build a fire for warmth. Steps: Tie or wedge a strong horizontal pole between two trees | Lean branches against the pole on the windward side at a 45-degree angle | Weave smaller branches horizontally through the frame | Cover the roof with leaves, pine boughs, or a tarp to shed rain | Build a small fire on the open side so the lean-to reflects heat onto you. Avoid: Do not build the fire too close to the shelter | Do not face the opening into the wind.",
+    "category": "survival",
+    "keywords": [
+      "shelter",
+      "lean-to",
+      "fire reflector",
+      "windbreak",
+      "tarp"
+    ],
+    "priority": "critical",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "id": "SURV002-3",
+    "title": "Lost In Forest - Shelter Building",
+    "text": "Lost In Forest - Shelter Building. Signs/Rights: Lost in forest; Approaching nightfall. Steps: Construct shelter before nightfall to protect against weather, wind and temperature changes | Select elevated ground that is dry and safe from falling branches or flooding | Use available materials such as leaves, branches, grass and cloth to create insulation | Keep the shelter compact to retain body heat | Place dry leaves or vegetation beneath the body to insulate from the cold ground. Avoid: Avoid sleeping directly on cold ground.",
+    "category": "survival",
+    "keywords": [
+      "shelter",
+      "forest",
+      "weather",
+      "insulation",
+      "branches",
+      "leaves",
+      "cold",
+      "night",
+      "survival"
+    ],
+    "priority": "critical",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "id": "SURV002-4",
+    "title": "Shelter Building - Importance and Site Selection",
+    "text": "Shelter Building - Importance and Site Selection. Signs/Rights: Need to build a shelter; Looking for a safe location. Steps: Select a safe location to protect the body from cold, rain, wind and extreme heat | Choose elevated ground that is dry and away from flood zones, falling branches and animal paths. Avoid: Avoid valleys where cold air collects | Avoid areas near unstable trees or rocks.",
+    "category": "survival",
+    "keywords": [
+      "shelter",
+      "survival",
+      "site selection",
+      "forest",
+      "cold",
+      "rain",
+      "protection",
+      "temperature"
+    ],
+    "priority": "critical",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "id": "SURV002-5",
+    "title": "Shelter Building - Materials and Construction Basics",
+    "text": "Shelter Building - Materials and Construction Basics. Signs/Rights: Ready to construct shelter. Steps: Use natural materials such as branches, leaves, grass, mud, and bark | Use strong branches as the main frame structure | Use smaller sticks and leaves to provide insulation and cover | Keep the shelter compact to retain body heat | Build a simple lean-to or A-frame structure for quick protection | Always ensure the shelter is stable and does not collapse under wind or weight. Avoid: Do not build a shelter that is too large, as it will fail to retain body heat.",
+    "category": "survival",
+    "keywords": [
+      "shelter",
+      "branches",
+      "leaves",
+      "forest",
+      "construction",
+      "survival",
+      "insulation",
+      "lean-to"
+    ],
+    "priority": "critical",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "id": "SURV002-6",
+    "title": "Shelter Building - Insulation and Weather Protection",
+    "text": "Shelter Building - Insulation and Weather Protection. Signs/Rights: Cold environment; Need warmth in shelter. Steps: Use dry leaves, grass, and pine needles as insulation material between the body and the ground to reduce heat loss | Cover openings using leaves or branches to block wind and rain | Ensure there is enough ventilation to avoid suffocation | In cold environments, reduce air gaps to help retain warmth | In hot environments, increase ventilation to prevent overheating. Avoid: Do not seal the shelter completely; suffocation is a severe risk if there is no ventilation.",
+    "category": "survival",
+    "keywords": [
+      "insulation",
+      "shelter",
+      "cold",
+      "heat",
+      "weather",
+      "survival",
+      "leaves",
+      "wind protection"
+    ],
+    "priority": "critical",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "id": "SURV002-7",
+    "title": "Shelter Building - Emergency Shelter Types",
+    "text": "Shelter Building - Emergency Shelter Types. Signs/Rights: Deciding which shelter to build. Steps: Lean-to shelter: Built by leaning branches against a strong support like a tree or log | A-frame shelter: Made by forming a triangular structure using two main poles | Debris hut: Uses natural materials like leaves and branches to fully cover the body for insulation | Prioritize quick and simple structures over complex designs in emergencies. Avoid: Do not waste time building complex structures if time and daylight are limited.",
+    "category": "survival",
+    "keywords": [
+      "shelter",
+      "lean-to",
+      "a-frame",
+      "debris hut",
+      "survival",
+      "forest",
+      "emergency",
+      "construction"
+    ],
+    "priority": "critical",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "id": "SURV005-1",
+    "title": "Visual Signaling (Daytime)",
+    "text": "Visual Signaling (Daytime). Signs/Rights: Stranded; Search and rescue expected; Daylight. Steps: Build three fires in a triangle formation (the universal distress signal) | Once a plane or helicopter is heard, throw green leaves, pine boughs, or damp wood on the fire to create thick white smoke | Use a signal mirror or shiny object (CD, foil) to flash sunlight at passing planes or distant ridges | Create a large 'X' or 'SOS' on the ground using highly contrasting materials (dark rocks on snow, or bright clothes on dirt). Avoid: Do not light signal fires until you hear or see potential rescuers | Do not point a laser pointer at aircraft (it is illegal and blinding).",
+    "category": "survival",
+    "keywords": [
+      "signal",
+      "rescue",
+      "smoke",
+      "mirror",
+      "sos",
+      "lost"
+    ],
+    "priority": "high",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "id": "SURV005-2",
+    "title": "Lost In Forest - Signaling And Rescue",
+    "text": "Lost In Forest - Signaling And Rescue. Signs/Rights: Lost in forest; Need rescue. Steps: Increase visibility for rescuers once a safe location is established | Use whistles, mirrors, flashlights or bright-colored clothing for signaling | Create visible ground markers using stones, branches or logs in open areas | Smoke from controlled fires may assist rescuers during daytime | Stay near signaling locations and respond immediately to sounds of rescue teams or vehicles. Avoid: Avoid unnecessary movement once a safe location is established.",
+    "category": "survival",
+    "keywords": [
+      "rescue",
+      "signal",
+      "whistle",
+      "mirror",
+      "smoke",
+      "visibility",
+      "search",
+      "forest",
+      "help",
+      "survival"
+    ],
+    "priority": "high",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "id": "SURV016-1",
+    "title": "Simple Snare",
+    "text": "Simple Snare. Signs/Rights: Need food; Found animal trails or runs. Steps: Find a natural funnel or animal trail (look for tracks, scat, or chewed vegetation) | Use wire, parachute cord inner strands, or strong string to make a loop | Tie the snare securely to a solid anchor (tree or heavy drag log) | Suspend the loop over the trail using small twigs to prop it open | Place the snare at head-height of the target animal (e.g., fist width for a rabbit). Avoid: Do not touch the snare area excessively (human scent deters animals) | Do not use weak cordage that an animal can easily chew through | Do not set snares where you cannot check them daily.",
+    "category": "survival",
+    "keywords": [
+      "snare",
+      "trap",
+      "food",
+      "rabbit",
+      "hunting",
+      "wire"
+    ],
+    "priority": "medium",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "id": "SURV016-2",
+    "title": "Figure-4 Deadfall Trap",
+    "text": "Figure-4 Deadfall Trap. Signs/Rights: Need food; No wire or cordage available; Have access to a heavy rock or log. Steps: Carve three sticks: an upright stick, a diagonal release stick, and a horizontal bait stick | Notch the sticks so they interlock in a '4' shape | Balance a heavy flat rock or log on the diagonal release stick | Place bait on the horizontal stick underneath the weight | When an animal bumps the bait stick, the '4' collapses, dropping the weight. Avoid: Do not construct the trap without keeping your hands clear of the falling weight | Do not use a weight that is too light (must crush the target instantly).",
+    "category": "survival",
+    "keywords": [
+      "trap",
+      "deadfall",
+      "figure 4",
+      "hunting",
+      "food",
+      "rock"
+    ],
+    "priority": "medium",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "id": "SURV024-1",
+    "title": "Tsunami Warning or Signs",
+    "text": "Tsunami Warning or Signs. Signs/Rights: Felt a strong earthquake near the coast; Ocean water rapidly recedes; Loud roaring sound from the ocean. Steps: Do not wait for an official warning if you feel a strong earthquake; evacuate immediately | Move to higher ground (at least 100 feet above sea level) or go inland as far as possible (at least 2 miles) | If trapped, climb to the highest floor or roof of a sturdy, reinforced concrete building | If swept into the water, grab onto a floating object (raft, tree trunk, door). Avoid: Do not go to the beach to watch the waves | Do not assume the danger is over after one wave (tsunamis are a series of waves, and later waves can be larger).",
+    "category": "survival",
+    "keywords": [
+      "tsunami",
+      "wave",
+      "ocean",
+      "earthquake",
+      "flooding",
+      "high ground"
+    ],
+    "priority": "critical",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "id": "SURV022-1",
+    "title": "Active Shooter / Riot Evasion",
+    "text": "Active Shooter / Riot Evasion. Signs/Rights: Gunfire heard; Violent mob approaching; Trapped in building. Steps: RUN: Have an escape route in mind, leave belongings behind, keep hands visible | HIDE: If you can't run, hide out of view. Lock and barricade doors with heavy furniture. Silence your cell phone and remain perfectly quiet. | FIGHT: As an absolute last resort, act with physical aggression, throw items, and commit to your actions to incapacitate the shooter. Avoid: Do not hide in groups (spread out) | Do not pull the fire alarm (it can force people into open hallways) | Do not argue with law enforcement (follow instructions immediately).",
+    "category": "survival",
+    "keywords": [
+      "shooter",
+      "gunfire",
+      "riot",
+      "mob",
+      "urban",
+      "barricade",
+      "hide"
+    ],
+    "priority": "critical",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "id": "SURV026-1",
+    "title": "Making a Transpiration Bag",
+    "text": "Making a Transpiration Bag. Signs/Rights: No surface water; Abundant leafy trees/bushes; Have a clear plastic bag. Steps: Find a living, healthy branch with plenty of leaves in direct sunlight | Place a clear plastic bag over the branch, enclosing as many leaves as possible | Tie the mouth of the bag tightly around the branch | Place a small rock inside the bag to create a low point where water will collect | Leave it for several hours as the sun causes the leaves to 'sweat' (transpire) pure water. Avoid: Do not use poisonous plants (e.g., oleander) | Do not leave the bag on for more than 2-3 days (the branch will die).",
+    "category": "survival",
+    "keywords": [
+      "water",
+      "transpiration",
+      "bag",
+      "leaves",
+      "condensation",
+      "thirst"
+    ],
+    "priority": "medium",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "id": "SURV001-1",
+    "title": "Boiling Water",
+    "text": "Boiling Water. Signs/Rights: Found a natural water source; No modern filtration available. Steps: Filter the water through a cloth to remove large debris | Bring the water to a rolling boil over a fire or stove | Maintain the rolling boil for at least 1 minute (3 minutes at high altitudes above 6,500 feet) | Let the water cool naturally before drinking | Store in clean containers. Avoid: Do not drink stagnant water | Do not assume clear water is safe | Do not shorten the boiling time.",
+    "category": "survival",
+    "keywords": [
+      "water",
+      "purification",
+      "boil",
+      "pathogens",
+      "hydration",
+      "drink"
+    ],
+    "priority": "critical",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "id": "SURV001-2",
+    "title": "Chemical Purification (Iodine/Bleach)",
+    "text": "Chemical Purification (Iodine/Bleach). Signs/Rights: Cannot start a fire; Have access to household bleach or iodine tablets. Steps: Filter water through a cloth to remove sediment | For liquid bleach (unscented, 5-9% sodium hypochlorite): add 2 drops per quart (liter) of water | Stir and let stand for 30 minutes. Water should have a slight chlorine odor | For iodine tablets: follow package instructions (usually 2 tablets per quart) | Let sit for at least 30 minutes before drinking. Avoid: Do not use scented, color-safe, or added-cleaner bleach | Do not use iodine continuously for more than a few weeks | Pregnant women should avoid iodine.",
+    "category": "survival",
+    "keywords": [
+      "water",
+      "bleach",
+      "iodine",
+      "chemical",
+      "purify",
+      "disinfect"
+    ],
+    "priority": "critical",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "id": "SURV001-3",
+    "title": "Lost In Forest - Water Procurement",
+    "text": "Lost In Forest - Water Procurement. Signs/Rights: Thirst; Lost in forest. Steps: Search for moving water sources such as streams and flowing rivers when available | Purify water before consumption whenever possible by boiling, filtering or using purification tablets | Collect rainwater if available | Reduce unnecessary physical activity to minimize dehydration and conserve body fluids. Avoid: Avoid drinking stagnant or contaminated water directly.",
+    "category": "survival",
+    "keywords": [
+      "water",
+      "dehydration",
+      "stream",
+      "river",
+      "purification",
+      "rainwater",
+      "survival",
+      "hydration"
+    ],
+    "priority": "critical",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "id": "SURV001-4",
+    "title": "Water Purification - Safe Water Sources",
+    "text": "Water Purification - Safe Water Sources. Signs/Rights: Looking for safe water. Steps: Prefer flowing water sources such as streams and rivers over stagnant water | Rainwater collected directly is generally safer than standing water | Water from ponds and stagnant pools must be purified before use. Avoid: Avoid water sources containing unusual color, odor, foam or visible contamination.",
+    "category": "survival",
+    "keywords": [
+      "water",
+      "purification",
+      "stream",
+      "river",
+      "rainwater",
+      "contamination",
+      "survival",
+      "hydration",
+      "safe water"
+    ],
+    "priority": "critical",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "id": "SURV001-5",
+    "title": "Water Purification - Boiling Method",
+    "text": "Water Purification - Boiling Method. Signs/Rights: Need to kill microorganisms in water. Steps: Bring water to a rolling boil and maintain it for at least one minute | In high altitude areas, boil for at least three minutes | Allow the water to cool naturally before drinking | Store boiled water in a clean container to avoid recontamination. Avoid: Boiling does not remove chemical pollutants (only effective against bacteria, viruses, parasites).",
+    "category": "survival",
+    "keywords": [
+      "boil",
+      "water",
+      "purification",
+      "microorganisms",
+      "bacteria",
+      "virus",
+      "survival",
+      "safe drinking"
+    ],
+    "priority": "critical",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "id": "SURV001-6",
+    "title": "Water Purification - Filtration Methods",
+    "text": "Water Purification - Filtration Methods. Signs/Rights: Water is dirty or suspended particles are present. Steps: Filter water using cloth, sand, gravel, or commercial filters | Create a simple improvised filter by layering cloth, charcoal, sand, and small stones | After filtration, water should be boiled if possible for complete purification. Avoid: Avoid drinking directly filtered water from unknown sources without boiling (filtration does not guarantee removal of pathogens).",
+    "category": "survival",
+    "keywords": [
+      "filter",
+      "water",
+      "charcoal",
+      "sand",
+      "gravel",
+      "purification",
+      "survival",
+      "clean water"
+    ],
+    "priority": "critical",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "id": "SURV001-7",
+    "title": "Water Purification - Rainwater and Storage Safety",
+    "text": "Water Purification - Rainwater and Storage Safety. Signs/Rights: Collecting rainwater. Steps: Use clean containers to collect rainwater | Always store water in covered containers to prevent dust, insects and bacteria from entering | It is recommended to boil or filter rainwater before drinking for maximum safety. Avoid: Avoid contamination from roofs or dirty surfaces during collection.",
+    "category": "survival",
+    "keywords": [
+      "rainwater",
+      "storage",
+      "container",
+      "purification",
+      "safe water",
+      "survival",
+      "contamination"
+    ],
+    "priority": "critical",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "id": "SURV009-1",
+    "title": "Lightning Storm in Wilderness",
+    "text": "Lightning Storm in Wilderness. Signs/Rights: Thunder heard; Dark clouds; Hair standing on end. Steps: Descend from ridges, peaks, and elevated areas immediately | Move away from tall, isolated trees, bodies of water, and metal objects | Seek a low-lying area, dense forest of small trees, or a deep cave (stay away from the entrance) | Assume the 'Lightning Crouch': squat down on the balls of your feet, tuck your head, and cover your ears. Make yourself as small as possible while minimizing contact with the ground. Avoid: Do not lie flat on the ground (ground current can travel through you) | Do not stand near water | Do not shelter under an isolated tree | Do not stay in a large group (spread out 15-50 feet apart).",
+    "category": "survival",
+    "keywords": [
+      "lightning",
+      "storm",
+      "thunder",
+      "weather",
+      "crouch",
+      "strike"
+    ],
+    "priority": "critical",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  },
+  {
+    "id": "SURV025-1",
+    "title": "Trapped in a Vehicle by Wildfire",
+    "text": "Trapped in a Vehicle by Wildfire. Signs/Rights: Road blocked by fire; Flames approaching vehicle. Steps: Park the vehicle in an area clear of heavy vegetation (bare dirt or rocks is best) | Close all windows and vents, turn off the AC to prevent drawing in smoke | Leave headlights and hazard lights on | Get below the window level and cover yourself with a wool blanket or jacket (NOT synthetic materials which melt) | Wait for the fire front to pass over the vehicle. Avoid: Do not drive blindly through heavy smoke | Do not abandon the vehicle for a body of water unless it is extremely large and deep (water boils and heat radiates).",
+    "category": "survival",
+    "keywords": [
+      "wildfire",
+      "fire",
+      "car",
+      "trapped",
+      "smoke",
+      "evacuation"
+    ],
+    "priority": "critical",
+    "source": "US Army FM 3-05.70 / FEMA / curated"
+  }
+]

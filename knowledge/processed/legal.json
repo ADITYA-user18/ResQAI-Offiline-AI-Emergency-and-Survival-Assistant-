@@ -1,0 +1,179 @@
+[
+  {
+    "id": "LEG003-1",
+    "title": "Fundamental Rights (Basic Awareness)",
+    "text": "Fundamental Rights (Basic Awareness). Signs/Rights: Right to Equality: Protection against discrimination on grounds of religion, race, caste, sex or place of birth (Article 15); Right to Freedom of Speech and Expression (Article 19); Protection of Life and Personal Liberty (Article 21) - No person shall be deprived of life or personal liberty except according to procedure established by law; Right against Exploitation (Articles 23 & 24). Avoid: Do not use Freedom of Speech to incite violence or disturb public order | Do not assume rights are absolute (they are subject to reasonable restrictions by the State). Emergency Numbers: 112.",
+    "category": "legal",
+    "keywords": [
+      "constitution",
+      "rights",
+      "freedom",
+      "equality",
+      "liberty",
+      "citizen"
+    ],
+    "priority": "low",
+    "source": "NDMA / NALSA / Constitution of India"
+  },
+  {
+    "id": "LEG005-1",
+    "title": "Cybercrime Reporting & Safety",
+    "text": "Cybercrime Reporting & Safety. Signs/Rights: Right to report cybercrimes anonymously on the National Cyber Crime Reporting Portal (cybercrime.gov.in); Immediate banking protection: Report financial fraud within 3 days to avoid liability; Protection against non-consensual sharing of intimate images (IT Act). Avoid: Do not delete evidence (keep screenshots, URLs, and transaction IDs) | Do not engage with blackmailers or pay ransoms. Emergency Numbers: 1930 (National Cyber Crime Helpline).",
+    "category": "legal",
+    "keywords": [
+      "cyber",
+      "fraud",
+      "scam",
+      "hacking",
+      "digital",
+      "blackmail",
+      "online"
+    ],
+    "priority": "medium",
+    "source": "NDMA / NALSA / Constitution of India"
+  },
+  {
+    "id": "LEG007-1",
+    "title": "National Emergency Numbers (India)",
+    "text": "National Emergency Numbers (India). Signs/Rights: All citizens have the right to access these toll-free numbers from any mobile network, even without a SIM card or active balance. Avoid: Do not make prank calls to emergency numbers | Do not hang up if you call by mistake (stay on the line and explain). Emergency Numbers: 112 (National Emergency - Police, Fire, Medical), 100 (Police), 101 (Fire Brigade), 102 (Ambulance), 108 (Emergency Disaster Management), 1091 (Women Helpline), 1098 (Childline), 1078 (National Disaster Response Force - NDRF).",
+    "category": "legal",
+    "keywords": [
+      "numbers",
+      "call",
+      "help",
+      "sos",
+      "helpline",
+      "emergency"
+    ],
+    "priority": "critical",
+    "source": "NDMA / NALSA / Constitution of India"
+  },
+  {
+    "id": "LEG006-1",
+    "title": "Free Legal Aid Services (NALSA)",
+    "text": "Free Legal Aid Services (NALSA). Signs/Rights: Women, children, members of SC/ST, industrial workmen, and victims of mass disaster/violence are entitled to FREE legal services; Persons with an annual income below a certain threshold (varies by state) are eligible; Right to free legal representation, payment of court fees, and drafting of legal documents. Avoid: Do not pay bribes or hidden fees to a court-appointed legal aid lawyer. Emergency Numbers: 15100 (NALSA National Helpline).",
+    "category": "legal",
+    "keywords": [
+      "lawyer",
+      "free",
+      "nalsa",
+      "court",
+      "legal aid",
+      "poor",
+      "help"
+    ],
+    "priority": "medium",
+    "source": "NDMA / NALSA / Constitution of India"
+  },
+  {
+    "id": "LEG008-1",
+    "title": "Earthquake Preparedness & Response (NDMA)",
+    "text": "Earthquake Preparedness & Response (NDMA). Signs/Rights: Right to state-provided relief and shelter in post-disaster scenarios; Drop, Cover, and Hold on during shaking; Move to open areas away from buildings and power lines if outdoors. Avoid: Do not use elevators during or immediately after an earthquake | Do not spread unverified rumors about upcoming tremors on social media. Emergency Numbers: 112, 1078 (NDRF).",
+    "category": "legal",
+    "keywords": [
+      "earthquake",
+      "ndma",
+      "shaking",
+      "collapse",
+      "disaster"
+    ],
+    "priority": "high",
+    "source": "NDMA / NALSA / Constitution of India"
+  },
+  {
+    "id": "LEG009-1",
+    "title": "Flood Response & Evacuation (NDMA)",
+    "text": "Flood Response & Evacuation (NDMA). Signs/Rights: Right to access government relief camps; Right to rescue operations organized by NDRF and state authorities. Avoid: Do not walk or drive through moving water (Turn Around, Don't Drown) | Do not touch electrical equipment if you are wet or standing in water. Emergency Numbers: 1078 (NDRF), 112 (Emergency).",
+    "category": "legal",
+    "keywords": [
+      "flood",
+      "water",
+      "ndma",
+      "drowning",
+      "evacuation",
+      "cyclone"
+    ],
+    "priority": "high",
+    "source": "NDMA / NALSA / Constitution of India"
+  },
+  {
+    "id": "LEG010-1",
+    "title": "Heatwave Protection (NDMA)",
+    "text": "Heatwave Protection (NDMA). Signs/Rights: Workers have the right to shaded resting areas and drinking water; Local governments often issue red alerts requiring specific occupational safety measures. Avoid: Avoid going out in the sun, especially between 12.00 noon and 3.00 p.m. | Avoid strenuous activities when the outside temperature is high | Avoid alcohol, tea, coffee, and carbonated soft drinks, which dehydrate the body. Emergency Numbers: 108 (Ambulance).",
+    "category": "legal",
+    "keywords": [
+      "heatwave",
+      "summer",
+      "sun",
+      "ndma",
+      "dehydration",
+      "heat stroke"
+    ],
+    "priority": "medium",
+    "source": "NDMA / NALSA / Constitution of India"
+  },
+  {
+    "id": "LEG001-1",
+    "title": "General Police Interaction & Arrest Rights",
+    "text": "General Police Interaction & Arrest Rights. Signs/Rights: Right to know the grounds of arrest (Section 50, CrPC); Right to be produced before a magistrate within 24 hours (Section 57, CrPC); Right to consult and be defended by a legal practitioner of your choice; Right to inform a relative or friend about the arrest; Right to free legal aid if you cannot afford a lawyer (NALSA guidelines). Avoid: Do not argue aggressively or use physical force against an officer | Do not run away if stopped for questioning | Do not sign any document or confession without reading it or consulting a lawyer. Emergency Numbers: 112 (National Emergency), 100 (Police).",
+    "category": "legal",
+    "keywords": [
+      "police",
+      "arrest",
+      "detention",
+      "rights",
+      "lawyer",
+      "crpc",
+      "cop"
+    ],
+    "priority": "high",
+    "source": "NDMA / NALSA / Constitution of India"
+  },
+  {
+    "id": "LEG001-2",
+    "title": "Women's Rights During Arrest",
+    "text": "Women's Rights During Arrest. Signs/Rights: Women can generally only be arrested by a female police officer; Women cannot be arrested after sunset and before sunrise (except in exceptional circumstances with a magistrate's written order); Right to be searched only by another woman with strict regard to decency. Avoid: Do not submit to an illegal nighttime arrest without asking for the magistrate's warrant. Emergency Numbers: 112, 1091 (Women Helpline).",
+    "category": "legal",
+    "keywords": [
+      "women",
+      "arrest",
+      "night",
+      "police",
+      "female officer"
+    ],
+    "priority": "high",
+    "source": "NDMA / NALSA / Constitution of India"
+  },
+  {
+    "id": "LEG004-1",
+    "title": "Good Samaritan Law",
+    "text": "Good Samaritan Law. Signs/Rights: A Good Samaritan (bystander who helps an accident victim) cannot be forced to reveal their identity or personal details; Protection from civil and criminal liability for taking a victim to the hospital; Hospitals cannot demand payment or delay treatment while waiting for police; Right to choose not to be a witness in the legal case. Avoid: Do not hesitate to help a victim due to fear of police harassment | Do not move a victim with a suspected spinal injury unless they are in immediate life-threatening danger (e.g., vehicle on fire). Emergency Numbers: 108 (Ambulance), 112 (National Emergency), 1033 (NHAI Highway Rescue).",
+    "category": "legal",
+    "keywords": [
+      "accident",
+      "good samaritan",
+      "help",
+      "hospital",
+      "bystander",
+      "crash"
+    ],
+    "priority": "high",
+    "source": "NDMA / NALSA / Constitution of India"
+  },
+  {
+    "id": "LEG002-1",
+    "title": "Emergency Help for Women",
+    "text": "Emergency Help for Women. Signs/Rights: Right to file a Zero FIR at any police station regardless of jurisdiction; Right to privacy during recording of statement; Right to free medical treatment in any hospital (public or private) for victims of sexual assault; Protection under the Protection of Women from Domestic Violence Act, 2005. Avoid: Do not wash clothes or bathe immediately if reporting an assault (preserves evidence) | Do not let police turn you away citing 'jurisdiction' issues (demand a Zero FIR). Emergency Numbers: 1091 (Women Helpline), 181 (Domestic Abuse), 112 (National Emergency), 1098 (Child/Young Girl in distress).",
+    "category": "legal",
+    "keywords": [
+      "women",
+      "harassment",
+      "domestic violence",
+      "zero fir",
+      "assault",
+      "safety"
+    ],
+    "priority": "critical",
+    "source": "NDMA / NALSA / Constitution of India"
+  }
+]
